@@ -77,6 +77,7 @@
       <Variable x:TypeArguments="swf:HtmlDocument[]" Name="Html" />
       <Variable x:TypeArguments="x:Int32" Name="Cont" />
       <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="UnreadMailList" />
+      <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="FilteredMailList" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -105,10 +106,16 @@
         </OutArgument>
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
-    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke ReadEmails workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="ReadEmails.xaml">
+    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke ReadEmails workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" UnSafe="False" WorkflowFileName="ReadEmails.xaml">
       <ui:InvokeWorkflowFile.Arguments>
         <InArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="in_MailList">
           <mva:VisualBasicValue x:TypeArguments="scg:List(snm:MailMessage)" ExpressionText="MailList" />
+        </InArgument>
+        <OutArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="out_FilteredMailList">
+          <mva:VisualBasicReference x:TypeArguments="scg:List(snm:MailMessage)" ExpressionText="FilteredMailList" />
+        </OutArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Filter">
+          <Literal x:TypeArguments="x:String">UiPath</Literal>
         </InArgument>
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
