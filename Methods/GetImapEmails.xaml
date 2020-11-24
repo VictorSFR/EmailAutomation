@@ -5,11 +5,12 @@
     <x:Property Name="in_Password" Type="InArgument(x:String)" />
     <x:Property Name="in_Email" Type="InArgument(x:String)" />
     <x:Property Name="out_MailList" Type="OutArgument(scg:List(snm:MailMessage))" />
+    <x:Property Name="out_UnreadMailList" Type="OutArgument(scg:List(snm:MailMessage))" />
   </x:Members>
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>713,538</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>803,538</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ReadImapEmails_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="21">
