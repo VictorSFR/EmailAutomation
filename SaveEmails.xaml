@@ -82,7 +82,7 @@
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="snm:MailMessage" Name="item" />
           </ActivityAction.Argument>
-          <Sequence sap2010:Annotation.AnnotationText="Substituindo caracteres especiais e salvando o email.&#xD;&#xA;" sap:VirtualizedContainerService.HintSize="200,123" sap2010:WorkflowViewState.IdRef="Sequence_7">
+          <Sequence sap2010:Annotation.AnnotationText="Substituindo caracteres especiais e salvando o email.&#xD;&#xA;" sap:VirtualizedContainerService.HintSize="376,1021" sap2010:WorkflowViewState.IdRef="Sequence_7">
             <Sequence.Variables>
               <Variable x:TypeArguments="x:String" Default="[item.Subject.ToString]" Name="Name" />
             </Sequence.Variables>
@@ -157,7 +157,6 @@
                 <InArgument x:TypeArguments="x:String">[Name.Replace("&amp;","-")]</InArgument>
               </Assign.Value>
             </Assign>
-            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,61" sap2010:WorkflowViewState.IdRef="WriteLine_5" Text="[&quot;C:\Users\supor\Documents\UiPath\EmailAutomation\Email\&quot;+Name+&quot;.eml&quot;]" />
             <ui:SaveMail DisplayName="Save Mail Message" FilePath="[&quot;C:\Users\supor\Documents\UiPath\EmailAutomation\Email\&quot;+Name+&quot;.eml&quot;]" sap:VirtualizedContainerService.HintSize="334,87" sap2010:WorkflowViewState.IdRef="SaveMail_8" MailMessage="[item]" />
           </Sequence>
         </ActivityAction>
