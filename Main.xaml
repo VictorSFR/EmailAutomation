@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="733,518" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:snm="clr-namespace:System.Net.Mail;assembly=System" xmlns:swf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="733,518" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:snm="clr-namespace:System.Net.Mail;assembly=System" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="32">
       <x:String>System.Activities</x:String>
@@ -74,8 +74,6 @@
   <Sequence sap:VirtualizedContainerService.HintSize="376,447" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="MailList" />
-      <Variable x:TypeArguments="swf:HtmlDocument[]" Name="Html" />
-      <Variable x:TypeArguments="x:Int32" Name="Cont" />
       <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="UnreadMailList" />
       <Variable x:TypeArguments="snm:MailMessage[]" Name="FilteredMailList" />
     </Sequence.Variables>
@@ -99,9 +97,7 @@
         <InArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="in_MailList">
           <mva:VisualBasicValue x:TypeArguments="scg:List(snm:MailMessage)" ExpressionText="MailList" />
         </InArgument>
-        <InArgument x:TypeArguments="x:String" x:Key="in_Filter">
-          <Literal x:TypeArguments="x:String">Dynatrace</Literal>
-        </InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Filter" />
         <OutArgument x:TypeArguments="snm:MailMessage[]" x:Key="out_FilteredMailList">
           <mva:VisualBasicReference x:TypeArguments="snm:MailMessage[]" ExpressionText="FilteredMailList" />
         </OutArgument>
