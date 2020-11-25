@@ -6,6 +6,7 @@
     <x:Property Name="in_Email" Type="InArgument(x:String)" />
     <x:Property Name="out_MailList" Type="OutArgument(scg:List(snm:MailMessage))" />
     <x:Property Name="out_UnreadMailList" Type="OutArgument(scg:List(snm:MailMessage))" />
+    <x:Property Name="in_Num" Type="InArgument(x:Int32)" />
   </x:Members>
   <mva:VisualBasic.Settings>
     <x:Null />
@@ -86,8 +87,8 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <ui:GetIMAPMailMessages TimeoutMS="{x:Null}" DeleteMessages="False" DisplayName="Get IMAP Mail Messages" Email="[in_Email]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="GetIMAPMailMessages_1" MailFolder="Inbox" MarkAsRead="False" Messages="[out_MailList]" OnlyUnreadMessages="False" Password="[in_Password]" Port="[in_Port]" SecureConnection="None" Server="[in_Server]" Top="30" />
-          <ui:GetIMAPMailMessages TimeoutMS="{x:Null}" DeleteMessages="False" DisplayName="Get IMAP Mail Messages" Email="[in_Email]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="GetIMAPMailMessages_2" MailFolder="Inbox" MarkAsRead="False" Messages="[out_UnreadMailList]" OnlyUnreadMessages="True" Password="[in_Password]" Port="[in_Port]" SecureConnection="None" Server="[in_Server]" Top="30" />
+          <ui:GetIMAPMailMessages TimeoutMS="{x:Null}" DeleteMessages="False" DisplayName="Get IMAP Mail Messages" Email="[in_Email]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="GetIMAPMailMessages_1" MailFolder="Inbox" MarkAsRead="False" Messages="[out_MailList]" OnlyUnreadMessages="False" Password="[in_Password]" Port="[in_Port]" SecureConnection="None" Server="[in_Server]" Top="[in_Num]" />
+          <ui:GetIMAPMailMessages TimeoutMS="{x:Null}" DeleteMessages="False" DisplayName="Get IMAP Mail Messages" Email="[in_Email]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="GetIMAPMailMessages_2" MailFolder="Inbox" MarkAsRead="False" Messages="[out_UnreadMailList]" OnlyUnreadMessages="True" Password="[in_Password]" Port="[in_Port]" SecureConnection="None" Server="[in_Server]" Top="[in_Num]" />
         </Sequence>
       </TryCatch.Try>
       <TryCatch.Catches>

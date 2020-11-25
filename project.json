@@ -5,6 +5,7 @@
   "dependencies": {
     "Aspose.Email": "[20.11.0]",
     "HtmlToPdf.Activities": "[1.4.6]",
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.System.Activities": "[20.10.1]",
