@@ -71,13 +71,13 @@
       <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="376,356" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap:VirtualizedContainerService.HintSize="376,447" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="MailList" />
       <Variable x:TypeArguments="swf:HtmlDocument[]" Name="Html" />
       <Variable x:TypeArguments="x:Int32" Name="Cont" />
       <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="UnreadMailList" />
-      <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="FilteredMailList" />
+      <Variable x:TypeArguments="snm:MailMessage[]" Name="FilteredMailList" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -86,38 +86,49 @@
     </sap:WorkflowViewStateService.ViewState>
     <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke ReadImapEmails workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Methods\GetImapEmails.xaml">
       <ui:InvokeWorkflowFile.Arguments>
-        <InArgument x:TypeArguments="x:String" x:Key="in_Server">
-          <Literal x:TypeArguments="x:String">imap.globalred.com.br</Literal>
-        </InArgument>
-        <InArgument x:TypeArguments="x:Int32" x:Key="in_Port">
-          <Literal x:TypeArguments="x:Int32" Value="143" />
-        </InArgument>
-        <InArgument x:TypeArguments="x:String" x:Key="in_Password">
-          <Literal x:TypeArguments="x:String">globalred</Literal>
-        </InArgument>
-        <InArgument x:TypeArguments="x:String" x:Key="in_Email">
-          <Literal x:TypeArguments="x:String">victor.franca@globalred.com.br</Literal>
-        </InArgument>
-        <OutArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="out_MailList">
-          <mva:VisualBasicReference x:TypeArguments="scg:List(snm:MailMessage)" ExpressionText="MailList" />
-        </OutArgument>
-        <OutArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="out_UnreadMailList">
-          <mva:VisualBasicReference x:TypeArguments="scg:List(snm:MailMessage)" ExpressionText="UnreadMailList" />
-        </OutArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Server">imap.globalred.com.br</InArgument>
+        <InArgument x:TypeArguments="x:Int32" x:Key="in_Port">143</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Password">globalred</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Email">victor.franca@globalred.com.br</InArgument>
+        <OutArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="out_MailList">[MailList]</OutArgument>
+        <OutArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="out_UnreadMailList">[UnreadMailList]</OutArgument>
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
-    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke ReadEmails workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" UnSafe="False" WorkflowFileName="ReadEmails.xaml">
+    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke ReadEmails workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_4" UnSafe="False" WorkflowFileName="ReadEmails.xaml">
       <ui:InvokeWorkflowFile.Arguments>
         <InArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="in_MailList">
           <mva:VisualBasicValue x:TypeArguments="scg:List(snm:MailMessage)" ExpressionText="MailList" />
         </InArgument>
-        <OutArgument x:TypeArguments="scg:List(snm:MailMessage)" x:Key="out_FilteredMailList">
-          <mva:VisualBasicReference x:TypeArguments="scg:List(snm:MailMessage)" ExpressionText="FilteredMailList" />
-        </OutArgument>
         <InArgument x:TypeArguments="x:String" x:Key="in_Filter">
-          <Literal x:TypeArguments="x:String">UiPath</Literal>
+          <Literal x:TypeArguments="x:String">Dynatrace</Literal>
         </InArgument>
+        <OutArgument x:TypeArguments="snm:MailMessage[]" x:Key="out_FilteredMailList">
+          <mva:VisualBasicReference x:TypeArguments="snm:MailMessage[]" ExpressionText="FilteredMailList" />
+        </OutArgument>
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
+    <ui:ForEach x:TypeArguments="snm:MailMessage" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[FilteredMailList]">
+      <ui:ForEach.Body>
+        <ActivityAction x:TypeArguments="snm:MailMessage">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="snm:MailMessage" Name="item" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="272,153" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[item.Subject.ToString]" />
+          </Sequence>
+        </ActivityAction>
+      </ui:ForEach.Body>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:ForEach>
   </Sequence>
 </Activity>
