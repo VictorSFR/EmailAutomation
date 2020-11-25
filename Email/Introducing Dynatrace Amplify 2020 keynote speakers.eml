@@ -1,0 +1,1263 @@
+Return-Path: <352-NVO-562.0.303600.0.0.142829.9.128710388@email.dynatrace.com>
+Delivered-To: victor.franca@globalred.dominiotemporario.com
+Received: from email.dynatrace.com (email.dynatrace.com [199.15.213.126])
+	by a2-snowball3.uhserver.com (Postfix) with ESMTP id 4C6Xvx088bzfhf97
+	for <victor.franca@globalred.com.br>; Thu,  8 Oct 2020 11:02:35 -0300 (-03)
+X-MSFBL: dcE8HroxfbVQFZ0PaJifCfNEbcANmIMtjpfnk+hoV40=|eyJnIjoiYmctYWJkLTY
+	xIiwidSI6IjM1Mi1OVk8tNTYyOjA6MTE2NTU3OjMyNzM0Mzo5NTE1MzY6MTQyODI
+	5Ojk6MzAzNjAwOjEyODcxMDM4OCIsImIiOiJkdnAtMTk5LTE1LTIxMy0xMjYiLCJ
+	yIjoidmljdG9yLmZyYW5jYUBnbG9iYWxyZWQuY29tLmJyIn0=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1602165754;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Content-Type:MIME-Version:Subject:To:From:Date;
+	bh=GEZsMTrKCGgaPBMdieSNeMc5t7S7lulI1S4zm8olW+I=;
+	b=oUh+Lf7v7u6wu0kKqs/qjOcODM3vgjGKmus1TTQ+PQYXeXo28XGt2zW7yvzpHQVKOTwDDFR2zRX
+	hRszhFaCQXefdn+g14H1Jiv8qAExu5Ofy+M8nvXqXhryDWGHlDkpDQC+l/N/lUu8EgaE9hC95HKon
+	YlusdjG6JsQhhx9nCmI=
+Date: Thu, 8 Oct 2020 09:02:34 -0500 (CDT)
+From: Carlos Blanco <cblanco@dynatrace.com>
+Reply-To: cblanco@dynatrace.com
+To: victor.franca@globalred.com.br
+Message-ID: <1811578656.47279996.1602165754488@abmktmail-batch1b.marketo.org>
+Subject: Introducing Dynatrace Amplify 2020 keynote speakers
+MIME-Version: 1.0
+X-Binding: bg-abd-61
+List-Unsubscribe: =?us-ascii?q?=3Cmailto=3ANUYVUN2ZKZKWERJNKRZVAZLFOJDXEMLDJ5HVSRSLLJIEYWDGOAYW2?=
+ =?us-ascii?q?RSCGJSFKU22NJPUSPI=3D=2E303600=2E142829=2E9=40unsub-ab=2Emktomail=2Ecom=3E?=
+X-PVIQ: mkto-352NVO562-000001-000000-303600
+X-MarketoID: 352-NVO-562:0:116557:327343:951536:142829:9:303600:128710388
+X-Mailfrom: 352-NVO-562.0.303600.0.0.142829.9.128710388@email.dynatrace.com
+X-MktArchive: false
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-AS-Analysis: v=2.2 cv=UuEhDK4B c=1 sm=1 tr=0 b=1
+	a=W36XhweYJF1bkEbDCFLDXw==:117 a=W36XhweYJF1bkEbDCFLDXw==:17	a=4dh7sw57AAAA:8
+ a=OB_TeLz5ihWo29kZQEMA:9 a=_kE4CjhEqyHj9fsh:21	a=0QVLKqGs5K3jzhQQ:21
+ a=QEXdDO2ut3YA:10 a=ttknz8SceZMA:10 a=FqDaHl5sGNcA:10	a=SSmOFEACAAAA:8
+ a=b-ZQgoEfDdXzJh01ZPQA:9 a=qi8I8EzYoCtNQwHW:21	a=MWQOGwhsWQ2md-B7:21
+ a=xm9eJM1MctMBBuQB:21 a=gKO2Hq4RSVkA:10	a=frz4AuCg-hUA:10 a=_W_S_7VecoQA:10
+ a=7anbe0RzjE-Y3a4BoqDN:22
+Uid: 533
+Folder: INBOX
+PlainText: Introducing two industry leading thought leaders, headlining
+ Amplify 2020
+ =?utf-8?q?=E2=80=A6=3Chttp=3A=2F=2Fem=2Edynatrace=2Ecom=2Ff00et4u0sK08NV13NIOm00I=3ER?=
+ =?utf-8?b?IOKAmFJheeKAmQ==?= Wang
+ <http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I>Principal Analyst and
+ Founder ofConstellation Research,
+ Inc<http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I>Stephen Elliot
+ <http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I>Program VP, Management
+ Software and DevOps at IDCAmplify 2020 isn't just live, online, and in your
+ time zone, =?utf-8?b?aXTigJlz?= full of brand new content to support the
+ development, positioning and sales of partner services.Register now
+ <http://em.dynatrace.com/JV1uN30VNO0Ixes4t0008I0>Amplify 2020 highlights	-
+ Trends and insights driving the Dynatrace platform evolution	- Analyst
+ perspectives on the AIOps landscape and customer challenges	- Displacing and
+ winning against the competition	- Executive insights into the cloud and
+ service management ecosystem	- The latest sales plays that will equip you
+ with the skills and expertise to grow your sales and servicesSee agenda
+ <http://em.dynatrace.com/JV1uN30VNO0Ixes4t0008I0>Facebook -
+ <http://em.dynatrace.com/TnINe000N004sVL18uI3tO0>     Twitter -
+ <http://em.dynatrace.com/E4t0N80oVMs0I03O1e0Iu0N>     Instagram -
+ <http://em.dynatrace.com/BN04pN1OI000I8eV0sNu03t>      LinkedIn -
+ <http://em.dynatrace.com/o01OI00qe00N0N4IsOVt3u8>      Google+ -
+ <http://em.dynatrace.com/n0N00Wy013Iu0OV0sN84teI>     YouTube -
+ <http://em.dynatrace.com/kN8ru0I40e001Vt3sN0PI0O>     Glassdoor -
+ <http://em.dynatrace.com/uQI800sVIu0t4s01e03NON0>Dynatrace Av das
+ =?utf-8?b?TmHDp8O1ZXM=?= Unidas, 14171 15 and. Salas 1505, 1508 e 1510 -
+ Morumbi Sao Paulo SP 04795-100 Phone: +55-11-3568-2084    |    Email:
+ partners@dynatrace.com <http://em.dynatrace.com/iteN0IVN0Ru00t084s31O0I>Este
+ e-mail marketing foi escrito e entregue pela Dynatrace. =?utf-8?b?TsOjbw==?=
+ recomendamos o encaminhamento deste e-mail, exceto pelo uso deste link
+ <[[http://em.dynatrace.com/v/Q0eO0sV0NI1u38INt40kI00]]>.Caso o
+ =?utf-8?b?ZmHDp2EsIHN1YXMgaW5mb3JtYcOnw7Vlcw==?= pessoais devem substituir as
+ originais antes do =?utf-8?q?envio=2EPol=C3=ADtica?= de privacidade
+ <http://em.dynatrace.com/o01SI00ue00N0N4IsOVt3u8>  |  Veja no seu browser
+ =?utf-8?q?=3C=5B=5Bhttps=3A=2F=2Finfo=2Edynatrace=2Ecom=2Findex=2Ephp=2Femail=2FemailWebview=3Fmk?=
+ =?utf-8?q?t=5Ftok=3DeyJpIjoiTVdSaE5HWmhZMkZoTmpRMSIsInQiOiJkNkVNbllGWEM2Lyt?=
+ =?utf-8?q?oOCtyQi8xcVkyZVlEcUtwRloyNThuM0kyUVBLS2pWdWpWcHpBVUpzbzVrUGMw?=
+ =?utf-8?q?eVZMRlZ1TnQ3TmhkWnNvUEFxcjhuL21iWEhCelhycCt0VjlMa28vOEhoYVFnb?=
+ =?utf-8?q?EI3YXU4MTlvczQ5d1R2d05JdUV5QTVtd1BZV25kcTBXaGtWeFBkRFdvYVdxYk?=
+ =?utf-8?q?E9PSJ9=5D=5D=3E__|__Sair?=
+ =?utf-8?q?_=3Chttp=3A=2F=2Fem=2Edynatrace=2Ecom=2FO0e00I3O0184INuT0v0tNsV=3E------------?=
+ =?utf-8?q?------------------------------------------------?=
+HtmlBody: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd"><html
+ xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"><head> <meta
+ http-equiv="Content-Type" content="text/html; charset=utf-8"> <meta
+ name="viewport" content="width=device-width, initial-scale=1"> <meta
+ http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="robots"
+ content="noindex, nofollow"> <meta
+ name="x-apple-disable-message-reformatting"> <link
+ href="https://assets.dynatrace.com/fonts/berninasans/berninasans-email.css"
+ rel="stylesheet" type="text/css"> <title>Dynatrace</title>                                                                                        
+ <style type="text/css">      * {font-family: 'BerninaSans', Arial, sans-serif
+ !important;}      body, table, td, a{-webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%;}      table, td{mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;}      img{border: 0; height: auto; line-height: 100%;
+ outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;}     
+ table{border-collapse: collapse !important;}      body{font-family:
+ 'BerninaSans', Arial, sans-serif !important; height: 100% !important; margin:
+ 0 !important; padding: 0 !important; width: 100% !important;}      a, a:link,
+ a:visited, a:hover  { text-decoration: underline; color: black; }     
+ .button a, .button a:link, .button a:visited, .button a:hover  {
+ text-decoration: none; color: white; }      p{font-family: 'BerninaSans',
+ Arial, sans-serif !important;}      div[style*="margin: 16px 0;"] { margin:0
+ !important; }      li{margin-bottom: 6px;}      .whiteLinkNoUnderline a,
+ .whiteLinkNoUnderline a:link, .whiteLinkNoUnderline a:visited,
+ .whiteLinkNoUnderline a:hover {color: white; text-decoration:none;}     
+ .whiteLinkUnderline a, .whiteLinkUnderline a:link, .whiteLinkUnderline
+ a:visited, .whiteLinkUnderline a:hover {color: white;
+ text-decoration:underline;}      .blackLinkNoUnderline a,
+ .blackLinkNoUnderline a:link, .blackLinkNoUnderline a:visited,
+ .blackLinkNoUnderline a:hover {color: black; text-decoration:none;}     
+ .blackLinkUnderline a, .blackLinkUnderline a:link, .blackLinkUnderline
+ a:visited, .blackLinkUnderline a:hover {color: black;
+ text-decoration:underline;}      a[x-apple-data-detectors] {        color:
+ inherit !important;        text-decoration: underline !important;       
+ font-size: inherit !important;        font-family: inherit !important;       
+ font-weight: inherit !important;        line-height: inherit !important;     
+ }        .column3-inner { width:170px; }      .hide {
+ mso-hide:all;display:none;max-height:0px;overflow:hidden; }     
+ .content-desktop {display: block;}      .content-mobile {display: none;}     
+ .block-desktop {display: block;}      .block-mobile {display: none;}     
+ .inline-desktop {display: inline-block; display: inline; }     
+ .inline-mobile {display: none;}      @media only screen and (max-width:
+ 639px){        *[class].wrapper { width:100% !important; }       
+ *[class].container { width:100% !important; }        *[class].mobile {
+ width:100% !important; display:block !important; }        *[class].center{
+ margin:0 auto !important; text-align:center !important; }       
+ *[class*="mobileTopPadding10"] { padding-top: 10px !important; }       
+ *[class*="mobileTopPadding20"] { padding-top: 20px !important; }       
+ *[class*="mobileBottomPadding10"] { padding-bottom: 10px !important; }       
+ *[class*="mobileBottomPadding20"] { padding-bottom: 20px !important; }       
+ *[class*="mobileCenter"] { text-align: center !important; }       
+ *[class*="mobileCenterBlock"] { margin: auto !important; }       
+ *[class*="mobileResize50"] { width: 50% !important; }       
+ *[class*="mobileResize25"] { width: 25% !important; }       
+ *[class*="mobileResize75"] { width: 75% !important; }       
+ *[class*="mobileResize100"] { width: 100% !important; }       
+ *[class].content-desktop {display: none;}        *[class].content-mobile
+ {display: block;}        *[class].body-text-left, *[class].body-text-right,
+ *[class].body-text-center { display:block !important; width: 100% !important;
+ padding-left: 0px !important;}        *[class].body-text-left {
+ padding-bottom: 20px !important; }        *[class]#footer-social { width:
+ 100% !important; }        *[class].twoColumn-left { width: 100% !important;
+ margin-bottom: 20px; }        *[class].twoColumn-right { width: 100%
+ !important; }         *[class].twoColumn-spacer { display: none !important; }       
+ *[class].threeColumn-left { width: 100% !important; margin-bottom: 20px; }       
+ *[class].threeColumn-center { width: 100% !important; margin-bottom: 20px; }        
+ *[class].threeColumn-right { width: 100% !important; }        
+ *[class].threeColumn-spacer { display: none !important; }       
+ *[class].videoResize { height: auto !important; width: 100% !important; }     
+ }      @media only screen and (max-width: 449px){       
+ *[class].image-video{ width:96% !important; height:auto; }                 
+ *[class].content-desktop {display: none;}        *[class].content-mobile
+ {display: block;}        .mobile-full { width:100% !important; }       
+ #banner-cta-text { font-size: 14px;}      }    </style> <!--[if mso]>   
+ <style type="text/css">      .body-text {      font-family: Arial, sans-serif
+ !important;      }    </style>    <![endif]--> <!--[if mso]>    <style
+ type="text/css">      .mktoText {      font-family: Arial, sans-serif
+ !important;      }    </style>    <![endif]--> <!--[if mso]>    <style
+ type="text/css">      p {      font-family: Arial, sans-serif !important;     
+ }    </style>    <![endif]--> <!--[if gte mso 9]>    <xml>     
+ <o:OfficeDocumentSettings>        <o:AllowPNG/>       
+ <o:PixelsPerInch>96</o:PixelsPerInch>      </o:OfficeDocumentSettings>   
+ </xml>    <![endif]--> </head> <body style="margin:0; padding:0;"><style
+ type="text/css">div#emailPreHeader{ display: none !important; }</style><div
+ id="emailPreHeader" style="mso-hide:all; visibility:hidden; opacity:0;
+ color:transparent; mso-line-height-rule:exactly; line-height:0;
+ font-size:0px; overflow:hidden; border-width:0; display:none
+ !important;">Your Sales & Technical Enablement Summit</div> <table
+ width="100%" height="100%" cellpadding="0" cellspacing="0" border="0"
+ bgcolor="#F1F1F1"> <tbody><tr> <td width="100%" valign="top" align="center"
+ class="mktoContainer" id="template-wrapper"><table width="640"
+ cellpadding="0" cellspacing="0" border="0" align="center" class="mktoModule
+ wrapper mobile" id="spacera8332235-7fa9-47ff-83d6-5d018650aa26"
+ bgcolor="#F1F1F1" style="width: 640px; background-color:#F1F1F1;
+ border-spacing: 0; mso-line-height-rule: exactly; mso-margin-bottom-alt: 0;
+ mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+ <tbody> <tr style="background-color:#F1F1F1;" bgcolor="#F1F1F1"> <td
+ bgcolor="#F1F1F1" height="20px" style="background-color:#F1F1F1;
+ font-size:20px; line-height:20px; height: 20px;">&nbsp;</td> </tr> </tbody>
+ </table><table width="640" cellpadding="0" cellspacing="0" border="0"
+ class="mktoModule wrapper"
+ id="clickable-imageb5568225-03f6-4037-9d45-d0a83b105564" bgcolor="#FFFFFF"
+ style="width: 640px; background-color: #FFFFFF; border-spacing: 0;
+ mso-line-height-rule: exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt:
+ 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"> <tbody> <tr
+ bgcolor="#FFFFFF" style="background-color: #FFFFFF;"> <td align="left"
+ bgcolor="#FFFFFF" style="background-color: #FFFFFF;"> <a
+ href="http://em.dynatrace.com/Ae8l0INV10ItN0300u0J4sO"><img
+ =?utf-8?q?src=3D=22https=3A=2F=2Fassets=2Edynatrace=2Ecom=2Fglobal=2Fpartners=2Fvirtual-sum?=
+ =?utf-8?q?mit-email-banner-640x297=2Egif=22?= alt="Dynatrace"
+ class="mobileResize100"></a> </td> </tr> </tbody> </table><table width="640"
+ cellpadding="0" cellspacing="0" border="0" align="center" class="mktoModule
+ wrapper" id="body-textbccabe4d-0eca-4197-9d86-23c68327ebe9" bgcolor="#FFFFFF"
+ style="width: 640px; background-color:#FFFFFF; border-spacing: 0;
+ mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;"> <tbody> <tr style="background-color:#FFFFFF;"
+ bgcolor="#FFFFFF"> <td bgcolor="#FFFFFF" height="40px"
+ style="background-color:#FFFFFF; font-size:40px; line-height:40px; height:
+ 40px; mso-line-height-rule: exactly;">&nbsp;</td> </tr> <tr> <td
+ align="center" style="padding:0 20px;"> <table width="580" cellpadding="0"
+ cellspacing="0" border="0" class="container" style="width: 580px;"> <tbody>
+ <tr> <td align="left" style="font-family: 'BerninaSans', Arial, sans-serif
+ !important; font-size:16px; line-height:20px; color:#222222; font-weight:300;
+ mso-line-height-rule: at-least;" class="body-text"> <div class="body-text
+ mktoText" id="text-contentbccabe4d-0eca-4197-9d86-23c68327ebe9"
+ style="font-family: 'BerninaSans', Arial, sans-serif !important;
+ font-size:16px; line-height:20px; color:#222222; font-weight:300; padding:0;
+ margin:0; mso-line-height-rule: at-least;"> <div style="text-align: center;">
+ Introducing <strong>two</strong> industry leading thought leaders, headlining
+ <strong><em>Amplify</em> <em>2020</em></strong> =?utf-8?b?4oCm?= </div>
+ </div> </td> </tr> </tbody> </table> </td> </tr> <tr
+ style="background-color:#FFFFFF;" bgcolor="#FFFFFF"> <td bgcolor="#FFFFFF"
+ height="30px" style="background-color:#FFFFFF; font-size:30px;
+ line-height:30px; height: 30px; mso-line-height-rule: exactly;">&nbsp;</td>
+ </tr> </tbody> </table><table width="640" cellpadding="0" cellspacing="0"
+ border="0" align="center" class="mktoModule wrapper"
+ id="twoColumn841ee01b-dad6-4585-8150-afa6ce2aba5b" bgcolor="#FFFFFF"
+ style="width: 640px; background-color: #FFFFFF; border-spacing: 0;
+ mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;"> <tbody> <tr> <td height="0px" style="font-size:0px;
+ line-height:0px; height: 0px; mso-line-height-rule: exactly;">&nbsp;</td>
+ </tr> <tr> <td align="center" style="padding:0 20px;"> <table width="580"
+ cellpadding="0" cellspacing="0" border="0" class="container" style="width:
+ 580px;"> <tbody> <tr> <td align="left" bgcolor="transparent" style="padding:
+ 0px; background-color:transparent; font-family: 'BerninaSans', Arial,
+ sans-serif; font-size:16px; line-height:20px; color:#222222;
+ font-weight:normal; width:50%; vertical-align: top; mso-line-height-rule:
+ at-least;" class="body-text body-text-left twoColumn-left"> <div
+ class="body-text mktoText"
+ id="twoColumn-left841ee01b-dad6-4585-8150-afa6ce2aba5b" style="font-family:
+ 'BerninaSans', Arial, sans-serif; font-size:16px; line-height:20px;
+ color:#222222; font-weight:normal; padding:0; margin:0; mso-line-height-rule:
+ at-least;"> <p style="text-align: center;"><a
+ href="http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I" target="_blank"><img
+ =?utf-8?q?src=3D=22https=3A=2F=2Fassets=2Edynatrace=2Ecom=2Fglobal=2Fimages=2Fheadshots=2Fray?=
+ =?utf-8?q?-wang-constellation-research-315x315=2Ejpg=22?= alt="" width="180"
+ height="180" constrain="true" imagepreview="false" border="" style="display:
+ block; margin-left: auto; margin-right: auto;"></a><br><span
+ style="font-size: 14px;"><strong><a
+ href="http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I" target="_blank">R
+ =?utf-8?b?4oCYUmF54oCZ?= Wang</a></strong></span><br><span style="font-size:
+ 14px;">Principal Analyst and Founder of</span><br><span style="font-size:
+ 14px;">Constellation Research, Inc</span></p> </div> </td> <td
+ class="twoColumn-spacer mobileOff" bgcolor="transparent" style="width:0%;
+ background-color:transparent;">&nbsp;</td> <td align="left"
+ bgcolor="transparent" style="padding: 0px; background-color:transparent;
+ font-family: 'BerninaSans', Arial, sans-serif; font-size:16px;
+ line-height:20px; color:#222222; font-weight:normal; width:50%; padding-left:
+ 10px; vertical-align: top; mso-line-height-rule: at-least;" class="body-text
+ body-text-right twoColumn-right"> <div class="body-text mktoText"
+ id="twoColumn-right841ee01b-dad6-4585-8150-afa6ce2aba5b" style="font-family:
+ 'BerninaSans', Arial, sans-serif; font-size:16px; line-height:20px;
+ color:#222222; font-weight:normal; padding:0; margin:0; mso-line-height-rule:
+ at-least;"> <p style="text-align: center;"><a
+ href="http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I" target="_blank"><img
+ =?utf-8?q?src=3D=22https=3A=2F=2Fassets=2Edynatrace=2Ecom=2Fglobal=2Fimages=2Fheadshots=2Fste?=
+ =?utf-8?q?phen-elliot-idc-315x315=2Ejpg=22?= alt="" width="180" height="180"
+ constrain="true" imagepreview="false" border="" style="display: block;
+ margin-left: auto; margin-right: auto;"></a><br><span style="font-size:
+ 14px;"><strong><a href="http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I"
+ target="_blank">Stephen Elliot</a></strong></span><br><span style="font-size:
+ 14px;">Program VP, Management </span><br><span style="font-size:
+ 14px;">Software and DevOps at IDC</span></p> </div> </td> </tr> </tbody>
+ </table> </td> </tr> <tr> <td height="20px" style="font-size:20px;
+ line-height:20px; height: 20px; mso-line-height-rule: exactly;">&nbsp;</td>
+ </tr> </tbody> </table><table width="640" cellpadding="0" cellspacing="0"
+ border="0" align="center" class="mktoModule wrapper"
+ id="body-text7b64a3dd-f598-4263-bdba-73ef0f116c4f" bgcolor="#FFFFFF"
+ style="width: 640px; background-color:#FFFFFF;"> <tbody> <tr
+ style="background-color:#FFFFFF;" bgcolor="#FFFFFF"> <td bgcolor="#FFFFFF"
+ height="20px" style="background-color:#FFFFFF; font-size:20px;
+ line-height:20px; height: 20px;">&nbsp;</td> </tr> <tr> <td align="center"
+ style="padding:0 20px;"> <table width="580" cellpadding="0" cellspacing="0"
+ border="0" class="container" style="width: 580px;"> <tbody> <tr> <td
+ align="left" style="font-family: 'BerninaSans', Arial, sans-serif !important;
+ font-size:16px; line-height:20px; color:#222222; font-weight:300;"
+ class="body-text"> <div class="body-text mktoText"
+ id="text-content7b64a3dd-f598-4263-bdba-73ef0f116c4f" style="font-family:
+ 'BerninaSans', Arial, sans-serif !important; font-size:16px;
+ line-height:20px; color:#222222; font-weight:300; padding:0; margin:0;"> <div
+ style="text-align: center;"> <em>Amplify 2020</em> isn't just live, online,
+ and in your time zone, =?utf-8?b?aXTigJlz?= full of brand new content to
+ support the development, positioning and sales of partner services. </div>
+ </div> </td> </tr> </tbody> </table> </td> </tr> <tr
+ style="background-color:#FFFFFF;" bgcolor="#FFFFFF"> <td bgcolor="#FFFFFF"
+ height="10px" style="background-color:#FFFFFF; font-size:10px;
+ line-height:10px; height: 10px;">&nbsp;</td> </tr> </tbody> </table><table
+ width="640" cellpadding="0" cellspacing="0" border="0" align="center"
+ class="mktoModule wrapper"
+ =?utf-8?q?id=3D=22body-button1e262591-0230-4a6c-8642-b6a79b20b1973545dd59-d?=
+ =?utf-8?q?98a-4a5e-b419-1d3c34e88c01=22?= bgcolor="#FFFFFF" style="width:
+ 640px; background-color:#FFFFFF; border-spacing: 0; mso-line-height-rule:
+ exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace:
+ 0pt; mso-table-rspace: 0pt;"> <tbody> <tr style="background-color:#FFFFFF;"
+ bgcolor="#FFFFFF"> <td bgcolor="#FFFFFF" height="10px"
+ style="background-color:#FFFFFF; font-size:10px; line-height:10px; height:
+ 10px;">&nbsp;</td> </tr> <tr> <td align="center" style="padding:0 20px;">
+ <table width="580" cellpadding="0" cellspacing="0" border="0"
+ class="container" style="width: 580px;"> <tbody> <tr> <td align="center"
+ style="font-family: 'BerninaSans', Arial, sans-serif !important;"
+ class="body-text"> <table cellspacing="0" cellpadding="0" class="button"
+ style="background-color: #1f1d21; border-radius: 3px;"> <tbody> <tr> <td
+ style="background-color: #1f1d21; border-radius: 3px; background-image: none;
+ padding: 12px 22px 12px 22px;" class="body-text button"> <div
+ class="body-text mktoText"
+ =?utf-8?q?id=3D=22cta-body-button-button1e262591-0230-4a6c-8642-b6a79b20b19?=
+ =?utf-8?q?73545dd59-d98a-4a5e-b419-1d3c34e88c01=22?= style="border-radius:
+ 3px;"> <span style="color: #ffffff;"><a
+ href="http://em.dynatrace.com/Ae8l0INV10ItN0300u0J4sO" target="_blank"
+ style="color: #ffffff;">Register now</a></span> </div> </td> </tr> </tbody>
+ </table> </td> </tr> </tbody> </table> </td> </tr> <tr
+ style="background-color:#FFFFFF;" bgcolor="#FFFFFF"> <td bgcolor="#FFFFFF"
+ height="40px" style="background-color:#FFFFFF; font-size:40px;
+ line-height:40px; height: 40px;">&nbsp;</td> </tr> </tbody> </table><table
+ width="640" cellpadding="0" cellspacing="0" border="0" align="center"
+ class="mktoModule wrapper" id="body-text3c037c90-f990-4b00-a8e3-bd0a05087f1b"
+ bgcolor="#1f1d21" style="width: 640px; background-color:#1f1d21;
+ border-spacing: 0; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt;"> <tbody> <tr
+ style="background-color:#1f1d21;" bgcolor="#1f1d21"> <td bgcolor="#1f1d21"
+ height="20px" style="background-color:#1f1d21; font-size:20px;
+ line-height:20px; height: 20px; mso-line-height-rule: exactly;">&nbsp;</td>
+ </tr> <tr> <td align="center" style="padding:0 20px;"> <table width="580"
+ cellpadding="0" cellspacing="0" border="0" class="container" style="width:
+ 580px;"> <tbody> <tr> <td align="left" style="font-family: 'BerninaSans',
+ Arial, sans-serif !important; font-size:16px; line-height:20px;
+ color:#FFFFFF; font-weight:300; mso-line-height-rule: at-least;"
+ class="body-text"> <div class="body-text mktoText"
+ id="text-content3c037c90-f990-4b00-a8e3-bd0a05087f1b" style="font-family:
+ 'BerninaSans', Arial, sans-serif !important; font-size:16px;
+ line-height:20px; color:#FFFFFF; font-weight:300; padding:0; margin:0;
+ mso-line-height-rule: at-least;"> <p><span style="font-size:
+ 18px;"><strong><em>Amplify</em> <em>2020</em> highlights</strong></span></p>
+ <ul> <li>Trends and insights driving the Dynatrace platform evolution</li>
+ <li>Analyst perspectives on the AIOps landscape and customer challenges</li>
+ <li>Displacing and winning against the competition</li> <li>Executive
+ insights into the cloud and service management ecosystem</li> <li>The latest
+ sales plays that will equip you with the skills and expertise to grow your
+ sales and services</li> </ul> </div> </td> </tr> </tbody> </table> </td>
+ </tr> <tr style="background-color:#1f1d21;" bgcolor="#1f1d21"> <td
+ bgcolor="#1f1d21" height="10px" style="background-color:#1f1d21;
+ font-size:10px; line-height:10px; height: 10px; mso-line-height-rule:
+ exactly;">&nbsp;</td> </tr> </tbody> </table><table width="640"
+ cellpadding="0" cellspacing="0" border="0" align="center" class="mktoModule
+ wrapper"
+ =?utf-8?q?id=3D=22body-button1e262591-0230-4a6c-8642-b6a79b20b1973545dd59-d?=
+ =?utf-8?q?98a-4a5e-b419-1d3c34e88c01964fd3f6-7968-490c-ba91-15e6853501c?=
+ =?utf-8?q?5=22?= bgcolor="#1f1d21" style="width: 640px;
+ background-color:#1f1d21; border-spacing: 0; mso-line-height-rule: exactly;
+ mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;"> <tbody> <tr style="background-color:#1f1d21;"
+ bgcolor="#1f1d21"> <td bgcolor="#1f1d21" height="10px"
+ style="background-color:#1f1d21; font-size:10px; line-height:10px; height:
+ 10px;">&nbsp;</td> </tr> <tr> <td align="center" style="padding:0 20px;">
+ <table width="580" cellpadding="0" cellspacing="0" border="0"
+ class="container" style="width: 580px;"> <tbody> <tr> <td align="center"
+ style="font-family: 'BerninaSans', Arial, sans-serif !important;"
+ class="body-text"> <table cellspacing="0" cellpadding="0" class="button"
+ style="background-color: #f8f8f8; border-radius: 3px;"> <tbody> <tr> <td
+ style="background-color: #f8f8f8; border-radius: 3px; background-image: none;
+ padding: 12px 22px 12px 22px;" class="body-text button"> <div
+ class="body-text mktoText"
+ =?utf-8?q?id=3D=22cta-body-button-button1e262591-0230-4a6c-8642-b6a79b20b19?=
+ =?utf-8?q?73545dd59-d98a-4a5e-b419-1d3c34e88c01964fd3f6-7968-490c-ba91-?=
+ =?utf-8?q?15e6853501c5=22?= style="border-radius: 3px;"> <span style="color:
+ #000000;"><a href="http://em.dynatrace.com/Ae8l0INV10ItN0300u0J4sO"
+ target="_blank" style="color: #000000;">See agenda</a></span> </div> </td>
+ </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> <tr
+ style="background-color:#1f1d21;" bgcolor="#1f1d21"> <td bgcolor="#1f1d21"
+ height="40px" style="background-color:#1f1d21; font-size:40px;
+ line-height:40px; height: 40px;">&nbsp;</td> </tr> </tbody> </table><table
+ width="640" cellpadding="0" cellspacing="0" border="0" align="center"
+ class="mktoModule wrapper True"
+ id="spacer2512c2a7-5215-4ce5-890a-f9fd533b70bf" bgcolor="#F1F1F1"
+ style="width: 640px; background-color:#F1F1F1; border-spacing: 0;
+ mso-line-height-rule: exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt:
+ 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"> <tbody> <tr
+ style="background-color:#F1F1F1;" bgcolor="#F1F1F1"> <td bgcolor="#F1F1F1"
+ height="20px" style="background-color:#F1F1F1; font-size:20px;
+ line-height:20px; height: 20px;">&nbsp;</td> </tr> </tbody> </table><table
+ width="640" cellpadding="0" cellspacing="0" border="0" align="center"
+ class="mktoModule wrapper"
+ id="footer-social65109002-2a89-404a-aba7-7de636a2af7e" bgcolor="#F!F1F1"
+ style="width: 640px; border-spacing: 0; mso-line-height-rule: exactly;
+ mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;"> <tbody> <tr style="background-color:#F!F1F1;"
+ bgcolor="#F!F1F1"> <td bgcolor="#F!F1F1" height="40px"
+ style="background-color:#F!F1F1; font-size:40pxpx; line-height:40pxpx;
+ height: 40pxpx;">&nbsp;</td> </tr> <tr bgcolor="#F!F1F1"> <td align="center"
+ style="padding:0 20px;" bgcolor="#F!F1F1"> <table width="600" cellpadding="0"
+ cellspacing="0" border="0" class="container" align="center" style="width:
+ 600px;" bgcolor="#F!F1F1"> <tbody> <tr bgcolor="#F!F1F1"> <td align="center"
+ class="mobile" style="min-width: 320px;" bgcolor="#F!F1F1"> <div
+ class="mktoSnippet" id="social65109002-2a89-404a-aba7-7de636a2af7e"> <table
+ class="container" style="width: 600px;" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="600"> <tbody> <tr> <td class="mobile"
+ align="center"> <table id="footer-social" class="center" style="width: 50%;"
+ align="center" border="0" cellpadding="0" cellspacing="0" width="50%">
+ <tbody> <tr> <td style="width: 40px;" align="center" width="40"><a
+ href="http://em.dynatrace.com/TnINe000N004sVL18uI3tO0" target="_blank"> <img
+ style="margin: 0; padding: 0; border: none; display: block;" alt="Facebook"
+ src="https://assets.dynatrace.com/global/icons/facebook-black-32x32.png"
+ border="0" height="23" width="23"> </a></td> <td style="width: 40px;"
+ align="center" width="40"><a
+ href="http://em.dynatrace.com/E4t0N80oVMs0I03O1e0Iu0N" target="_blank"> <img
+ style="margin: 0; padding: 0; border: none; display: block;" alt="Twitter"
+ src="https://assets.dynatrace.com/global/icons/twitter-black-32x32.png"
+ border="0" height="23" width="23"> </a></td> <td style="width: 40px;"
+ align="center" width="40"><a
+ href="http://em.dynatrace.com/BN04pN1OI000I8eV0sNu03t" target="_blank"> <img
+ style="margin: 0; padding: 0; border: none; display: block;" alt="Instagram"
+ src="https://assets.dynatrace.com/global/icons/instagram-black-32x32.png"
+ border="0" height="23" width="23"> </a></td> <td style="width: 40px;"
+ align="center" width="40"><a
+ href="http://em.dynatrace.com/o01OI00qe00N0N4IsOVt3u8" target="_blank"> <img
+ style="margin: 0; padding: 0; border: none; display: block;" alt="LinkedIn"
+ src="https://assets.dynatrace.com/global/icons/linkedin-black-32x32.png"
+ border="0" height="23" width="23"> </a></td> <td style="width: 40px;"
+ align="center" width="40"><a
+ href="http://em.dynatrace.com/kN8ru0I40e001Vt3sN0PI0O" target="_blank"> <img
+ style="margin: 0; padding: 0; border: none; display: block;" alt="YouTube"
+ src="https://assets.dynatrace.com/global/icons/youtube-black-32x32.png"
+ border="0" height="23" width="23"> </a></td> <td style="width: 40px;"
+ align="center" width="40"><a
+ href="http://em.dynatrace.com/uQI800sVIu0t4s01e03NON0" target="_blank"> <img
+ style="margin: 0; padding: 0; border: none; display: block;" alt="Glassdoor"
+ src="https://assets.dynatrace.com/global/icons/glassdoor-black-32x32.png"
+ border="0" height="23" width="23"> </a></td> </tr> </tbody> </table> </td>
+ </tr> </tbody> </table> </div> </td> </tr> </tbody> </table> </td> </tr> <tr
+ style="background-color:#F!F1F1;" bgcolor="#F!F1F1"> <td bgcolor="#F!F1F1"
+ height="20px" style="background-color:#F!F1F1; font-size:20pxpx;
+ line-height:20pxpx; height: 20pxpx;">&nbsp;</td> </tr> </tbody>
+ </table><table width="640" cellpadding="0" cellspacing="0" border="0"
+ align="center" class="mktoModule wrapper"
+ id="footerc4b0762d-701e-405d-bd08-019cc087d958" bgcolor="#F1F1F1"
+ style="width: 640px; border-spacing: 0; mso-line-height-rule: exactly;
+ mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;"> <tbody> <tr style="background-color:#F1F1F1;"
+ bgcolor="#F1F1F1"> <td bgcolor="#F1F1F1" height="20px"
+ style="background-color:#F1F1F1; font-size:20pxpx; line-height:20pxpx;
+ height: 20pxpx;">&nbsp;</td> </tr> <tr> <td align="center" style="padding:0
+ 20px;" bgcolor="#F1F1F1"> <table width="600" cellpaadding="0" cellspacing="0"
+ border="0" class="container" style="width: 600px;"> <tbody> <tr> <td
+ width="600" align="center" class="body-text" style="font-family:
+ 'BerninaSans', Arial, sans-serif; font-size:12px; line-height:18px; width:
+ 600px;"> <p style="font-family: 'BerninaSans', Arial, sans-serif;
+ font-size:12px; line-height:18px; padding:0; margin:0;" class="body-text">
+ </p> <div class="mktoSnippet"
+ id="addressc4b0762d-701e-405d-bd08-019cc087d958"> Dynatrace <br>Av das
+ =?utf-8?b?TmHDp8O1ZXM=?= Unidas, 14171 15 and. Salas 1505, 1508 e 1510&nbsp;-
+ Morumbi Sao Paulo SP 04795-100 <br>Phone:
+ +55-11-3568-2084&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Email: <a
+ =?utf-8?q?href=3D=22http=3A=2F=2Fem=2Edynatrace=2Ecom=2FiteN0IVN0Ru00t084s31O0I=22=3Epartne?=
+ =?utf-8?q?rs=40dynatrace=2Ecom=3C=2Fa=3E?= </div> <p></p> </td> </tr> <tr>
+ <td height="10" style="font-size: 10px; line-height: 10px; height:
+ 10px;">&nbsp;</td> </tr> <tr> <td width="600" align="center"
+ class="body-text" style="font-family: 'BerninaSans', Arial, sans-serif;
+ font-size:12px; line-height:18px; width: 600px;"> <div class="mktoSnippet"
+ id="marketingsnippetc4b0762d-701e-405d-bd08-019cc087d958"> Este e-mail
+ marketing foi escrito e entregue pela Dynatrace. =?utf-8?b?PGJyPk7Do28=?=
+ recomendamos o encaminhamento deste e-mail, exceto pelo uso deste <a
+ href="http://em.dynatrace.com/v/Q0eO0sV0NI1u38INt40kI00"
+ target="_blank">link</a>. <br>Caso o
+ =?utf-8?b?ZmHDp2EsIHN1YXMgaW5mb3JtYcOnw7Vlcw==?= pessoais devem substituir as
+ originais antes do envio. <br> </div> </td> </tr> <tr> <td height="10"
+ style="font-size: 10px; line-height: 10px; height: 10px;">&nbsp;</td> </tr>
+ <tr> <td width="600" align="center" class="body-text" style="font-family:
+ 'BerninaSans', Arial, sans-serif; font-size:12px; line-height:18px; width:
+ 600px;"> <div class="mktoSnippet"
+ id="unsubc4b0762d-701e-405d-bd08-019cc087d958"> <a
+ href="http://em.dynatrace.com/o01SI00ue00N0N4IsOVt3u8"
+ =?utf-8?q?target=3D=22=5Fblank=22=3EPol=C3=ADtica_de?=
+ privacidade</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a
+ =?utf-8?q?href=3D=22https=3A=2F=2Finfo=2Edynatrace=2Ecom=2Findex=2Ephp=2Femail=2FemailWebview?=
+ =?utf-8?q?=3Fmkt=5Ftok=3DeyJpIjoiTVdSaE5HWmhZMkZoTmpRMSIsInQiOiJkNkVNbllGWEM2?=
+ =?utf-8?q?LytoOCtyQi8xcVkyZVlEcUtwRloyNThuM0kyUVBLS2pWdWpWcHpBVUpzbzVrU?=
+ =?utf-8?q?GMweVZMRlZ1TnQ3TmhkWnNvUEFxcjhuL21iWEhCelhycCt0VjlMa28vOEhoYV?=
+ =?utf-8?q?FnbEI3YXU4MTlvczQ5d1R2d05JdUV5QTVtd1BZV25kcTBXaGtWeFBkRFdvYVd?=
+ =?utf-8?q?xYkE9PSJ9=22=3EVeja?= no seu browser</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+ <a class="body-text" href="http://em.dynatrace.com/O0e00I3O0184INuT0v0tNsV"
+ target="_blank">Sair</a> </div> </td> </tr> </tbody> </table> </td> </tr> <tr
+ style="background-color:#F1F1F1;" bgcolor="#F1F1F1"> <td bgcolor="#F1F1F1"
+ height="20px" style="background-color:#F1F1F1; font-size:20pxpx;
+ line-height:20pxpx; height: 20pxpx;">&nbsp;</td> </tr> </tbody> </table></td>
+ </tr> </tbody></table> <div style="display:none; white-space:nowrap;
+ font:15px courier; line-height:0;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; </div>  <a
+ href="http://em.dynatrace.com/DNUI40w0OVs00e8NuI100t3"></a><img
+ =?utf-8?q?src=3D=22http=3A=2F=2Fem=2Edynatrace=2Ecom=2Ftrk=3Ft=3D1&mid=3DMzUyLU5WTy01NjI6MDox?=
+ =?utf-8?q?MTY1NTc6MzI3MzQzOjk1MTUzNjoxNDI4Mjk6OTozMDM2MDA6MTI4NzEwMzg4O?=
+ =?utf-8?q?nZpY3Rvci5mcmFuY2FAZ2xvYmFscmVkLmNvbS5icg%3D%3D=22?= width="1"
+ height="1" style="display:none !important;" alt="" /><!-- The unsubscribe is
+ added in the message template --></body></html>
+Content-Type: multipart/alternative; boundary="=-XmcWeqZCYV37l6wONiCY+g=="
+
+--=-XmcWeqZCYV37l6wONiCY+g==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Id: <7114c69e-ed4c-4c42-a30f-87b4afdc1820>
+
+Introducing two industry leading thought leaders, headlining Amplify 2=
+020 =E2=80=A6
+<http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I>
+R =E2=80=98Ray=E2=80=99 Wang <http://em.dynatrace.com/f00et4u0sK08NV13=
+NIOm00I>
+Principal Analyst and Founder of
+Constellation Research, Inc
+<http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I>
+Stephen Elliot <http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I>
+Program VP, Management=20
+Software and DevOps at IDC
+Amplify 2020 isn't just live, online, and in your time zone, it=E2=80=99=
+s full of brand new content to support the development, positioning an=
+d sales of partner services.
+Register now <http://em.dynatrace.com/JV1uN30VNO0Ixes4t0008I0>
+Amplify 2020 highlights
+
+
+	- Trends and insights driving the Dynatrace platform evolution
+	- Analyst perspectives on the AIOps landscape and customer challenges
+	- Displacing and winning against the competition
+	- Executive insights into the cloud and service management ecosystem
+	- The latest sales plays that will equip you with the skills and expe=
+rtise to grow your sales and services
+See agenda <http://em.dynatrace.com/JV1uN30VNO0Ixes4t0008I0>
+
+Facebook - <http://em.dynatrace.com/TnINe000N004sVL18uI3tO0>    =20
+Twitter - <http://em.dynatrace.com/E4t0N80oVMs0I03O1e0Iu0N>    =20
+Instagram - <http://em.dynatrace.com/BN04pN1OI000I8eV0sNu03t>     =20
+LinkedIn - <http://em.dynatrace.com/o01OI00qe00N0N4IsOVt3u8>     =20
+Google+ - <http://em.dynatrace.com/n0N00Wy013Iu0OV0sN84teI>    =20
+YouTube - <http://em.dynatrace.com/kN8ru0I40e001Vt3sN0PI0O>    =20
+Glassdoor - <http://em.dynatrace.com/uQI800sVIu0t4s01e03NON0>
+
+Dynatrace=20
+Av das Na=C3=A7=C3=B5es Unidas, 14171 15 and. Salas 1505, 1508 e 1510 =
+- Morumbi Sao Paulo SP 04795-100=20
+Phone: +55-11-3568-2084    |    Email: partners@dynatrace.com <http://=
+em.dynatrace.com/iteN0IVN0Ru00t084s31O0I>
+
+Este e-mail marketing foi escrito e entregue pela Dynatrace.=20
+N=C3=A3o recomendamos o encaminhamento deste e-mail, exceto pelo uso d=
+este link <[[http://em.dynatrace.com/v/Q0eO0sV0NI1u38INt40kI00]]>.
+Caso o fa=C3=A7a, suas informa=C3=A7=C3=B5es pessoais devem substituir=
+ as originais antes do envio.
+
+Pol=C3=ADtica de privacidade <http://em.dynatrace.com/o01SI00ue00N0N4I=
+sOVt3u8>  |  Veja no seu browser <[[https://info.dynatrace.com/index.p=
+hp/email/emailWebview?mkt_tok=3DeyJpIjoiTVdSaE5HWmhZMkZoTmpRMSIsInQiOi=
+JkNkVNbllGWEM2LytoOCtyQi8xcVkyZVlEcUtwRloyNThuM0kyUVBLS2pWdWpWcHpBVUpz=
+bzVrUGMweVZMRlZ1TnQ3TmhkWnNvUEFxcjhuL21iWEhCelhycCt0VjlMa28vOEhoYVFnbE=
+I3YXU4MTlvczQ5d1R2d05JdUV5QTVtd1BZV25kcTBXaGtWeFBkRFdvYVdxYkE9PSJ9]]> =
+ |  Sair <http://em.dynatrace.com/O0e00I3O0184INuT0v0tNsV>
+
+------------------------------------------------------------
+
+--=-XmcWeqZCYV37l6wONiCY+g==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Id: <80fb013c-d52a-4ec0-b8a8-149cbd557d17>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http:/=
+/www.w3.org/TR/html4/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-mi=
+crosoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-=
+8">=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">=20
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+<meta name=3D"robots" content=3D"noindex, nofollow">=20
+<meta name=3D"x-apple-disable-message-reformatting">=20
+<link href=3D"https://assets.dynatrace.com/fonts/berninasans/berninasa=
+ns-email.css" rel=3D"stylesheet" type=3D"text/css">=20
+<title>Dynatrace</title>                                              =
+                                          =20
+<style type=3D"text/css">
+      * {font-family: 'BerninaSans', Arial, sans-serif !important;}
+      body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%;}
+      table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+      img{border: 0; height: auto; line-height: 100%; outline: none; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic;}
+      table{border-collapse: collapse !important;}
+      body{font-family: 'BerninaSans', Arial, sans-serif !important; h=
+eight: 100% !important; margin: 0 !important; padding: 0 !important; w=
+idth: 100% !important;}
+      a, a:link, a:visited, a:hover  { text-decoration: underline; col=
+or: black; }
+      .button a, .button a:link, .button a:visited, .button a:hover  {=
+ text-decoration: none; color: white; }
+      p{font-family: 'BerninaSans', Arial, sans-serif !important;}
+      div[style*=3D"margin: 16px 0;"] { margin:0 !important; }
+      li{margin-bottom: 6px;}
+      .whiteLinkNoUnderline a, .whiteLinkNoUnderline a:link, .whiteLin=
+kNoUnderline a:visited, .whiteLinkNoUnderline a:hover {color: white; t=
+ext-decoration:none;}
+      .whiteLinkUnderline a, .whiteLinkUnderline a:link, .whiteLinkUnd=
+erline a:visited, .whiteLinkUnderline a:hover {color: white; text-deco=
+ration:underline;}
+      .blackLinkNoUnderline a, .blackLinkNoUnderline a:link, .blackLin=
+kNoUnderline a:visited, .blackLinkNoUnderline a:hover {color: black; t=
+ext-decoration:none;}
+      .blackLinkUnderline a, .blackLinkUnderline a:link, .blackLinkUnd=
+erline a:visited, .blackLinkUnderline a:hover {color: black; text-deco=
+ration:underline;}
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: underline !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      } =20
+      .column3-inner { width:170px; }
+      .hide { mso-hide:all;display:none;max-height:0px;overflow:hidden=
+; }
+      .content-desktop {display: block;}
+      .content-mobile {display: none;}
+      .block-desktop {display: block;}
+      .block-mobile {display: none;}
+      .inline-desktop {display: inline-block; display: inline; }
+      .inline-mobile {display: none;}
+
+
+
+      @media only screen and (max-width: 639px){
+        *[class].wrapper { width:100% !important; }
+        *[class].container { width:100% !important; }
+        *[class].mobile { width:100% !important; display:block !import=
+ant; }
+        *[class].center{ margin:0 auto !important; text-align:center !=
+important; }
+        *[class*=3D"mobileTopPadding10"] { padding-top: 10px !importan=
+t; }
+        *[class*=3D"mobileTopPadding20"] { padding-top: 20px !importan=
+t; }
+        *[class*=3D"mobileBottomPadding10"] { padding-bottom: 10px !im=
+portant; }
+        *[class*=3D"mobileBottomPadding20"] { padding-bottom: 20px !im=
+portant; }
+        *[class*=3D"mobileCenter"] { text-align: center !important; }
+        *[class*=3D"mobileCenterBlock"] { margin: auto !important; }
+        *[class*=3D"mobileResize50"] { width: 50% !important; }
+        *[class*=3D"mobileResize25"] { width: 25% !important; }
+        *[class*=3D"mobileResize75"] { width: 75% !important; }
+        *[class*=3D"mobileResize100"] { width: 100% !important; }
+        *[class].content-desktop {display: none;}
+        *[class].content-mobile {display: block;}
+        *[class].body-text-left, *[class].body-text-right, *[class].bo=
+dy-text-center { display:block !important; width: 100% !important; pad=
+ding-left: 0px !important;}
+        *[class].body-text-left { padding-bottom: 20px !important; }
+        *[class]#footer-social { width: 100% !important; }
+        *[class].twoColumn-left { width: 100% !important; margin-botto=
+m: 20px; }
+        *[class].twoColumn-right { width: 100% !important; }=20
+        *[class].twoColumn-spacer { display: none !important; }
+        *[class].threeColumn-left { width: 100% !important; margin-bot=
+tom: 20px; }
+        *[class].threeColumn-center { width: 100% !important; margin-b=
+ottom: 20px; }=20
+        *[class].threeColumn-right { width: 100% !important; }=20
+        *[class].threeColumn-spacer { display: none !important; }
+        *[class].videoResize { height: auto !important; width: 100% !i=
+mportant; }
+      }
+
+      @media only screen and (max-width: 449px){
+        *[class].image-video{ width:96% !important; height:auto; }    =
+     =20
+        *[class].content-desktop {display: none;}
+        *[class].content-mobile {display: block;}
+        .mobile-full { width:100% !important; }
+        #banner-cta-text { font-size: 14px;}
+      }
+    </style>=20
+<!--[if mso]>
+    <style type=3D"text/css">
+      .body-text {
+      font-family: Arial, sans-serif !important;
+      }
+    </style>
+    <![endif]-->=20
+<!--[if mso]>
+    <style type=3D"text/css">
+      .mktoText {
+      font-family: Arial, sans-serif !important;
+      }
+    </style>
+    <![endif]-->=20
+<!--[if mso]>
+    <style type=3D"text/css">
+      p {
+      font-family: Arial, sans-serif !important;
+      }
+    </style>
+    <![endif]-->=20
+<!--[if gte mso 9]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->=20
+</head>=20
+<body style=3D"margin:0; padding:0;"><style type=3D"text/css">div#emai=
+lPreHeader{ display: none !important; }</style><div id=3D"emailPreHead=
+er" style=3D"mso-hide:all; visibility:hidden; opacity:0; color:transpa=
+rent; mso-line-height-rule:exactly; line-height:0; font-size:0px; over=
+flow:hidden; border-width:0; display:none !important;">Your Sales & Te=
+chnical Enablement Summit</div>=20
+<table width=3D"100%" height=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" bgcolor=3D"#F1F1F1">=20
+<tbody>
+<tr>=20
+<td width=3D"100%" valign=3D"top" align=3D"center" class=3D"mktoContai=
+ner" id=3D"template-wrapper">
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper mobile" id=3D"spacera8332=
+235-7fa9-47ff-83d6-5d018650aa26" bgcolor=3D"#F1F1F1" style=3D"width: 6=
+40px; background-color:#F1F1F1; border-spacing: 0; mso-line-height-rul=
+e: exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt;">=20
+<tbody>=20
+<tr style=3D"background-color:#F1F1F1;" bgcolor=3D"#F1F1F1">=20
+<td bgcolor=3D"#F1F1F1" height=3D"20px" style=3D"background-color:#F1F=
+1F1; font-size:20px; line-height:20px; height: 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"mktoModule wrapper" id=3D"clickable-imageb5568225-03f6-4037-9=
+d45-d0a83b105564" bgcolor=3D"#FFFFFF" style=3D"width: 640px; backgroun=
+d-color: #FFFFFF; border-spacing: 0; mso-line-height-rule: exactly; ms=
+o-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt;">=20
+<tbody>=20
+<tr bgcolor=3D"#FFFFFF" style=3D"background-color: #FFFFFF;">=20
+<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"background-color: #FFF=
+FFF;"> <a href=3D
+"http://em.dynatrace.com/Ae8l0INV10ItN0300u0J4sO"
+><img src=3D"https://assets.dynatrace.com/global/partners/virtual-summ=
+it-email-banner-640x297.gif" alt=3D"Dynatrace" class=3D"mobileResize10=
+0"></a> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"body-textbccabe4d-=
+0eca-4197-9d86-23c68327ebe9" bgcolor=3D"#FFFFFF" style=3D"width: 640px=
+; background-color:#FFFFFF; border-spacing: 0; mso-margin-bottom-alt: =
+0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+;">=20
+<tbody>=20
+<tr style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF">=20
+<td bgcolor=3D"#FFFFFF" height=3D"40px" style=3D"background-color:#FFF=
+FFF; font-size:40px; line-height:40px; height: 40px; mso-line-height-r=
+ule: exactly;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" style=3D"padding:0 20px;">=20
+<table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"container" style=3D"width: 580px;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" style=3D"font-family: 'BerninaSans', Arial, sans-se=
+rif !important; font-size:16px; line-height:20px; color:#222222; font-=
+weight:300; mso-line-height-rule: at-least;" class=3D"body-text">=20
+<div class=3D"body-text mktoText" id=3D"text-contentbccabe4d-0eca-4197=
+-9d86-23c68327ebe9" style=3D"font-family: 'BerninaSans', Arial, sans-s=
+erif !important; font-size:16px; line-height:20px; color:#222222; font=
+-weight:300; padding:0; margin:0; mso-line-height-rule: at-least;">=20
+<div style=3D"text-align: center;">
+ Introducing=20
+<strong>two</strong> industry leading thought leaders, headlining=20
+<strong><em>Amplify</em> <em>2020</em></strong> =E2=80=A6=20
+</div>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF">=20
+<td bgcolor=3D"#FFFFFF" height=3D"30px" style=3D"background-color:#FFF=
+FFF; font-size:30px; line-height:30px; height: 30px; mso-line-height-r=
+ule: exactly;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"twoColumn841ee01b-=
+dad6-4585-8150-afa6ce2aba5b" bgcolor=3D"#FFFFFF" style=3D"width: 640px=
+; background-color: #FFFFFF; border-spacing: 0; mso-margin-bottom-alt:=
+ 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t;">=20
+<tbody>=20
+<tr>=20
+<td height=3D"0px" style=3D"font-size:0px; line-height:0px; height: 0p=
+x; mso-line-height-rule: exactly;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" style=3D"padding:0 20px;">=20
+<table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"container" style=3D"width: 580px;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" bgcolor=3D"transparent" style=3D"padding: 0px; back=
+ground-color:transparent; font-family: 'BerninaSans', Arial, sans-seri=
+f; font-size:16px; line-height:20px; color:#222222; font-weight:normal=
+; width:50%; vertical-align: top; mso-line-height-rule: at-least;" cla=
+ss=3D"body-text body-text-left twoColumn-left">=20
+<div class=3D"body-text mktoText" id=3D"twoColumn-left841ee01b-dad6-45=
+85-8150-afa6ce2aba5b" style=3D"font-family: 'BerninaSans', Arial, sans=
+-serif; font-size:16px; line-height:20px; color:#222222; font-weight:n=
+ormal; padding:0; margin:0; mso-line-height-rule: at-least;">=20
+<p style=3D"text-align: center;"><a href=3D
+"http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I" target=3D"_blank"
+><img src=3D"https://assets.dynatrace.com/global/images/headshots/ray-=
+wang-constellation-research-315x315.jpg" alt=3D"" width=3D"180" height=
+=3D"180" constrain=3D"true" imagepreview=3D"false" border=3D"" style=3D=
+"display: block; margin-left: auto; margin-right: auto;"></a><br><span=
+ style=3D"font-size: 14px;"><strong><a href=3D
+"http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I" target=3D"_blank"
+>R =E2=80=98Ray=E2=80=99 Wang</a></strong></span><br><span style=3D"fo=
+nt-size: 14px;">Principal Analyst and Founder of</span><br><span style=
+=3D"font-size: 14px;">Constellation Research, Inc</span></p>=20
+</div> </td>=20
+<td class=3D"twoColumn-spacer mobileOff" bgcolor=3D"transparent" style=
+=3D"width:0%; background-color:transparent;">&nbsp;</td>=20
+<td align=3D"left" bgcolor=3D"transparent" style=3D"padding: 0px; back=
+ground-color:transparent; font-family: 'BerninaSans', Arial, sans-seri=
+f; font-size:16px; line-height:20px; color:#222222; font-weight:normal=
+; width:50%; padding-left: 10px; vertical-align: top; mso-line-height-=
+rule: at-least;" class=3D"body-text body-text-right twoColumn-right">=20
+<div class=3D"body-text mktoText" id=3D"twoColumn-right841ee01b-dad6-4=
+585-8150-afa6ce2aba5b" style=3D"font-family: 'BerninaSans', Arial, san=
+s-serif; font-size:16px; line-height:20px; color:#222222; font-weight:=
+normal; padding:0; margin:0; mso-line-height-rule: at-least;">=20
+<p style=3D"text-align: center;"><a href=3D
+"http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I" target=3D"_blank"
+><img src=3D"https://assets.dynatrace.com/global/images/headshots/step=
+hen-elliot-idc-315x315.jpg" alt=3D"" width=3D"180" height=3D"180" cons=
+train=3D"true" imagepreview=3D"false" border=3D"" style=3D"display: bl=
+ock; margin-left: auto; margin-right: auto;"></a><br><span style=3D"fo=
+nt-size: 14px;"><strong><a href=3D
+"http://em.dynatrace.com/f00et4u0sK08NV13NIOm00I" target=3D"_blank"
+>Stephen Elliot</a></strong></span><br><span style=3D"font-size: 14px;=
+">Program VP, Management </span><br><span style=3D"font-size: 14px;">S=
+oftware and DevOps at IDC</span></p>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"20px" style=3D"font-size:20px; line-height:20px; height:=
+ 20px; mso-line-height-rule: exactly;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"body-text7b64a3dd-=
+f598-4263-bdba-73ef0f116c4f" bgcolor=3D"#FFFFFF" style=3D"width: 640px=
+; background-color:#FFFFFF;">=20
+<tbody>=20
+<tr style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF">=20
+<td bgcolor=3D"#FFFFFF" height=3D"20px" style=3D"background-color:#FFF=
+FFF; font-size:20px; line-height:20px; height: 20px;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" style=3D"padding:0 20px;">=20
+<table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"container" style=3D"width: 580px;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" style=3D"font-family: 'BerninaSans', Arial, sans-se=
+rif !important; font-size:16px; line-height:20px; color:#222222; font-=
+weight:300;" class=3D"body-text">=20
+<div class=3D"body-text mktoText" id=3D"text-content7b64a3dd-f598-4263=
+-bdba-73ef0f116c4f" style=3D"font-family: 'BerninaSans', Arial, sans-s=
+erif !important; font-size:16px; line-height:20px; color:#222222; font=
+-weight:300; padding:0; margin:0;">=20
+<div style=3D"text-align: center;">=20
+<em>Amplify 2020</em> isn't just live, online, and in your time zone, =
+it=E2=80=99s full of brand new content to support the development, pos=
+itioning and sales of partner services.=20
+</div>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF">=20
+<td bgcolor=3D"#FFFFFF" height=3D"10px" style=3D"background-color:#FFF=
+FFF; font-size:10px; line-height:10px; height: 10px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"body-button1e26259=
+1-0230-4a6c-8642-b6a79b20b1973545dd59-d98a-4a5e-b419-1d3c34e88c01" bgc=
+olor=3D"#FFFFFF" style=3D"width: 640px; background-color:#FFFFFF; bord=
+er-spacing: 0; mso-line-height-rule: exactly; mso-margin-bottom-alt: 0=
+; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+">=20
+<tbody>=20
+<tr style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF">=20
+<td bgcolor=3D"#FFFFFF" height=3D"10px" style=3D"background-color:#FFF=
+FFF; font-size:10px; line-height:10px; height: 10px;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" style=3D"padding:0 20px;">=20
+<table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"container" style=3D"width: 580px;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"font-family: 'BerninaSans', Arial, sans-=
+serif !important;" class=3D"body-text">=20
+<table cellspacing=3D"0" cellpadding=3D"0" class=3D"button" style=3D"b=
+ackground-color: #1f1d21; border-radius: 3px;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color: #1f1d21; border-radius: 3px; background=
+-image: none; padding: 12px 22px 12px 22px;" class=3D"body-text button=
+">=20
+<div class=3D"body-text mktoText" id=3D"cta-body-button-button1e262591=
+-0230-4a6c-8642-b6a79b20b1973545dd59-d98a-4a5e-b419-1d3c34e88c01" styl=
+e=3D"border-radius: 3px;">=20
+<span style=3D"color: #ffffff;"><a href=3D
+"http://em.dynatrace.com/Ae8l0INV10ItN0300u0J4sO" target=3D"_blank" st=
+yle=3D"color: #ffffff;"
+>Register now</a></span>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF">=20
+<td bgcolor=3D"#FFFFFF" height=3D"40px" style=3D"background-color:#FFF=
+FFF; font-size:40px; line-height:40px; height: 40px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"body-text3c037c90-=
+f990-4b00-a8e3-bd0a05087f1b" bgcolor=3D"#1f1d21" style=3D"width: 640px=
+; background-color:#1f1d21; border-spacing: 0; mso-margin-bottom-alt: =
+0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+;">=20
+<tbody>=20
+<tr style=3D"background-color:#1f1d21;" bgcolor=3D"#1f1d21">=20
+<td bgcolor=3D"#1f1d21" height=3D"20px" style=3D"background-color:#1f1=
+d21; font-size:20px; line-height:20px; height: 20px; mso-line-height-r=
+ule: exactly;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" style=3D"padding:0 20px;">=20
+<table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"container" style=3D"width: 580px;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" style=3D"font-family: 'BerninaSans', Arial, sans-se=
+rif !important; font-size:16px; line-height:20px; color:#FFFFFF; font-=
+weight:300; mso-line-height-rule: at-least;" class=3D"body-text">=20
+<div class=3D"body-text mktoText" id=3D"text-content3c037c90-f990-4b00=
+-a8e3-bd0a05087f1b" style=3D"font-family: 'BerninaSans', Arial, sans-s=
+erif !important; font-size:16px; line-height:20px; color:#FFFFFF; font=
+-weight:300; padding:0; margin:0; mso-line-height-rule: at-least;">=20
+<p><span style=3D"font-size: 18px;"><strong><em>Amplify</em> <em>2020<=
+/em> highlights</strong></span></p>=20
+<ul>=20
+<li>Trends and insights driving the Dynatrace platform evolution</li>=20
+<li>Analyst perspectives on the AIOps landscape and customer challenge=
+s</li>=20
+<li>Displacing and winning against the competition</li>=20
+<li>Executive insights into the cloud and service management ecosystem=
+</li>=20
+<li>The latest sales plays that will equip you with the skills and exp=
+ertise to grow your sales and services</li>=20
+</ul>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"background-color:#1f1d21;" bgcolor=3D"#1f1d21">=20
+<td bgcolor=3D"#1f1d21" height=3D"10px" style=3D"background-color:#1f1=
+d21; font-size:10px; line-height:10px; height: 10px; mso-line-height-r=
+ule: exactly;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"body-button1e26259=
+1-0230-4a6c-8642-b6a79b20b1973545dd59-d98a-4a5e-b419-1d3c34e88c01964fd=
+3f6-7968-490c-ba91-15e6853501c5" bgcolor=3D"#1f1d21" style=3D"width: 6=
+40px; background-color:#1f1d21; border-spacing: 0; mso-line-height-rul=
+e: exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt;">=20
+<tbody>=20
+<tr style=3D"background-color:#1f1d21;" bgcolor=3D"#1f1d21">=20
+<td bgcolor=3D"#1f1d21" height=3D"10px" style=3D"background-color:#1f1=
+d21; font-size:10px; line-height:10px; height: 10px;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" style=3D"padding:0 20px;">=20
+<table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"container" style=3D"width: 580px;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"font-family: 'BerninaSans', Arial, sans-=
+serif !important;" class=3D"body-text">=20
+<table cellspacing=3D"0" cellpadding=3D"0" class=3D"button" style=3D"b=
+ackground-color: #f8f8f8; border-radius: 3px;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color: #f8f8f8; border-radius: 3px; background=
+-image: none; padding: 12px 22px 12px 22px;" class=3D"body-text button=
+">=20
+<div class=3D"body-text mktoText" id=3D"cta-body-button-button1e262591=
+-0230-4a6c-8642-b6a79b20b1973545dd59-d98a-4a5e-b419-1d3c34e88c01964fd3=
+f6-7968-490c-ba91-15e6853501c5" style=3D"border-radius: 3px;">=20
+<span style=3D"color: #000000;"><a href=3D
+"http://em.dynatrace.com/Ae8l0INV10ItN0300u0J4sO" target=3D"_blank" st=
+yle=3D"color: #000000;"
+>See agenda</a></span>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"background-color:#1f1d21;" bgcolor=3D"#1f1d21">=20
+<td bgcolor=3D"#1f1d21" height=3D"40px" style=3D"background-color:#1f1=
+d21; font-size:40px; line-height:40px; height: 40px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper True" id=3D"spacer2512c2a=
+7-5215-4ce5-890a-f9fd533b70bf" bgcolor=3D"#F1F1F1" style=3D"width: 640=
+px; background-color:#F1F1F1; border-spacing: 0; mso-line-height-rule:=
+ exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt;">=20
+<tbody>=20
+<tr style=3D"background-color:#F1F1F1;" bgcolor=3D"#F1F1F1">=20
+<td bgcolor=3D"#F1F1F1" height=3D"20px" style=3D"background-color:#F1F=
+1F1; font-size:20px; line-height:20px; height: 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"footer-social65109=
+002-2a89-404a-aba7-7de636a2af7e" bgcolor=3D"#F!F1F1" style=3D"width: 6=
+40px; border-spacing: 0; mso-line-height-rule: exactly; mso-margin-bot=
+tom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt;">=20
+<tbody>=20
+<tr style=3D"background-color:#F!F1F1;" bgcolor=3D"#F!F1F1">=20
+<td bgcolor=3D"#F!F1F1" height=3D"40px" style=3D"background-color:#F!F=
+1F1; font-size:40pxpx; line-height:40pxpx; height: 40pxpx;">&nbsp;</td=
+>=20
+</tr>=20
+<tr bgcolor=3D"#F!F1F1">=20
+<td align=3D"center" style=3D"padding:0 20px;" bgcolor=3D"#F!F1F1">=20
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"container" align=3D"center" style=3D"width: 600px;" bgcolor=3D=
+"#F!F1F1">=20
+<tbody>=20
+<tr bgcolor=3D"#F!F1F1">=20
+<td align=3D"center" class=3D"mobile" style=3D"min-width: 320px;" bgco=
+lor=3D"#F!F1F1">=20
+<div class=3D"mktoSnippet" id=3D"social65109002-2a89-404a-aba7-7de636a=
+2af7e">=20
+<table class=3D"container" style=3D"width: 600px;" align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"mobile" align=3D"center">=20
+<table id=3D"footer-social" class=3D"center" style=3D"width: 50%;" ali=
+gn=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"50%">=20
+<tbody>=20
+<tr>=20
+<td style=3D"width: 40px;" align=3D"center" width=3D"40"><a href=3D
+"http://em.dynatrace.com/TnINe000N004sVL18uI3tO0" target=3D"_blank"
+> <img style=3D"margin: 0; padding: 0; border: none; display: block;" =
+alt=3D"Facebook" src=3D"https://assets.dynatrace.com/global/icons/face=
+book-black-32x32.png" border=3D"0" height=3D"23" width=3D"23"> </a></t=
+d>=20
+<td style=3D"width: 40px;" align=3D"center" width=3D"40"><a href=3D
+"http://em.dynatrace.com/E4t0N80oVMs0I03O1e0Iu0N" target=3D"_blank"
+> <img style=3D"margin: 0; padding: 0; border: none; display: block;" =
+alt=3D"Twitter" src=3D"https://assets.dynatrace.com/global/icons/twitt=
+er-black-32x32.png" border=3D"0" height=3D"23" width=3D"23"> </a></td>=
+=20
+<td style=3D"width: 40px;" align=3D"center" width=3D"40"><a href=3D
+"http://em.dynatrace.com/BN04pN1OI000I8eV0sNu03t" target=3D"_blank"
+> <img style=3D"margin: 0; padding: 0; border: none; display: block;" =
+alt=3D"Instagram" src=3D"https://assets.dynatrace.com/global/icons/ins=
+tagram-black-32x32.png" border=3D"0" height=3D"23" width=3D"23"> </a><=
+/td>=20
+<td style=3D"width: 40px;" align=3D"center" width=3D"40"><a href=3D
+"http://em.dynatrace.com/o01OI00qe00N0N4IsOVt3u8" target=3D"_blank"
+> <img style=3D"margin: 0; padding: 0; border: none; display: block;" =
+alt=3D"LinkedIn" src=3D"https://assets.dynatrace.com/global/icons/link=
+edin-black-32x32.png" border=3D"0" height=3D"23" width=3D"23"> </a></t=
+d>=20
+<td style=3D"width: 40px;" align=3D"center" width=3D"40"><a href=3D
+"http://em.dynatrace.com/kN8ru0I40e001Vt3sN0PI0O" target=3D"_blank"
+> <img style=3D"margin: 0; padding: 0; border: none; display: block;" =
+alt=3D"YouTube" src=3D"https://assets.dynatrace.com/global/icons/youtu=
+be-black-32x32.png" border=3D"0" height=3D"23" width=3D"23"> </a></td>=
+=20
+<td style=3D"width: 40px;" align=3D"center" width=3D"40"><a href=3D
+"http://em.dynatrace.com/uQI800sVIu0t4s01e03NON0" target=3D"_blank"
+> <img style=3D"margin: 0; padding: 0; border: none; display: block;" =
+alt=3D"Glassdoor" src=3D"https://assets.dynatrace.com/global/icons/gla=
+ssdoor-black-32x32.png" border=3D"0" height=3D"23" width=3D"23"> </a><=
+/td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"background-color:#F!F1F1;" bgcolor=3D"#F!F1F1">=20
+<td bgcolor=3D"#F!F1F1" height=3D"20px" style=3D"background-color:#F!F=
+1F1; font-size:20pxpx; line-height:20pxpx; height: 20pxpx;">&nbsp;</td=
+>=20
+</tr>=20
+</tbody>=20
+</table>
+<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"mktoModule wrapper" id=3D"footerc4b0762d-701=
+e-405d-bd08-019cc087d958" bgcolor=3D"#F1F1F1" style=3D"width: 640px; b=
+order-spacing: 0; mso-line-height-rule: exactly; mso-margin-bottom-alt=
+: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt;">=20
+<tbody>=20
+<tr style=3D"background-color:#F1F1F1;" bgcolor=3D"#F1F1F1">=20
+<td bgcolor=3D"#F1F1F1" height=3D"20px" style=3D"background-color:#F1F=
+1F1; font-size:20pxpx; line-height:20pxpx; height: 20pxpx;">&nbsp;</td=
+>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" style=3D"padding:0 20px;" bgcolor=3D"#F1F1F1">=20
+<table width=3D"600" cellpaadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ class=3D"container" style=3D"width: 600px;">=20
+<tbody>=20
+<tr>=20
+<td width=3D"600" align=3D"center" class=3D"body-text" style=3D"font-f=
+amily: 'BerninaSans', Arial, sans-serif; font-size:12px; line-height:1=
+8px; width: 600px;"> <p style=3D"font-family: 'BerninaSans', Arial, sa=
+ns-serif; font-size:12px; line-height:18px; padding:0; margin:0;" clas=
+s=3D"body-text"> </p>=20
+<div class=3D"mktoSnippet" id=3D"addressc4b0762d-701e-405d-bd08-019cc0=
+87d958">
+ Dynatrace=20
+<br>Av das Na=C3=A7=C3=B5es Unidas, 14171 15 and. Salas 1505, 1508 e 1=
+510&nbsp;- Morumbi Sao Paulo SP 04795-100=20
+<br>Phone: +55-11-3568-2084&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;=
+&nbsp;Email:=20
+<a href=3D
+"http://em.dynatrace.com/iteN0IVN0Ru00t084s31O0I"
+>partners@dynatrace.com</a>=20
+</div> <p></p> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"10" style=3D"font-size: 10px; line-height: 10px; height:=
+ 10px;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td width=3D"600" align=3D"center" class=3D"body-text" style=3D"font-f=
+amily: 'BerninaSans', Arial, sans-serif; font-size:12px; line-height:1=
+8px; width: 600px;">=20
+<div class=3D"mktoSnippet" id=3D"marketingsnippetc4b0762d-701e-405d-bd=
+08-019cc087d958">
+ Este e-mail marketing foi escrito e entregue pela Dynatrace.=20
+<br>N=C3=A3o recomendamos o encaminhamento deste e-mail, exceto pelo u=
+so deste=20
+<a href=3D"http://em.dynatrace.com/v/Q0eO0sV0NI1u38INt40kI00" target=3D=
+"_blank">link</a>.=20
+<br>Caso o fa=C3=A7a, suas informa=C3=A7=C3=B5es pessoais devem substi=
+tuir as originais antes do envio.=20
+<br>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"10" style=3D"font-size: 10px; line-height: 10px; height:=
+ 10px;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td width=3D"600" align=3D"center" class=3D"body-text" style=3D"font-f=
+amily: 'BerninaSans', Arial, sans-serif; font-size:12px; line-height:1=
+8px; width: 600px;">=20
+<div class=3D"mktoSnippet" id=3D"unsubc4b0762d-701e-405d-bd08-019cc087=
+d958">=20
+<a href=3D
+"http://em.dynatrace.com/o01SI00ue00N0N4IsOVt3u8" target=3D"_blank"
+>Pol=C3=ADtica de privacidade</a>&nbsp;&nbsp;|&nbsp;&nbsp;=20
+<a href=3D"https://info.dynatrace.com/index.php/email/emailWebview?mkt=
+_tok=3DeyJpIjoiTVdSaE5HWmhZMkZoTmpRMSIsInQiOiJkNkVNbllGWEM2LytoOCtyQi8=
+xcVkyZVlEcUtwRloyNThuM0kyUVBLS2pWdWpWcHpBVUpzbzVrUGMweVZMRlZ1TnQ3TmhkW=
+nNvUEFxcjhuL21iWEhCelhycCt0VjlMa28vOEhoYVFnbEI3YXU4MTlvczQ5d1R2d05JdUV=
+5QTVtd1BZV25kcTBXaGtWeFBkRFdvYVdxYkE9PSJ9">Veja no seu browser</a>&nbs=
+p;&nbsp;|&nbsp;&nbsp;=20
+<a class=3D"body-text" href=3D
+"http://em.dynatrace.com/O0e00I3O0184INuT0v0tNsV" target=3D"_blank"
+>Sair</a>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"background-color:#F1F1F1;" bgcolor=3D"#F1F1F1">=20
+<td bgcolor=3D"#F1F1F1" height=3D"20px" style=3D"background-color:#F1F=
+1F1; font-size:20pxpx; line-height:20pxpx; height: 20pxpx;">&nbsp;</td=
+>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<div style=3D"display:none; white-space:nowrap; font:15px courier; lin=
+e-height:0;">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+=20
+</div> =20
+<a href=3D
+"http://em.dynatrace.com/DNUI40w0OVs00e8NuI100t3"
+></a>
+<img src=3D"http://em.dynatrace.com/trk?t=3D1&mid=3DMzUyLU5WTy01NjI6MD=
+oxMTY1NTc6MzI3MzQzOjk1MTUzNjoxNDI4Mjk6OTozMDM2MDA6MTI4NzEwMzg4OnZpY3Rv=
+ci5mcmFuY2FAZ2xvYmFscmVkLmNvbS5icg%3D%3D" width=3D"1" height=3D"1" sty=
+le=3D"display:none !important;" alt=3D"" />
+
+<!-- The unsubscribe is added in the message template -->
+</body>
+</html>
+--=-XmcWeqZCYV37l6wONiCY+g==--

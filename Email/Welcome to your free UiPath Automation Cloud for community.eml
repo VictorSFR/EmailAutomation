@@ -1,0 +1,1532 @@
+Return-Path: <995-XLT-886.0.3473.0.0.11632.9.4067848-1@bounce.uipath.com>
+Delivered-To: victor.franca@globalred.dominiotemporario.com
+Received: from bounce.uipath.com (bounce.uipath.com [185.28.196.158])
+	by a2-snowball4.uhserver.com (Postfix) with ESMTP id 4Cg3wL3yZZzfhf9Q
+	for <victor.franca@globalred.com.br>; Mon, 23 Nov 2020 20:56:48 -0300 (-03)
+X-MSFBL: +B/5IUs5U31fXBlLa0FmxE8hvzpspt3m6+kVpry0020=|eyJyIjoidmljdG9yLmZ
+	yYW5jYUBnbG9iYWxyZWQuY29tLmJyIiwidSI6Ijk5NS1YTFQtODg2OjA6MzkyNzo
+	xNjM5NTowOjExNjMyOjk6MzQ3Mzo0MDY3ODQ4LTEiLCJnIjoiYmctbG9uZC0xMzM
+	iLCJiIjoiZHZwLTE4NS0yOC0xOTYtMTU4In0=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1606175808;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Content-Type:MIME-Version:Subject:To:From:Date;
+	bh=4Sa5PvzyyplKjfLYufrLyprgSvpZVn01A9uv4NnOY4Q=;
+	b=l6hA2V9ir4Wj/7mgisG3QEklv8SgQazqIwOEfX9ge+NDmV69ai9AIpSkiS0flWHHCuNnpS8NoLO
+	U8iSeoBGiGTvTQF4JAn8+V9X1HZQQ4HJSefvP5bkaFKLvxjwZ3LOCJYx2yWn/oq0JsJxvs3LsJVuS
+	WJWYI30vHhguEeXa8HM=
+Date: Mon, 23 Nov 2020 17:56:48 -0600 (CST)
+From: UiPath <info@uipath.com>
+Reply-To: info@uipath.com
+To: victor.franca@globalred.com.br
+Message-ID: <699386518.3358693.1606175808045@lonmktmail-trigger1e.marketo.org>
+Subject: Welcome to your free UiPath Automation Cloud for community
+MIME-Version: 1.0
+X-Binding: bg-lond-133
+X-MarketoID: 995-XLT-886:0:3927:16395:0:11632:9:3473:4067848-1
+X-Mailfrom: 995-XLT-886.0.3473.0.0.11632.9.4067848-1@bounce.uipath.com
+X-MktArchive: false
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-AS-Analysis: v=2.2 cv=TMYHcBta c=1 sm=1 tr=0 b=1
+	a=agTaGvnglJ2pj+2FOmPE1A==:117 a=agTaGvnglJ2pj+2FOmPE1A==:17	a=Khrlo1EnAAAA:8
+ a=EcrADfeVAAAA:8 a=7aiuGEcMRJqtE_U1lZcA:9	a=QEXdDO2ut3YA:10 a=1K0oDEehdcUA:10
+ a=_vt-OlLMFm4A:10 a=SSmOFEACAAAA:8	a=ysGw84nnAAAA:8 a=WAe2fK2ERTyRUMxSdHMA:9
+ a=WZ4xS02wxIDMQN8s:21	a=frz4AuCg-hUA:10 a=_W_S_7VecoQA:10 a=haJ6DGex9BIA:10
+	a=paV93vv4cj-Vde9cFmLS:22 a=ocXywhoPg7h7muLzpSty:22	a=Xm6hKgvSi3MD_Uhjc0t-:22
+Uid: 563
+Folder: INBOX
+PlainText: Welcome to your free UiPath Automation Cloud for community   Hello
+ Victor,   Thanks for signing up! Here <https://cloud.uipath.com/> are your
+ login details. =?utf-8?b?RG9u4oCZdA==?= forget to bookmark them.   
+ =?utf-8?b?TGV04oCZcw==?= Get Started!   Email address:
+ victor.franca@globalred.com.br               <https://cloud.uipath.com/>
+HtmlBody: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html
+ xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"><head> <!--[if gte mso 9]>     
+ <xml>        <o:OfficeDocumentSettings>          <o:AllowPNG />         
+ <o:PixelsPerInch>96</o:PixelsPerInch>        </o:OfficeDocumentSettings>     
+ </xml>    <![endif]--> <!--Global Variables Begin--> <!--Global Variables
+ End--> <!--FullWidthImage Module Variables Begin--> <!--FullWidthImage Module
+ Variables End--> <!--InlineImage Module Variables Begin--> <!--InlineImage
+ Module Variables End--> <!--InlineImageMeta Module Variables Begin-->
+ <!--InlineImageMeta Module Variables End--> <!--H1 Title Module Variables
+ Begin--> <!--H1 Title Module Variables End--> <!--H1 Title Copy Module
+ Variables Begin--> <!--H1 Title Copy Module Variables End--> <!--H1 Title Tag
+ Module Variables Begin--> <!--H1 Title Tag Module Variables End--> <!--H2
+ Title Tag Module Variables Begin--> <!--H2 Title Tag Module Variables End-->
+ <!--H3 Title Tag Module Variables Begin--> <!--H3 Title Tag Module Variables
+ End--> <!--FreeText Module Variables Begin--> <!--FreeText Module Variables
+ End--> <!--FreeText Copy Module Variables Begin--> <!--FreeText Copy Module
+ Variables End--> <!--Highlight H1 Tag Module Variables Begin--> <!--Highlight
+ H1 Tag Module Variables End--> <!--Highlight H1 Module Variables Begin-->
+ <!--Highlight H1 Module Variables End--> <!--Highlight H2 Module Variables
+ Begin--> <!--Highlight H2 Module Variables End--> <!--Highlight H2 Image
+ Module Variables Begin--> <!--Highlight H2 Image Module Variables End-->
+ <!--Highlight H3 Module Variables Begin--> <!--Highlight H3 Module Variables
+ End--> <!--CTA Primary Button Module Variables Begin--> <!--CTA Primary
+ Button Module Variables End--> <!--CTA Primary Button Copy Module Variables
+ Begin--> <!--CTA Primary Button Copy Module Variables End--> <!--CTA Block
+ Button Module Variables Begin--> <!--CTA Block Button Module Variables End-->
+ <!--CTA Secondary Button Module Variables Begin--> <!--CTA Secondary Button
+ Module Variables End--> <!--Other Meta Tags Begin--> <meta
+ http-equiv="Content-Type" content="text/html; charset=UTF-8" /> <meta
+ name="viewport" content="width=device-width, initial-scale=1,
+ minimum-scale=1, maximum-scale=1" /> <meta name="robots"
+ content="noindex,nofollow" /> <meta http-equiv="X-UA-Compatible"
+ content="IE=edge" /> <!--Other Meta Tags End--> <!--[if mso]>      <style
+ type="text/css">        .primary-font {          font-family: Arial,
+ sans-serif !important;        }      </style>    <![endif]--> <!--[if mso]>     
+ <style type="text/css">        .secondary-font {          font-family: Arial,
+ sans-serif !important;        }      </style>    <![endif]--> <!--[if gte mso
+ 9]>      <style type="text/css">        #hero .table3-3 {          width:
+ 100% !important;        }      </style>    <![endif]--> <style>     
+ /*startcommon*/      @media only screen and (max-width: 803px) {       
+ .m_hero .background {          background-size: cover !important;        }     
+ }      /*endcommon*/    </style> <!--[if mso]>      <style>       
+ .outlookbutton {          padding-left: 60px !important;        }     
+ </style>    <![endif]--> <style media="all">      /* CLIENT-SPECIFIC STYLES
+ */      #outlook a {        padding: 0;      }      /* Force Outlook to
+ provide a "view in browser" message */      .ReadMsgBody {        width:
+ 100%;      }      .ExternalClass {        width: 100%;      }      /* Force
+ Hotmail to display emails at full width */      .ExternalClass,     
+ .ExternalClass p,      .ExternalClass span,      .ExternalClass font,     
+ .ExternalClass td,      .ExternalClass div {        line-height: 100%;      }     
+ /* Force Hotmail to display normal line spacing */      /* iOS BLUE LINKS */     
+ @-ms-viewport {        width: device-width;      }    </style> <style
+ type="text/css">      html {        -webkit-text-size-adjust: none;      }     
+ p {        margin: 0 0 10px !important;        padding: 0;      }      body {       
+ font-family: Lato, Calibri, sans-serif;      }      a[x-apple-data-detectors]
+ {        color: inherit !important;        text-decoration: none !important;       
+ font-size: inherit !important;        font-family: inherit !important;       
+ font-weight: inherit !important;        line-height: inherit !important;     
+ }      a {      outline: none !important;      text-decoration: none
+ !important;      color: #0067df;    }    a:visited {      color: #0067df;   
+ }          table {  border-collapse: collapse;	}    table.uipathTable { 
+ border: 1px solid #D3D3D3;}      th.uipathTable {        border: 1px solid
+ #D3D3D3;      }      td.uipathTable {        border: 1px solid #D3D3D3;             
+ }    .button--primary {      color: #ffffff;      outline: none;     
+ text-decoration: none;    }    .button--primary:visited,   
+ .button--primary:visited * {      outline: none;      text-decoration: none;     
+ color: #ffffff;    }    .button--secondary:visited,   
+ .button--secondary:visited * {      outline: none;      text-decoration:
+ none;      color: #000000;    }      @media only screen and (max-width:
+ 640px) {        .em_main_table {          width: 100% !important;        }       
+ .em_spc_20 {          height: 20px !important;        }        .em_hide {         
+ display: none !important;        }        .m_hero .background {         
+ background-size: cover !important;        }        table[class="table600"] {         
+ width: 450px !important;        }        *[class].main {          width: 100%
+ !important;          min-width: 100% !important;        }       
+ *[class].inner_table {          width: 90% !important;          min-width:
+ 90% !important;        }        *[class].block {          width: 100%
+ !important;          margin: 0 auto !important;          padding: 0
+ !important;          display: block;        }        *[class].center_align {         
+ text-align: center !important;          margin: 0 auto;        }       
+ *[class].left_align {          text-align: left !important;        }       
+ *[class].padding_bottom {          padding-bottom: 20px !important;        }       
+ *[class].padding_top {          padding-top: 20px !important;        }       
+ *[class].image-width img {          width: 100% !important;          height:
+ auto !important;        }        *[class].line-height {          line-height:
+ 36px !important;        }        *[class].button_width {          width: 100%
+ !important;        }        *[class].Video img {          max-width: 100%
+ !important;          height: auto !important;        }       
+ *[class].margin-top {          margin-top: 20px !important;        }       
+ *[class].float {          float: none !important;          margin-top: 14px
+ !important;          display: inline-block;        }       
+ *[class].button_width {          width: 100% !important;        }      }     
+ @media only screen and (max-width: 479px) {        .m_hero .background {         
+ background-size: cover !important;        }        .em_spc_20 {         
+ height: 20px !important;        }        .em_hide {          display: none
+ !important;        }        .em_main_table {          width: 100% !important;       
+ }        table[class="table600"] {          width: 290px !important;        }       
+ *[class].main {          width: 100% !important;          min-width: 100%
+ !important;        }        *[class].inner_table {          width: 90%
+ !important;          min-width: 90% !important;        }       
+ *[class].block {          width: 100% !important;          margin: 0 auto
+ !important;          padding: 0 !important;          display: block;        }       
+ *[class].center_align {          text-align: center !important;         
+ margin: 0 auto;        }        *[class].left_align {          text-align:
+ left !important;        }        *[class].padding_top {          padding-top:
+ 20px !important;        }        *[class].padding_bottom {         
+ padding-bottom: 20px !important;        }        *[class].image-width img {         
+ width: 100% !important;          height: auto !important;        }       
+ *[class].img-width img {          width: 100% !important;          height:
+ auto !important;        }        *[class].line-height {          line-height:
+ 36px !important;        }        *[class].button_width {          width: 100%
+ !important;        }        *[class].Video img {          max-width: 100%
+ !important;          height: auto !important;        }       
+ *[class].margin-top {          margin-top: 20px !important;        }       
+ *[class].float {          float: none !important;          margin-top: 14px
+ !important;          display: inline-block;        }       
+ *[class].button_width {          width: 100% !important;        }      }   
+ </style> </head> <body style="background-color:#ffffff;margin-bottom: 0;
+ -webkit-text-size-adjust: 100%; padding-bottom: 0; min-width: 100%;
+ margin-top: 0; margin-right: 0; -ms-text-size-adjust: 100%; margin-left: 0;
+ padding-top: 0; padding-right: 0; padding-left: 0; width: 100%;"> <!--Outer
+ table START--> <table border="0" cellpadding="0" cellspacing="0" width="100%"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;margin:0 auto;"> <tbody> <tr> <td class="outer"
+ valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust:
+ 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;
+ -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse:
+ collapse;"> <!--Header starts--> <table width="600" class="main"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin:0 auto; border-spacing:
+ 0; border-collapse: collapse;" align="center" border="0" cellpadding="0"
+ cellspacing="0"> <tbody> <tr> <td bgcolor="#FFFFFF"
+ style="border-collapse:collapse; background-color:#FFFFFF;"> <table
+ class="inner_table" style="margin:0 auto;width:600px;" align="center"
+ border="0" cellpadding="0" cellspacing="0" width="600"> <!--Extra Space-->
+ <tbody> <tr> <td height="26"
+ style="line-height:26px;font-size:1px;color:#ffffff" bgcolor="#ffffff">
+ &nbsp; </td> </tr> <tr> <td valign="top" align="left"
+ style="text-align:left;"> <div class="mktoImg" id="Logo-bp"
+ mktolockimgsize="true"><img border="0"
+ src="https://start.uipath.com/rs/995-XLT-886/images/uipath-logo.png"
+ width="163" height="56" style="" /></div> </td> </tr> <!--Extra Space--> <tr>
+ <td height="24" style="line-height:24px;font-size:1px;color:#ffffff"
+ bgcolor="#ffffff"> &nbsp; </td> </tr> </tbody> </table> </td> </tr> </tbody>
+ </table> <!--Header ends--> <table class="main" width="600" align="center"
+ id="boxing" border="0" cellpadding="0" cellspacing="0"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;margin:0 auto;min-width:600px;"> <tbody> <tr> <td
+ class="mktoContainer boxedbackground" id="module-wrapper"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;
+ -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse:
+ collapse;"><table class="mktoModule"
+ id="FreeText09f31a1c-a1cd-4bf4-a43a-e275a3c2dc02"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;" align="center" border="0" cellpadding="0"
+ cellspacing="0" width="100%"> <tbody> <tr> <td bgcolor="#FFFFFF"
+ style="background-color:#FFFFFF"> <table class="inner_table" style="width:
+ 500px; margin: 0 auto; text-align: center; border-collapse: collapse;"
+ align="center" border="0" cellpadding="0" cellspacing="0" width="500">
+ <tbody> <!--Extra space--> <tr> <td height="5"
+ style="line-height:5px;font-size:1px;color:#ffffff" bgcolor="#ffffff"> &nbsp;
+ </td> </tr> <tr> <td style="font-size:16px; color:#000000;
+ font-family:Helvetica,sans-serif; mso-line-height-rule: exactly;
+ line-height:24px;text-align:left;" valign="top"> <div
+ id="FreeTextContent09f31a1c-a1cd-4bf4-a43a-e275a3c2dc02"
+ class="mktoText"><div style="color: #000000; font-family: Helvetica,
+ sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures:
+ normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal;
+ orphans: 2; text-align: left; text-indent: 0px; text-transform: none;
+ white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+ 0px; text-decoration-style: initial; text-decoration-color: initial;"> <span
+ style="font-size: 20px;"><strong>Welcome to your free UiPath Automation Cloud
+ for community</strong></span> </div> <div style="color: #000000; font-family:
+ Helvetica, sans-serif; font-size: 16px; font-style: normal;
+ font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;
+ letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px;
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+ -webkit-text-stroke-width: 0px; text-decoration-style: initial;
+ text-decoration-color: initial;"> <br />Hello Victor, </div> <div
+ style="color: #000000; font-family: Helvetica, sans-serif; font-size: 16px;
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps:
+ normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+ left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> <br />Thanks for signing up! <a
+ href="https://link.uipath.com/n/v0he04gc0bGTXsheL044000" target="_blank"
+ class="mktNoTok" id="">Here</a> are your login details.
+ =?utf-8?b?RG9u4oCZdA==?= forget to bookmark them. </div> <div style="color:
+ #000000; font-family: Helvetica, sans-serif; font-size: 16px; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> <br /> <span style="font-size:
+ =?utf-8?q?18px=3B=22=3E=3Cstrong=3ELet=E2=80=99s?= Get
+ Started!</strong></span> </div> <div style="color: #000000; font-family:
+ Helvetica, sans-serif; font-size: 16px; font-style: normal;
+ font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;
+ letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px;
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+ -webkit-text-stroke-width: 0px; text-decoration-style: initial;
+ text-decoration-color: initial;"> <br />Email address:
+ victor.franca@globalred.com.br </div> <div style="color: #000000;
+ font-family: Helvetica, sans-serif; font-size: 16px; font-style: normal;
+ font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;
+ letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px;
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+ -webkit-text-stroke-width: 0px; text-decoration-style: initial;
+ text-decoration-color: initial;"> <span style="font-size: 16px;"></span> <br
+ /> </div> <div style="color: #000000; font-family: Helvetica, sans-serif;
+ font-size: 16px; font-style: normal; font-variant-ligatures: normal;
+ font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans:
+ 2; text-align: left; text-indent: 0px; text-transform: none; white-space:
+ normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+ text-decoration-style: initial; text-decoration-color: initial;"> <table
+ width="257" height="55"> <tbody> <tr> <td height="55"><a
+ href="https://link.uipath.com/n/v0he04gc0bGTXsheL044000" target="_blank"
+ class="mktNoTok"> <span style="font-size: 16px;"> <img
+ src="https://start.uipath.com/rs/995-XLT-886/images/login_Cloud_CTA_jpg.jpg"
+ alt="login_Cloud_CTA_jpg.jpg" height="55" width="257" constrain="true"
+ imagepreview="false" /> </span> </a></td> </tr> </tbody> </table>
+ </div></div> <div> <span style="color: #000000; font-family: Helvetica,
+ sans-serif; font-style: normal; font-variant-ligatures: normal;
+ font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans:
+ 2; text-align: left; text-indent: 0px; text-transform: none; white-space:
+ normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+ background-color: #ffffff; text-decoration-style: initial;
+ text-decoration-color: initial; font-size: 18px;"></span> <br /> </div> <div>
+ <span style="color: #000000; font-family: Helvetica, sans-serif; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;
+ text-decoration-style: initial; text-decoration-color: initial; font-size:
+ 18px;"><span style="color: #000000; font-family: Helvetica, sans-serif;
+ font-size: 16px; font-style: normal; font-variant-ligatures: normal;
+ font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans:
+ 2; text-align: left; text-indent: 0px; text-transform: none; white-space:
+ normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+ background-color: #ffffff; text-decoration-style: initial;
+ text-decoration-color: initial; display: inline !important; float: none;">See
+ how to<span>&nbsp;</span></span> <a
+ href="https://link.uipath.com/n/Ti4Xg0s0e000eLd40Gh4bT0" target="_blank"
+ class="mktNoTok" id="" style="font-family: Helvetica, sans-serif; font-size:
+ 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps:
+ normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+ left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color:
+ #ffffff;">build and publish your first automation now</a><span style="color:
+ #000000; font-family: Helvetica, sans-serif; font-size: 16px; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;
+ text-decoration-style: initial; text-decoration-color: initial; display:
+ inline !important; float: none;">.</span></span> <br /> </div> <div> <span
+ style="color: #fa4616; font-family: Helvetica, sans-serif; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;
+ text-decoration-style: initial; text-decoration-color: initial; font-size:
+ =?utf-8?q?18px=3B=22=3E=3Cstrong=3E=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F?=
+ =?utf-8?q?=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=3C=2Fstrong=3E=3C=2Fspan=3E?=
+ </div> <div> <span style="font-size: 16px;"></span> <br /> </div> <div> <span
+ style="font-size: 18px;"><strong>Want to Learn
+ More?</strong><span>&nbsp;</span></span> <span style="color: #000000;
+ font-family: Helvetica, sans-serif; font-size: 16px; font-style: normal;
+ font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;
+ letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px;
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+ -webkit-text-stroke-width: 0px; background-color: #ffffff;
+ text-decoration-style: initial; text-decoration-color: initial; display:
+ inline !important; float: none;">When you are ready, =?utf-8?b?aGVyZeKAmXM=?=
+ more info on the automation power =?utf-8?b?eW914oCZdmU=?= now got at your
+ =?utf-8?q?fingertips=E2=80=A6=3C=2Fspan=3E?= </div> <div> <span style="color:
+ #000000; font-family: Helvetica, sans-serif; font-size: 16px; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;
+ text-decoration-style: initial; text-decoration-color: initial; display:
+ inline !important; float: none;"></span> <br /> </div> <div
+ style="text-align: center;"> <strong><span style="color: #000000;
+ font-family: Helvetica, sans-serif; font-size: 16px; font-style: normal;
+ font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing:
+ normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none;
+ white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+ 0px; background-color: #ffffff; text-decoration-style: initial;
+ text-decoration-color: initial; float: none; display: inline !important;">The
+ UiPath Automation Platform</span></strong> </div> <div> <br /> </div> <div>
+ <table width="600" height="134"> <tbody> <tr> <td height="134"><img class="i"
+ =?utf-8?q?src=3D=22https=3A=2F=2Fstart=2Euipath=2Ecom=2Frs=2F995-XLT-886=2Fimages=2Fhyperauto?=
+ =?utf-8?q?mation=5Fmtt2=2Epng=22?= alt="hyperautomation_mtt2.png"
+ height="134" width="600" constrain="true" imagepreview="false" /></td> </tr>
+ </tbody> </table> <br /> </div> <div> In the&nbsp;Community Cloud you get the
+ following capabilities of the platform: </div> <div> <br /> </div> <table
+ class="uipathTable" style="border-width: 1px; height: 500px; width: 600px;"
+ cellpadding="10"> <tbody> <tr> <td class="uipathTable" style="width: 50px;
+ background-color: #0067df;"><span style="color: #ffffff; font-size: 16px;
+ font-family: helvetica, arial,
+ sans-serif;"><strong>Build</strong></span></td> <td class="uipathTable"
+ style="width: 350px;"><span style="font-family: helvetica, arial, sans-serif;
+ font-size: 16px;"><p> Anyone can build an automation with UiPath Studio.
+ There are three different editions depending on your level of experience and
+ you are free to use them all. You can learn more about which one is right
+ for&nbsp;you <a href="https://link.uipath.com/n/tbTs440gXe0Gj004Lh000ee"
+ target="_blank" class="mktNoTok" id="">here</a>. </p> <p> We have included
+ two AI Skills to supercharge your robots. Your robots can read the screen
+ just like you can with <a
+ href="https://link.uipath.com/NL00fX4b000esgT0k4h0e4G">AI Computer Vision</a>
+ and intelligently understand many different kinds of documents and forms with
+ <a href="https://link.uipath.com/U4ls0hT0GL0Xbg04e4000ge">Document
+ Understanding</a>. </p></span></td> </tr> <tr> <td class="uipathTable"
+ style="width: 10px; background-color: #fa4616;"><span style="color: #ffffff;
+ font-family: helvetica, arial, sans-serif; font-size:
+ 16px;"><strong>Manage</strong></span></td> <td class="uipathTable"
+ style="width: 350px;"><span style="font-size: 16px;"><span
+ style="font-family: helvetica, arial, sans-serif;">We handle all the
+ infrastructure, updates, data modeling, and storage for you. Simple web tools
+ let you deploy your automations to the robots that run them - then manage
+ them and see what the robots are doing. You can model and store business data
+ directly in the platform for easy access from the UiPath suite of products
+ with <a href="https://link.uipath.com/e40eUT04000LXw04hfgGs0b">Data
+ Service</a>.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp;<br /></span> <span style="font-family: helvetica, arial, sans-serif;">
+ </span></span></td> </tr> <tr> <td class="uipathTable" style="width: 10px;
+ background-color: #ed145b;"><span style="color: #ffffff; font-family:
+ helvetica, arial, sans-serif; font-size:
+ 16px;"><strong>Run</strong></span></td> <td class="uipathTable" style="width:
+ 350px;"><span style="font-family: helvetica, arial, sans-serif; font-size:
+ 16px;">We mentioned robots. You have robots that can work on your desktop
+ with you and a robot that can work independently on a server or in the cloud.
+ You can learn more about the different kinds of robots <a
+ href="https://link.uipath.com/FeeLG00hm0X0s4g4000Tb4h">here</a>.</span></td>
+ </tr> <tr> <td class="uipathTable" style="width: 10px; background-color:
+ #933692;"><span style="color: #ffffff; font-family: helvetica, arial,
+ sans-serif; font-size: 16px;"><strong>Engage</strong></span></td> <td
+ class="uipathTable" style="width: 350px;"><span style="font-family:
+ helvetica, arial, sans-serif; font-size: 16px;"><p> With <a
+ href="https://link.uipath.com/R00GhefL4b0040s0XVTwh40">UiPath Apps</a>, a
+ no-code app builder delivers engaging experiences powered by automation. </p>
+ <p> You will probably find that you soon want to build automations where
+ robots and people work together on tasks. Learn how you can do this easily
+ with <a href="https://link.uipath.com/Y0bhg0n4s004e004GLX0iTe">UiPath Action
+ Center</a>. </p></span></td> </tr> </tbody> </table> <div style="color:
+ #000000; font-family: Helvetica, sans-serif; font-size: 16px; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> <br /> </div> <div style="color:
+ #000000; font-family: Helvetica, sans-serif; font-size: 16px; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> You might find these additional
+ links useful as you start your automation journey: </div> <div style="color:
+ #000000; font-family: Helvetica, sans-serif; font-size: 16px; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> <ul> <li><a
+ href="https://link.uipath.com/n/ZL4hs0eob000040ej40GTXg" target="_blank"
+ class="mktNoTok" id="">Dive deep</a><span>&nbsp;</span>in the docs</li>
+ <li><a href="https://link.uipath.com/n/kX0pG0400gs04Lb4ee0kh0T"
+ target="_blank" class="mktNoTok" id="">Skill up</a><span>&nbsp;</span>with
+ free online training</li> <li><a
+ href="https://link.uipath.com/n/I0e0lXe0Ghsq4b440g0LT00" target="_blank"
+ class="mktNoTok" id="">Connect</a><span>&nbsp;</span>with the community</li>
+ <li><a href="https://link.uipath.com/n/U4rs0hT0GL0Xbg04e4000me"
+ target="_blank" class="mktNoTok" id="">Contact Us</a><span>&nbsp;</span>for
+ assistance.</li> </ul> </div> <div style="color: #000000; font-family:
+ Helvetica, sans-serif; font-size: 16px; font-style: normal;
+ font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;
+ letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px;
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+ -webkit-text-stroke-width: 0px; text-decoration-style: initial;
+ text-decoration-color: initial;"> Have fun and happy automating! </div> <div
+ style="color: #000000; font-family: Helvetica, sans-serif; font-size: 16px;
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps:
+ normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+ left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> The UiPath Team </div> <div
+ style="color: #000000; font-family: Helvetica, sans-serif; font-size: 16px;
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps:
+ normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+ left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> <br /> </div> <div style="color:
+ #000000; font-family: Helvetica, sans-serif; font-size: 16px; font-style:
+ normal; font-variant-ligatures: normal; font-variant-caps: normal;
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style:
+ initial; text-decoration-color: initial;"> <span style="font-size:
+ 12px;">UiPath Automation Cloud for community includes - StudioX (included in
+ Studio licenses), Studio (2 licenses), Studio Pro (2 licenses), AI Computer
+ Vision (30 megapixels / min), Document Understanding (2 pages and 4MB),
+ Attended Robots (2 licenses), Unattended Robots (1 license including Test
+ Robot), Action Center (5 licenses), Data Service (100MB data storage, 500MB
+ attachment storage), Apps.</span> </div> </td> </tr> <!--Extra space--> <tr>
+ <td style="line-height: 5px; font-size: 1px;color:#ffffff;" height="5"
+ bgcolor="#ffffff"> &nbsp; </td> </tr> </tbody> </table> </td> </tr> </tbody>
+ </table></td> </tr> </tbody> </table> </td> </tr> </tbody> </table> <!--Outer
+ table End--> <!--Footer Begin--> <div class="mktoSnippet"
+ id="snippetFooter"><table class="main" style="-webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+ border-spacing: 0; border-collapse: collapse; margin: 0 auto;
+ background-color: #f2f2f2;" bgcolor="#f2f2f2" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="600"> <tbody> <tr bgcolor="#f2f2f2"
+ style="background-color: #f2f2f2;"> <td bgcolor="#f2f2f2"
+ style="border-collapse: collapse; background-color: #f2f2f2;"> <table
+ class="inner_table" style="margin: 0 auto; width: 500px;" align="center"
+ border="0" cellpadding="0" cellspacing="0" width="500"> <!--Extra Space-->
+ <tbody> <tr> <td height="36" style="line-height: 36px; font-size:
+ 36px;">&nbsp;</td> </tr> <tr></tr> <tr> <td valign="top" style="font-size:
+ 16px; color: #000000; font-family: Helvetica,sans-serif;
+ mso-line-height-rule: exactly; line-height: 24px;"> <div mktoname="Address"
+ id="Address-bp"> <div> Visit <a
+ href="https://link.uipath.com/Q0gT0eL0Xn4G404eb00shs0"
+ style="text-decoration: none; color: #0067df;">UiPath</a> </div> <div> UiPath
+ Inc. | 90 Park Ave, New York, NY 10016 United States </div> </div> </td>
+ </tr> <!--Extra Space--> <tr> <td height="24" style="line-height: 24px;
+ font-size: 24px;">&nbsp;</td> </tr> <tr> <td valign="top" style="font-size:
+ 16px; color: #000000; font-family: Helvetica,sans-serif;
+ mso-line-height-rule: exactly; line-height: 24px;"> <div
+ mktoname="Unsubscribe" id="Links-bp"> <div> To choose the types of emails you
+ receive, or to opt yourself out completely, <a
+ =?utf-8?q?href=3D=22https=3A=2F=2Fstart=2Euipath=2Ecom=2FUnsubscribePage=2Ehtml=3Fmkt=5Funsub?=
+ =?utf-8?q?scribe=3D1&mkt=5Ftok=3DeyJpIjoiT0RCak56aGtaRFF5TlRNeSIsInQiOiI5bU9L?=
+ =?utf-8?q?UjZYRnRBWTUyclI1bG1Ja0dPU0h2L3hkNmRPeCtGZWZJT2pGYU5VcUZYNkJ4V?=
+ =?utf-8?q?3JUWDZWWGxOR3c3UDk5MnRyVFRGVkVTY0dMdEdyMElzUWVsZXN1RXQ5V3k4K0?=
+ =?utf-8?q?pwWmN4dG81b2NGckh4R3VxNzE1ZFg2L2ZsV1RXMWFOWSJ9=22?=
+ style="text-decoration: none; color: #0067df;">let us know</a>. </div> </div>
+ </td> </tr> <!--Extra Space--> <tr> <td height="24" style="line-height: 24px;
+ font-size: 24px;">&nbsp;</td> </tr> <tr> <!--Social Module Begin--> <td
+ valign="top" style="border-collapse: collapse;"> <div mktoname="SocialIcons"
+ id="SocialIcons"> <table cellpadding="0" cellspacing="0" align="center"
+ border="0" width="100%" style="width: 100%; border-collapse: collapse;
+ margin: 0 auto;"> <tbody> <tr> <td class="line-height" valign="top"
+ align="center" style="margin: 0 auto; text-align: left;"><a
+ href="https://link.uipath.com/p0h00X0etT040o4LbG0seg4"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/facebook_gray.png"
+ alt="Facebook" border="0" width="20" /></a>&nbsp;&nbsp; <a
+ href="https://link.uipath.com/P00040bXGL0sph0g0euTe44"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/twitter_gray.png"
+ alt="Twitter" border="0" width="20" /></a>&nbsp;&nbsp; <a
+ href="https://link.uipath.com/FeeLG00qv0X0s4g4000Tb4h"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/linkedin_gray.png"
+ alt="LinkedIn" border="0" width="20" /></a>&nbsp;&nbsp; <a
+ href="https://link.uipath.com/tbTs440gXe0Gw004Lh000er"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/youtube.png"
+ alt="Youtube" border="0" width="20" /></a>&nbsp;&nbsp;</td> </tr> </tbody>
+ </table> </div> </td> <!--Social Module End--> </tr> <!--Extra Space--> <tr>
+ <td height="24" style="line-height: 24px; font-size: 24px;">&nbsp;</td> </tr>
+ <tr> <td valign="top" style="font-size: 16px; color: #000000; font-family:
+ Helvetica,sans-serif; mso-line-height-rule: exactly; line-height: 24px;">
+ <div mktoname="Privacy Policy" id="Links-privacy"> <div> <a
+ href="https://link.uipath.com/c0h044sX0G4L0ebTx0esg00"
+ style="text-decoration: none; color: #0067df;">Read privacy policy</a>.
+ </div> </div> </td> </tr> <!--Extra Space--> <tr> <td height="36"
+ style="line-height: 36px; font-size: 36px;">&nbsp;</td> </tr> </tbody>
+ </table> </td> </tr> </tbody> </table></div> <!--Footer End-->  <img
+ =?utf-8?q?src=3D=22https=3A=2F=2Flink=2Euipath=2Ecom=2Ftrk=3Ft=3D1&mid=3DOTk1LVhMVC04ODY6MDoz?=
+ =?utf-8?q?OTI3OjE2Mzk1OjA6MTE2MzI6OTozNDczOjQwNjc4NDgtMTpudWxs=22?= width="1"
+ height="1" style="display:none !important;" alt="" /></body></html>
+Content-Type: multipart/alternative; boundary="=-VzQru1V5Um343V/wfGW1hA=="
+
+--=-VzQru1V5Um343V/wfGW1hA==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Id: <e92cb744-fe67-4207-ad89-ec282688fd78>
+
+Welcome to your free UiPath Automation Cloud for community=20
+=20
+=20
+Hello Victor,=20
+=20
+=20
+Thanks for signing up! Here <https://cloud.uipath.com/> are your login=
+ details. Don=E2=80=99t forget to bookmark them.=20
+=20
+=20
+ Let=E2=80=99s Get Started!=20
+=20
+=20
+Email address: victor.franca@globalred.com.br=20
+=20
+ =20
+=20
+=20
+         <https://cloud.uipath.com/>
+
+--=-VzQru1V5Um343V/wfGW1hA==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Id: <271cfaff-9bed-4609-ad4b-c87ba417dc37>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-mi=
+crosoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>=20
+<!--[if gte mso 9]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG />
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->=20
+<!--Global Variables Begin-->=20
+<!--Global Variables End-->=20
+<!--FullWidthImage Module Variables Begin-->=20
+<!--FullWidthImage Module Variables End-->=20
+<!--InlineImage Module Variables Begin-->=20
+<!--InlineImage Module Variables End-->=20
+<!--InlineImageMeta Module Variables Begin-->=20
+<!--InlineImageMeta Module Variables End-->=20
+<!--H1 Title Module Variables Begin-->=20
+<!--H1 Title Module Variables End-->=20
+<!--H1 Title Copy Module Variables Begin-->=20
+<!--H1 Title Copy Module Variables End-->=20
+<!--H1 Title Tag Module Variables Begin-->=20
+<!--H1 Title Tag Module Variables End-->=20
+<!--H2 Title Tag Module Variables Begin-->=20
+<!--H2 Title Tag Module Variables End-->=20
+<!--H3 Title Tag Module Variables Begin-->=20
+<!--H3 Title Tag Module Variables End-->=20
+<!--FreeText Module Variables Begin-->=20
+<!--FreeText Module Variables End-->=20
+<!--FreeText Copy Module Variables Begin-->=20
+<!--FreeText Copy Module Variables End-->=20
+<!--Highlight H1 Tag Module Variables Begin-->=20
+<!--Highlight H1 Tag Module Variables End-->=20
+<!--Highlight H1 Module Variables Begin-->=20
+<!--Highlight H1 Module Variables End-->=20
+<!--Highlight H2 Module Variables Begin-->=20
+<!--Highlight H2 Module Variables End-->=20
+<!--Highlight H2 Image Module Variables Begin-->=20
+<!--Highlight H2 Image Module Variables End-->=20
+<!--Highlight H3 Module Variables Begin-->=20
+<!--Highlight H3 Module Variables End-->=20
+<!--CTA Primary Button Module Variables Begin-->=20
+<!--CTA Primary Button Module Variables End-->=20
+<!--CTA Primary Button Copy Module Variables Begin-->=20
+<!--CTA Primary Button Copy Module Variables End-->=20
+<!--CTA Block Button Module Variables Begin-->=20
+<!--CTA Block Button Module Variables End-->=20
+<!--CTA Secondary Button Module Variables Begin-->=20
+<!--CTA Secondary Button Module Variables End-->=20
+<!--Other Meta Tags Begin-->=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-=
+8" />=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1" />=20
+<meta name=3D"robots" content=3D"noindex,nofollow" />=20
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />=20
+<!--Other Meta Tags End-->=20
+<!--[if mso]>
+      <style type=3D"text/css">
+        .primary-font {
+          font-family: Arial, sans-serif !important;
+        }
+      </style>
+    <![endif]-->=20
+<!--[if mso]>
+      <style type=3D"text/css">
+        .secondary-font {
+          font-family: Arial, sans-serif !important;
+        }
+      </style>
+    <![endif]-->=20
+<!--[if gte mso 9]>
+      <style type=3D"text/css">
+        #hero .table3-3 {
+          width: 100% !important;
+        }
+      </style>
+    <![endif]-->=20
+<style>
+      /*startcommon*/
+      @media only screen and (max-width: 803px) {
+        .m_hero .background {
+          background-size: cover !important;
+        }
+      }
+
+      /*endcommon*/
+    </style>=20
+<!--[if mso]>
+      <style>
+        .outlookbutton {
+          padding-left: 60px !important;
+        }
+      </style>
+    <![endif]-->=20
+<style media=3D"all">
+      /* CLIENT-SPECIFIC STYLES */
+      #outlook a {
+        padding: 0;
+      }
+
+      /* Force Outlook to provide a "view in browser" message */
+      .ReadMsgBody {
+        width: 100%;
+      }
+
+      .ExternalClass {
+        width: 100%;
+      }
+
+      /* Force Hotmail to display emails at full width */
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%;
+      }
+
+      /* Force Hotmail to display normal line spacing */
+      /* iOS BLUE LINKS */
+      @-ms-viewport {
+        width: device-width;
+      }
+    </style>=20
+<style type=3D"text/css">
+      html {
+        -webkit-text-size-adjust: none;
+      }
+
+      p {
+        margin: 0 0 10px !important;
+        padding: 0;
+      }
+
+      body {
+        font-family: Lato, Calibri, sans-serif;
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      a {
+      outline: none !important;
+      text-decoration: none !important;
+      color: #0067df;
+    }
+
+    a:visited {
+      color: #0067df;
+    }
+     =20
+    table {
+  border-collapse: collapse;
+	}
+    table.uipathTable {
+  border: 1px solid #D3D3D3;
+}
+      th.uipathTable {
+        border: 1px solid #D3D3D3;
+      }
+      td.uipathTable {
+        border: 1px solid #D3D3D3;
+       =20
+      }
+
+    .button--primary {
+      color: #ffffff;
+      outline: none;
+      text-decoration: none;
+    }
+
+    .button--primary:visited,
+    .button--primary:visited * {
+      outline: none;
+      text-decoration: none;
+      color: #ffffff;
+    }
+
+    .button--secondary:visited,
+    .button--secondary:visited * {
+      outline: none;
+      text-decoration: none;
+      color: #000000;
+    }
+
+      @media only screen and (max-width: 640px) {
+        .em_main_table {
+          width: 100% !important;
+        }
+
+        .em_spc_20 {
+          height: 20px !important;
+        }
+
+        .em_hide {
+          display: none !important;
+        }
+
+        .m_hero .background {
+          background-size: cover !important;
+        }
+
+        table[class=3D"table600"] {
+          width: 450px !important;
+        }
+
+        *[class].main {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+
+        *[class].inner_table {
+          width: 90% !important;
+          min-width: 90% !important;
+        }
+
+        *[class].block {
+          width: 100% !important;
+          margin: 0 auto !important;
+          padding: 0 !important;
+          display: block;
+        }
+
+        *[class].center_align {
+          text-align: center !important;
+          margin: 0 auto;
+        }
+
+        *[class].left_align {
+          text-align: left !important;
+        }
+
+        *[class].padding_bottom {
+          padding-bottom: 20px !important;
+        }
+
+        *[class].padding_top {
+          padding-top: 20px !important;
+        }
+
+        *[class].image-width img {
+          width: 100% !important;
+          height: auto !important;
+        }
+
+        *[class].line-height {
+          line-height: 36px !important;
+        }
+
+        *[class].button_width {
+          width: 100% !important;
+        }
+
+        *[class].Video img {
+          max-width: 100% !important;
+          height: auto !important;
+        }
+
+        *[class].margin-top {
+          margin-top: 20px !important;
+        }
+
+        *[class].float {
+          float: none !important;
+          margin-top: 14px !important;
+          display: inline-block;
+        }
+
+        *[class].button_width {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 479px) {
+        .m_hero .background {
+          background-size: cover !important;
+        }
+
+        .em_spc_20 {
+          height: 20px !important;
+        }
+
+        .em_hide {
+          display: none !important;
+        }
+
+        .em_main_table {
+          width: 100% !important;
+        }
+
+        table[class=3D"table600"] {
+          width: 290px !important;
+        }
+
+        *[class].main {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+
+        *[class].inner_table {
+          width: 90% !important;
+          min-width: 90% !important;
+        }
+
+        *[class].block {
+          width: 100% !important;
+          margin: 0 auto !important;
+          padding: 0 !important;
+          display: block;
+        }
+
+        *[class].center_align {
+          text-align: center !important;
+          margin: 0 auto;
+        }
+
+        *[class].left_align {
+          text-align: left !important;
+        }
+
+        *[class].padding_top {
+          padding-top: 20px !important;
+        }
+
+        *[class].padding_bottom {
+          padding-bottom: 20px !important;
+        }
+
+        *[class].image-width img {
+          width: 100% !important;
+          height: auto !important;
+        }
+
+        *[class].img-width img {
+          width: 100% !important;
+          height: auto !important;
+        }
+
+        *[class].line-height {
+          line-height: 36px !important;
+        }
+
+        *[class].button_width {
+          width: 100% !important;
+        }
+
+        *[class].Video img {
+          max-width: 100% !important;
+          height: auto !important;
+        }
+
+        *[class].margin-top {
+          margin-top: 20px !important;
+        }
+
+        *[class].float {
+          float: none !important;
+          margin-top: 14px !important;
+          display: inline-block;
+        }
+
+        *[class].button_width {
+          width: 100% !important;
+        }
+      }
+    </style>=20
+</head>=20
+<body style=3D"background-color:#ffffff;margin-bottom: 0; -webkit-text=
+-size-adjust: 100%; padding-bottom: 0; min-width: 100%; margin-top: 0;=
+ margin-right: 0; -ms-text-size-adjust: 100%; margin-left: 0; padding-=
+top: 0; padding-right: 0; padding-left: 0; width: 100%;">=20
+<!--Outer table START-->=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; =
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; borde=
+r-collapse: collapse;margin:0 auto;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"outer" valign=3D"top" style=3D"-webkit-text-size-adjust: =
+100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse;">=20
+<!--Header starts-->=20
+<table width=3D"600" class=3D"main" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; margin:0 auto; border-spacing: 0; border-collapse: collapse=
+;" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td bgcolor=3D"#FFFFFF" style=3D"border-collapse:collapse; background-=
+color:#FFFFFF;">=20
+<table class=3D"inner_table" style=3D"margin:0 auto;width:600px;" alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"600">=20
+<!--Extra Space-->=20
+<tbody>=20
+<tr>=20
+<td height=3D"26" style=3D"line-height:26px;font-size:1px;color:#fffff=
+f" bgcolor=3D"#ffffff"> &nbsp; </td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" align=3D"left" style=3D"text-align:left;">=20
+<div class=3D"mktoImg" id=3D"Logo-bp" mktolockimgsize=3D"true">
+<img border=3D"0" src=3D"https://start.uipath.com/rs/995-XLT-886/image=
+s/uipath-logo.png" width=3D"163" height=3D"56" style=3D"" />
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height:24px;font-size:1px;color:#fffff=
+f" bgcolor=3D"#ffffff"> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--Header ends-->=20
+<table class=3D"main" width=3D"600" align=3D"center" id=3D"boxing" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;marg=
+in:0 auto;min-width:600px;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"mktoContainer boxedbackground" id=3D"module-wrapper" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webk=
+it-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: =
+collapse;">
+<table class=3D"mktoModule" id=3D"FreeText09f31a1c-a1cd-4bf4-a43a-e275=
+a3c2dc02" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing:=
+ 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF">=20
+<table class=3D"inner_table" style=3D"width: 500px; margin: 0 auto; te=
+xt-align: center; border-collapse: collapse;" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"500">=20
+<tbody>=20
+<!--Extra space-->=20
+<tr>=20
+<td height=3D"5" style=3D"line-height:5px;font-size:1px;color:#ffffff"=
+ bgcolor=3D"#ffffff"> &nbsp; </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"font-size:16px; color:#000000; font-family:Helvetica,sans=
+-serif; mso-line-height-rule: exactly; line-height:24px;text-align:lef=
+t;" valign=3D"top">=20
+<div id=3D"FreeTextContent09f31a1c-a1cd-4bf4-a43a-e275a3c2dc02" class=3D=
+"mktoText">
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial; text-decoration-color: initial;=
+">=20
+<span style=3D"font-size: 20px;"><strong>Welcome to your free UiPath A=
+utomation Cloud for community</strong></span>=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial; text-decoration-color: initial;=
+">=20
+<br />Hello Victor,=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial; text-decoration-color: initial;=
+">=20
+<br />Thanks for signing up!=20
+<a href=3D
+"https://link.uipath.com/n/v0he04gc0bGTXsheL044000" target=3D"_blank" =
+class=3D"mktNoTok" id=3D""
+>Here</a> are your login details. Don=E2=80=99t forget to bookmark the=
+m.=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial; text-decoration-color: initial;=
+">=20
+<br />=20
+<span style=3D"font-size: 18px;"><strong>Let=E2=80=99s Get Started!</s=
+trong></span>=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial; text-decoration-color: initial;=
+">=20
+<br />Email address: victor.franca@globalred.com.br=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial; text-decoration-color: initial;=
+">=20
+<span style=3D"font-size: 16px;"></span>=20
+<br />=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial; text-decoration-color: initial;=
+">=20
+<table width=3D"257" height=3D"55">=20
+<tbody>=20
+<tr>=20
+<td height=3D"55"><a href=3D
+"https://link.uipath.com/n/v0he04gc0bGTXsheL044000" target=3D"_blank" =
+class=3D"mktNoTok"
+> <span style=3D"font-size: 16px;"> <img src=3D"https://start.uipath.c=
+om/rs/995-XLT-886/images/login_Cloud_CTA_jpg.jpg" alt=3D"login_Cloud_C=
+TA_jpg.jpg" height=3D"55" width=3D"257" constrain=3D"true" imageprevie=
+w=3D"false" /> </span> </a></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div>
+</div>=20
+<div>=20
+<span style=3D"color: #000000; font-family: Helvetica, sans-serif; fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: no=
+rmal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align=
+: left; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; backgroun=
+d-color: #ffffff;=20
+text-decoration-style:=20
+initial; text-decoration-color: initial; font-size: 18px;"></span>=20
+<br />=20
+</div>=20
+<div>=20
+<span style=3D"color: #000000; font-family: Helvetica, sans-serif; fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: no=
+rmal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align=
+: left; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; backgroun=
+d-color: #ffffff;=20
+text-decoration-style:=20
+initial; text-decoration-color: initial; font-size: 18px;"><span style=
+=3D"color: #000000; font-family: Helvetica, sans-serif; font-size: 16p=
+x; font-style: normal; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text=
+-align: left; text-indent: 0px; text-transform: none; white-space: nor=
+mal; widows: 2; word-spacing: 0px;=20
+-webkit-text-stroke-width: 0px; background-color: #ffffff; text-decora=
+tion-style: initial; text-decoration-color: initial; display: inline !=
+important; float: none;">See how to<span>&nbsp;</span></span> <a href=3D
+"https://link.uipath.com/n/Ti4Xg0s0e000eLd40Gh4bT0" target=3D"_blank" =
+class=3D"mktNoTok" id=3D"" style=3D"font-family: Helvetica, sans-serif=
+; font-size: 16px; font-style: normal;=20
+font-variant-ligatures: normal; font-variant-caps: normal; font-weight=
+: 400; letter-spacing: normal; orphans: 2; text-align: left; text-inde=
+nt: 0px; text-transform: none; white-space: normal; widows: 2; word-sp=
+acing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;=
+"
+>build and publish your first automation now</a><span style=3D"color: =
+#000000; font-family: Helvetica, sans-serif;=20
+font-size: 16px; font-style: normal; font-variant-ligatures: normal; f=
+ont-variant-caps: normal; font-weight: 400; letter-spacing: normal; or=
+phans: 2; text-align: left; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-w=
+idth: 0px; background-color: #ffffff; text-decoration-style: initial; =
+text-decoration-color: initial; display: inline=20
+!important; float: none;">.</span></span>=20
+<br />=20
+</div>=20
+<div>=20
+<span style=3D"color: #fa4616; font-family: Helvetica, sans-serif; fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: no=
+rmal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align=
+: left; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; backgroun=
+d-color: #ffffff;=20
+text-decoration-style:=20
+initial; text-decoration-color: initial; font-size: 18px;"><strong>___=
+________________________________________________________</strong></spa=
+n>=20
+</div>=20
+<div>=20
+<span style=3D"font-size: 16px;"></span>=20
+<br />=20
+</div>=20
+<div>=20
+<span style=3D"font-size: 18px;"><strong>Want to Learn More?</strong><=
+span>&nbsp;</span></span>=20
+<span style=3D"color: #000000; font-family: Helvetica, sans-serif; fon=
+t-size: 16px; font-style: normal; font-variant-ligatures: normal; font=
+-variant-caps: normal; font-weight: 400; letter-spacing: normal; orpha=
+ns: 2; text-align: left; text-indent: 0px; text-transform: none; white=
+-space: normal;=20
+widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; backgrou=
+nd-color: #ffffff; text-decoration-style: initial; text-decoration-col=
+or: initial; display: inline !important; float: none;">When you are re=
+ady, here=E2=80=99s more info on the automation power you=E2=80=99ve n=
+ow got at your fingertips=E2=80=A6</span>=20
+</div>=20
+<div>=20
+<span style=3D"color: #000000; font-family: Helvetica, sans-serif; fon=
+t-size: 16px; font-style: normal; font-variant-ligatures: normal; font=
+-variant-caps: normal; font-weight: 400; letter-spacing: normal; orpha=
+ns: 2; text-align: left; text-indent: 0px; text-transform: none; white=
+-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-widt=
+h: 0px; background-color:=20
+#ffffff;=20
+text-decoration-style: initial; text-decoration-color: initial; displa=
+y: inline !important; float: none;"></span>=20
+<br />=20
+</div>=20
+<div style=3D"text-align: center;">=20
+<strong><span style=3D"color: #000000; font-family: Helvetica, sans-se=
+rif; font-size: 16px; font-style: normal; font-variant-ligatures: norm=
+al; font-variant-caps: normal; letter-spacing: normal; orphans: 2; tex=
+t-align: left; text-indent: 0px; text-transform: none; white-space: no=
+rmal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; ba=
+ckground-color:=20
+#ffffff; text-decoration-style: initial; text-decoration-color: initia=
+l; float: none; display: inline !important;">The UiPath Automation Pla=
+tform</span></strong>=20
+</div>=20
+<div>=20
+<br />=20
+</div>=20
+<div>=20
+<table width=3D"600" height=3D"134">=20
+<tbody>=20
+<tr>=20
+<td height=3D"134"><img class=3D"i" src=3D"https://start.uipath.com/rs=
+/995-XLT-886/images/hyperautomation_mtt2.png" alt=3D"hyperautomation_m=
+tt2.png" height=3D"134" width=3D"600" constrain=3D"true" imagepreview=3D=
+"false" /></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<br />=20
+</div>=20
+<div>
+ In the&nbsp;Community Cloud you get the following capabilities of the=
+ platform:=20
+</div>=20
+<div>=20
+<br />=20
+</div>=20
+<table class=3D"uipathTable" style=3D"border-width: 1px; height: 500px=
+; width: 600px;" cellpadding=3D"10">=20
+<tbody>=20
+<tr>=20
+<td class=3D"uipathTable" style=3D"width: 50px; background-color: #006=
+7df;"><span style=3D"color: #ffffff; font-size: 16px; font-family: hel=
+vetica, arial, sans-serif;"><strong>Build</strong></span></td>=20
+<td class=3D"uipathTable" style=3D"width: 350px;"><span style=3D"font-=
+family: helvetica, arial, sans-serif; font-size: 16px;"><p> Anyone can=
+ build an automation with UiPath Studio. There are three different edi=
+tions depending on your level of experience and you are free to use th=
+em all. You can learn more about which one is right for&nbsp;you <a hr=
+ef=3D
+"https://link.uipath.com/n/tbTs440gXe0Gj004Lh000ee" target=3D"_blank" =
+class=3D"mktNoTok" id=3D""
+>here</a>. </p> <p> We have included two AI Skills to supercharge your=
+ robots. Your robots can read the screen just like you can with <a hre=
+f=3D
+"https://link.uipath.com/NL00fX4b000esgT0k4h0e4G"
+>AI Computer Vision</a> and intelligently understand many different ki=
+nds of documents and forms with <a href=3D
+"https://link.uipath.com/U4ls0hT0GL0Xbg04e4000ge"
+>Document Understanding</a>. </p></span></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"uipathTable" style=3D"width: 10px; background-color: #fa4=
+616;"><span style=3D"color: #ffffff; font-family: helvetica, arial, sa=
+ns-serif; font-size: 16px;"><strong>Manage</strong></span></td>=20
+<td class=3D"uipathTable" style=3D"width: 350px;"><span style=3D"font-=
+size: 16px;"><span style=3D"font-family: helvetica, arial, sans-serif;=
+">We handle all the infrastructure, updates, data modeling, and storag=
+e for you. Simple web tools let you deploy your automations to the rob=
+ots that run them - then manage them and see what the robots are doing=
+. You can model and store business data directly in the platform for e=
+asy access from the UiPath suite of products with <a href=3D
+"https://link.uipath.com/e40eUT04000LXw04hfgGs0b"
+>Data Service</a>.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp;<br /></span> <span style=3D"font-family: helvetica, =
+arial, sans-serif;"> </span></span></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"uipathTable" style=3D"width: 10px; background-color: #ed1=
+45b;"><span style=3D"color: #ffffff; font-family: helvetica, arial, sa=
+ns-serif; font-size: 16px;"><strong>Run</strong></span></td>=20
+<td class=3D"uipathTable" style=3D"width: 350px;"><span style=3D"font-=
+family: helvetica, arial, sans-serif; font-size: 16px;">We mentioned r=
+obots. You have robots that can work on your desktop with you and a ro=
+bot that can work independently on a server or in the cloud. You can l=
+earn more about the different kinds of robots <a href=3D
+"https://link.uipath.com/FeeLG00hm0X0s4g4000Tb4h"
+>here</a>.</span></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"uipathTable" style=3D"width: 10px; background-color: #933=
+692;"><span style=3D"color: #ffffff; font-family: helvetica, arial, sa=
+ns-serif; font-size: 16px;"><strong>Engage</strong></span></td>=20
+<td class=3D"uipathTable" style=3D"width: 350px;"><span style=3D"font-=
+family: helvetica, arial, sans-serif; font-size: 16px;"><p> With <a hr=
+ef=3D
+"https://link.uipath.com/R00GhefL4b0040s0XVTwh40"
+>UiPath Apps</a>, a no-code app builder delivers engaging experiences =
+powered by automation. </p> <p> You will probably find that you soon w=
+ant to build automations where robots and people work together on task=
+s. Learn how you can do this easily with <a href=3D
+"https://link.uipath.com/Y0bhg0n4s004e004GLX0iTe"
+>UiPath Action Center</a>. </p></span></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial;=20
+text-decoration-color: initial;">=20
+<br />=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial;=20
+text-decoration-color: initial;">
+ You might find these additional links useful as you start your automa=
+tion journey:=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial;=20
+text-decoration-color: initial;">=20
+<ul>=20
+<li><a href=3D
+"https://link.uipath.com/n/ZL4hs0eob000040ej40GTXg" target=3D"_blank" =
+class=3D"mktNoTok" id=3D""
+>Dive deep</a><span>&nbsp;</span>in the docs</li>=20
+<li><a href=3D
+"https://link.uipath.com/n/kX0pG0400gs04Lb4ee0kh0T" target=3D"_blank" =
+class=3D"mktNoTok" id=3D""
+>Skill up</a><span>&nbsp;</span>with free online training</li>=20
+<li><a href=3D
+"https://link.uipath.com/n/I0e0lXe0Ghsq4b440g0LT00" target=3D"_blank" =
+class=3D"mktNoTok" id=3D""
+>Connect</a><span>&nbsp;</span>with the community</li>=20
+<li><a href=3D
+"https://link.uipath.com/n/U4rs0hT0GL0Xbg04e4000me" target=3D"_blank" =
+class=3D"mktNoTok" id=3D""
+>Contact Us</a><span>&nbsp;</span>for assistance.</li>=20
+</ul>=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial;=20
+text-decoration-color: initial;">
+ Have fun and happy automating!=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial;=20
+text-decoration-color: initial;">
+ The UiPath Team=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial;=20
+text-decoration-color: initial;">=20
+<br />=20
+</div>=20
+<div style=3D"color: #000000; font-family: Helvetica, sans-serif; font=
+-size: 16px; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphan=
+s: 2; text-align: left; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration-style: initial;=20
+text-decoration-color: initial;">=20
+<span style=3D"font-size: 12px;">UiPath Automation Cloud for community=
+ includes - StudioX (included in Studio licenses), Studio (2 licenses)=
+, Studio Pro (2 licenses), AI Computer Vision (30 megapixels / min), D=
+ocument Understanding (2 pages and 4MB), Attended Robots (2 licenses),=
+ Unattended Robots (1 license including Test Robot), Action Center (5 =
+licenses), Data Service (100MB data storage, 500MB attachment storage)=
+, Apps.</span>=20
+</div> </td>=20
+</tr>=20
+<!--Extra space-->=20
+<tr>=20
+<td style=3D"line-height: 5px; font-size: 1px;color:#ffffff;" height=3D=
+"5" bgcolor=3D"#ffffff"> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--Outer table End-->=20
+<!--Footer Begin-->=20
+<div class=3D"mktoSnippet" id=3D"snippetFooter">
+<table class=3D"main" style=3D"-webkit-text-size-adjust: 100%; -ms-tex=
+t-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; bor=
+der-spacing: 0; border-collapse: collapse; margin: 0 auto; background-=
+color: #f2f2f2;" bgcolor=3D"#f2f2f2" align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;">=20
+<td bgcolor=3D"#f2f2f2" style=3D"border-collapse: collapse; background=
+-color: #f2f2f2;">=20
+<table class=3D"inner_table" style=3D"margin: 0 auto; width: 500px;" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"500">=20
+<!--Extra Space-->=20
+<tbody>=20
+<tr>=20
+<td height=3D"36" style=3D"line-height: 36px; font-size: 36px;">&nbsp;=
+</td>=20
+</tr>=20
+<tr></tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"font-size: 16px; color: #000000; font-fami=
+ly: Helvetica,sans-serif; mso-line-height-rule: exactly; line-height: =
+24px;">=20
+<div mktoname=3D"Address" id=3D"Address-bp">=20
+<div>
+ Visit=20
+<a href=3D
+"https://link.uipath.com/Q0gT0eL0Xn4G404eb00shs0" style=3D"text-decora=
+tion: none; color: #0067df;"
+>UiPath</a>=20
+</div>=20
+<div>
+ UiPath Inc. | 90 Park Ave, New York, NY 10016 United States=20
+</div>=20
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height: 24px; font-size: 24px;">&nbsp;=
+</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"font-size: 16px; color: #000000; font-fami=
+ly: Helvetica,sans-serif; mso-line-height-rule: exactly; line-height: =
+24px;">=20
+<div mktoname=3D"Unsubscribe" id=3D"Links-bp">=20
+<div>
+ To choose the types of emails you receive, or to opt yourself out com=
+pletely,=20
+<a href=3D"https://start.uipath.com/UnsubscribePage.html?mkt_unsubscri=
+be=3D1&mkt_tok=3DeyJpIjoiT0RCak56aGtaRFF5TlRNeSIsInQiOiI5bU9LUjZYRnRBW=
+TUyclI1bG1Ja0dPU0h2L3hkNmRPeCtGZWZJT2pGYU5VcUZYNkJ4V3JUWDZWWGxOR3c3UDk=
+5MnRyVFRGVkVTY0dMdEdyMElzUWVsZXN1RXQ5V3k4K0pwWmN4dG81b2NGckh4R3VxNzE1Z=
+Fg2L2ZsV1RXMWFOWSJ9" style=3D"text-decoration: none; color: #0067df;">=
+let us know</a>.=20
+</div>=20
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height: 24px; font-size: 24px;">&nbsp;=
+</td>=20
+</tr>=20
+<tr>=20
+<!--Social Module Begin-->=20
+<td valign=3D"top" style=3D"border-collapse: collapse;">=20
+<div mktoname=3D"SocialIcons" id=3D"SocialIcons">=20
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"=
+0" width=3D"100%" style=3D"width: 100%; border-collapse: collapse; mar=
+gin: 0 auto;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"line-height" valign=3D"top" align=3D"center" style=3D"mar=
+gin: 0 auto; text-align: left;"><a href=3D
+"https://link.uipath.com/p0h00X0etT040o4LbG0seg4"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/faceboo=
+k_gray.png" alt=3D"Facebook" border=3D"0" width=3D"20" /></a>&nbsp;&nb=
+sp; <a href=3D
+"https://link.uipath.com/P00040bXGL0sph0g0euTe44"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/twitter=
+_gray.png" alt=3D"Twitter" border=3D"0" width=3D"20" /></a>&nbsp;&nbsp=
+; <a href=3D
+"https://link.uipath.com/FeeLG00qv0X0s4g4000Tb4h"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/linkedi=
+n_gray.png" alt=3D"LinkedIn" border=3D"0" width=3D"20" /></a>&nbsp;&nb=
+sp; <a href=3D
+"https://link.uipath.com/tbTs440gXe0Gw004Lh000er"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/youtube=
+.png" alt=3D"Youtube" border=3D"0" width=3D"20" /></a>&nbsp;&nbsp;</td=
+>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+<!--Social Module End-->=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height: 24px; font-size: 24px;">&nbsp;=
+</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"font-size: 16px; color: #000000; font-fami=
+ly: Helvetica,sans-serif; mso-line-height-rule: exactly; line-height: =
+24px;">=20
+<div mktoname=3D"Privacy Policy" id=3D"Links-privacy">=20
+<div>=20
+<a href=3D
+"https://link.uipath.com/c0h044sX0G4L0ebTx0esg00" style=3D"text-decora=
+tion: none; color: #0067df;"
+>Read privacy policy</a>.=20
+</div>=20
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"36" style=3D"line-height: 36px; font-size: 36px;">&nbsp;=
+</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+</div>=20
+<!--Footer End--> =20
+
+<img src=3D"https://link.uipath.com/trk?t=3D1&mid=3DOTk1LVhMVC04ODY6MD=
+ozOTI3OjE2Mzk1OjA6MTE2MzI6OTozNDczOjQwNjc4NDgtMTpudWxs" width=3D"1" he=
+ight=3D"1" style=3D"display:none !important;" alt=3D"" />
+</body>
+</html>
+--=-VzQru1V5Um343V/wfGW1hA==--

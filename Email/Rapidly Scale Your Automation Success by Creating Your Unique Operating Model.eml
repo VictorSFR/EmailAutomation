@@ -1,0 +1,1354 @@
+Return-Path: <995-XLT-886.0.11295.0.0.10414.9.1338408@bounce.uipath.com>
+Delivered-To: victor.franca@globalred.dominiotemporario.com
+Received: from bounce.uipath.com (bounce.uipath.com [185.28.196.158])
+	by a2-snowball8.uhserver.com (Postfix) with ESMTP id 4C4mSB3RcQz18W8tV
+	for <victor.franca@globalred.com.br>; Mon,  5 Oct 2020 13:35:53 -0300 (-03)
+X-MSFBL: WTgJ/gGgJyCHR5JpE20NjbKXh9Fhsci46935i/tm7v4=|eyJiIjoiZHZwLTE4NS0
+	yOC0xOTYtMTU4IiwiciI6InZpY3Rvci5mcmFuY2FAZ2xvYmFscmVkLmNvbS5iciI
+	sInUiOiI5OTUtWExULTg4Njo1MDcwOjkwNDU6NDAxNTk6MDoxMDQxNDo5OjExMjk
+	1OjEzMzg0MDgiLCJnIjoiYmctbG9uZC0xMzMifQ==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1601915752;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=BKiVEKuTUYhLqnlfMiBaadIFPBuwbXoZGlOq+OdxTOs=;
+	b=LnmKGyRQM1L++btue7nreDdNCuDdCHeFtUX/HqtHDdfoRNI/CEPKh06KZL6lmQeOclqRaKAxtBo
+	Amlrgkdsy/BVNuXeo/8OMQY2KsRmsIrkOg486/XfrCn1p3O1Fj8utSjhvp+BgsjhQqnLsMZzmqzHb
+	wqf1sWoCrC27abtvCjc=
+Date: Mon, 5 Oct 2020 11:35:52 -0500 (CDT)
+From: UiPath <info@mail.uipath.com>
+Reply-To: info@mail.uipath.com
+To: victor.franca@globalred.com.br
+Message-ID: <1094836099.1445433380.1601915752673.JavaMail.mktmail@lon-mas2.marketo.org>
+Subject: Rapidly Scale Your Automation Success by Creating Your Unique
+ Operating Model
+MIME-Version: 1.0
+X-PVIQ: mkto-995XLT886-000001-000000-011295
+X-Binding: bg-lond-133
+X-MarketoID: 995-XLT-886:5070:9045:40159:0:10414:9:11295:1338408
+X-MktArchive: false
+List-Unsubscribe: =?us-ascii?q?=3Cmailto=3AOV4HIMBQKRVFSV3OKI2EOQJYIFSTSZSDOFTT2PI=2E11295=2E10414=2E9?=
+ =?us-ascii?q?=40unsub-lon=2Emktomail=2Ecom=3E?=
+X-Mailfrom: 995-XLT-886.0.11295.0.0.10414.9.1338408@bounce.uipath.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-AS-Analysis: v=2.2 cv=J7Do10vS c=1 sm=1 tr=0 b=1
+	a=agTaGvnglJ2pj+2FOmPE1A==:117 a=agTaGvnglJ2pj+2FOmPE1A==:17	a=Khrlo1EnAAAA:8
+ a=SR-4BQmHMlaAD4Ahc0cA:9 a=J1C6kpt9cNpaQSXT:21	a=YFavM1nXb9rch92r:21
+ a=QEXdDO2ut3YA:10 a=qI0h92iioM8A:10 a=SSmOFEACAAAA:8	a=ysGw84nnAAAA:8
+ a=M7ntxjlv9E2hnQMYKfsA:9 a=iwOmjnnxVDDBUFK0FAcMXiLaCZA=:19
+	a=X-e6orRl1ZO-ziGV:21 a=_F5KIEwyeRRM4q3k:21 a=uVfBDOkC7QaPvrxs:21
+	a=frz4AuCg-hUA:10 a=_W_S_7VecoQA:10 a=haJ6DGex9BIA:10
+	a=paV93vv4cj-Vde9cFmLS:22 a=Xm6hKgvSi3MD_Uhjc0t-:22
+Uid: 531
+Folder: INBOX
+PlainText: To view this email as a web page, go to the following address:
+ =?utf-8?q?https=3A=2F=2Fstart=2Euipath=2Ecom=2Findex=2Ephp=2Femail=2FemailWebview=3Fmkt=5Ftok?=
+ =?utf-8?q?=3DeyJpIjoiTXpoaVpEUXhOalF5TnpJNSIsInQiOiJISmxoYmxWcUlvYjM3QkNB?=
+ =?utf-8?q?N01HazFRMlUrQ2N3YmhIMHhUUW9kWnUxVkFsMDBJVkJMbXJZZkhTWmpic3VMQ?=
+ =?utf-8?q?09YZlg1T1FzcHBUMmV4Nm1xTlc0bFR5WEpuc3lGYnlCU2ZFajZVeXVVakZVRm?=
+ =?utf-8?q?1BL0g4S2pRRHQrZGY2OU9JTTlyQSJ9October?= 14 1:00 pm - 2:00 pmUiPath
+ Webinar: Automation Operating Models in
+ =?utf-8?q?ActionHi=C2=A0Victor=2CJoin_us_to?=
+ =?utf-8?q?_learn=C2=A0stories_of=C2=A0automation_success=C2=A0at_scale=C2=A0and?=
+ get details on what it takes to get =?utf-8?b?dGhlcmUuwqBPdXI=?= Global VP of
+ Services, =?utf-8?b?VG9twqBUb3Jsb25lwqB3aWxs?= share the Automation Operating
+ Model (AOM) =?utf-8?b?YmFzaWNzwqBvbiBPY3QuwqAxNMKgZnJvbQ==?= 1:00 pm to 2:00
+ pm ET.
+ =?utf-8?q?=3Chttps=3A=2F=2Flink=2Euipath=2Ecom=2Fr5040T4r0LnGb4Xce00C0b0=3E=C2=A0Tom?=
+ has developed the largest automation programs in the
+ =?utf-8?q?world=C2=A0=28such_as=C2=A0at_Applied_Materials?=
+ =?utf-8?q?_=3Chttps=3A=2F=2Flink=2Euipath=2Ecom=2Fm0004x4050CbcGebLpg0XT0=3E=29=C2=A0and?=
+ will be joined by an all-star cast
+ =?utf-8?b?b2bCoFVpUGF0aGVycy4gV2XigJlsbA==?= share strategies that address
+ organization design and resource allocation to capture the endless potential
+ =?utf-8?b?b2bCoGh5cGVyYXV0b21hdGlvbi7CoMKgwqBKb2luIHRoZSBsaXZlIGV2ZW50wqA=?=
+ <https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0>or
+ =?utf-8?b?anVzdMKgc2lnbiB1cMKgdG8=?= receive the recording.Webinar Takeaways:
+	- How to get started on the right track to scale automation
+ =?utf-8?b?cXVpY2tseT/CoA==?=	- How to organize yourself to be successful with
+ automation?	- What is the automation potential at your
+ =?utf-8?q?organization=3F=C2=A0This?= webinar is a continuation of our 3-part
+ blog series covering the topic. Start the series by
+ =?utf-8?q?reading=C2=A0Benefits?= of an Automation Operating Model (Part 1).
+ <https://link.uipath.com/GcL0Tq40bH5pX0bG0000e4C>${CTAPrimary-Text}
+ =?utf-8?q?=3Chttps=3A=2F=2Flink=2Euipath=2Ecom=2Fdc=2FBER=5FZpC9eN7IzNb9iZdPbSKxi7w73PLrW?=
+ =?utf-8?q?-XfgldATno=3D=2Ff00pb0G0bj00cL4CX4TAe05=3E?=
+HtmlBody: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html
+ xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"><head> <!--[if gte mso 9]>   
+ <xml>      <o:OfficeDocumentSettings>        <o:AllowPNG/>       
+ <o:PixelsPerInch>96</o:PixelsPerInch>      </o:OfficeDocumentSettings>   
+ </xml>    <![endif]--> <!--Global Variables Begin-->           <!--Global
+ Variables End--> <!--FullWidthImage Module Variables Begin--> 
+ <!--FullWidthImage Module Variables End--> <!--InlineImage Module Variables
+ Begin-->  <!--InlineImage Module Variables End--> <!--InlineImageMeta Module
+ Variables Begin-->    <!--InlineImageMeta Module Variables End--> <!--H1
+ Title Module Variables Begin-->     <!--H1 Title Module Variables End-->
+ <!--H1 Title Copy Module Variables Begin-->     <!--H1 Title Copy Module
+ Variables End--> <!--H1 Title Tag Module Variables Begin-->       <!--H1
+ Title Tag Module Variables End--> <!--H2 Title Tag Module Variables Begin-->    
+ <!--H2 Title Tag Module Variables End--> <!--H3 Title Tag Module Variables
+ Begin-->     <!--H3 Title Tag Module Variables End--> <!--FreeText Module
+ Variables Begin-->     <!--FreeText Module Variables End--> <!--FreeText Copy
+ Module Variables Begin-->     <!--FreeText Copy Module Variables End-->
+ <!--Highlight H1 Tag Module Variables Begin-->                  <!--Highlight
+ H1 Tag Module Variables End--> <!--Highlight H1 Module Variables Begin-->               
+ <!--Highlight H1 Module Variables End--> <!--Highlight H2 Module Variables
+ Begin-->                <!--Highlight H2 Module Variables End-->
+ <!--Highlight H2 Image Module Variables Begin-->                
+ <!--Highlight H2 Image Module Variables End--> <!--Highlight H3 Module
+ Variables Begin-->             <!--Highlight H3 Module Variables End-->
+ <!--CTA Primary Button Module Variables Begin-->           <!--CTA Primary
+ Button Module Variables End--> <!--CTA Primary Button Copy Module Variables
+ Begin-->           <!--CTA Primary Button Copy Module Variables End-->
+ <!--CTA Block Button Module Variables Begin-->               <!--CTA Block
+ Button Module Variables End--> <!--CTA Secondary Button Module Variables
+ Begin-->       <!--CTA Secondary Button Module Variables End--> <!--Other
+ Meta Tags Begin--> <meta http-equiv="Content-Type" content="text/html;
+ charset=UTF-8" /> <meta name="viewport" content="width=device-width,
+ initial-scale=1, minimum-scale=1, maximum-scale=1" /> <meta name="robots"
+ content="noindex,nofollow" /> <meta http-equiv="X-UA-Compatible"
+ content="IE=edge" /> <!--Other Meta Tags End--> <!--[if mso]>    <style
+ type='text/css'>      .primary-font {      font-family: Arial, sans-serif
+ !important;      }    </style>    <![endif]--> <!--[if mso]>    <style
+ type='text/css'>      .secondary-font {      font-family: Arial, sans-serif
+ !important;      }    </style>    <![endif]--> <!--[if gte mso 9]>    <style
+ type="text/css">      #hero .table3-3{      width: 100% !important;      }   
+ </style>    <![endif]--> <style>    /*startcommon*/    @media only screen and
+ (max-width: 803px) {      .m_hero .background {        background-size: cover
+ !important;      }    }    /*endcommon*/  </style> <!--[if mso]>    <style>     
+ .outlookbutton {      padding-left:60px !important      }    </style>   
+ <![endif]--> <style media="all">    /* CLIENT-SPECIFIC STYLES */    #outlook
+ a {      padding: 0;    }    /* Force Outlook to provide a "view in browser"
+ message */    .ReadMsgBody {      width: 100%;    }    .ExternalClass {     
+ width: 100%;    }    /* Force Hotmail to display emails at full width */   
+ .ExternalClass,    .ExternalClass p,    .ExternalClass span,   
+ .ExternalClass font,    .ExternalClass td,    .ExternalClass div {     
+ line-height: 100%;    }    /* Force Hotmail to display normal line spacing */   
+ /* iOS BLUE LINKS */    @-ms-viewport {      width: device-width;    } 
+ </style> <style type="text/css">    html {      -webkit-text-size-adjust:
+ none;    }    p {      margin: 0 0 10px !important;      padding: 0;    }   
+ body {      font-family: Lato, Calibri, sans-serif;    }   
+ a[x-apple-data-detectors] {      color: inherit !important;     
+ text-decoration: none !important;      font-size: inherit !important;     
+ font-family: inherit !important;      font-weight: inherit !important;     
+ line-height: inherit !important;    }    a {      outline: none !important;     
+ text-decoration: none !important;      color: #0067df;    }    a:visited {     
+ color: #0067df;    }    .button--primary {      color: #ffffff;      outline:
+ none;      text-decoration: none;    }    .button--primary:visited,   
+ .button--primary:visited * {      outline: none;      text-decoration: none;     
+ color: #ffffff;    }    .button--secondary:visited,   
+ .button--secondary:visited * {      outline: none;      text-decoration:
+ none;      color: #000000;    }    @media only screen and (max-width: 640px)
+ {      .em_main_table {        width: 100% !important;      }      .em_spc_20
+ {        height: 20px !important;      }      .em_hide {        display: none
+ !important;      }      .m_hero .background {        background-size: cover
+ !important;      }      table[class="table600"] {        width: 450px
+ !important;      }      *[class].main {        width: 100% !important;       
+ min-width: 100% !important;      }      *[class].inner_table {        width:
+ 90% !important;        min-width: 90% !important;      }      *[class].block
+ {        width: 100% !important;        margin: 0 auto !important;       
+ padding: 0 !important;        display: block;      }     
+ *[class].center_align {        text-align: center !important;        margin:
+ 0 auto;      }      *[class].left_align {        text-align: left !important;     
+ }      *[class].padding_bottom {        padding-bottom: 20px !important;     
+ }      *[class].padding_top {        padding-top: 20px !important;      }     
+ *[class].image-width img {        width: 100% !important;        height: auto
+ !Important;      }      *[class].line-height {        line-height: 36px
+ !important;      }      *[class].button_width {        width: 100%
+ !important;      }      *[class].Video img {        max-width: 100%
+ !important;        height: auto !Important;      }      *[class].margin-top {       
+ margin-top: 20px !important;      }      *[class].float {        float: none
+ !important;        margin-top: 14px !Important;        display: inline-block;     
+ }      *[class].button_width {        width: 100% !Important;      }    }   
+ @media only screen and (max-width: 479px) {      .m_hero .background {       
+ background-size: cover !important;      }      .em_spc_20 {        height:
+ 20px !important;      }      .em_hide {        display: none !important;     
+ }      .em_main_table {        width: 100% !important;      }     
+ table[class="table600"] {        width: 290px !important;      }     
+ *[class].main {        width: 100% !important;        min-width: 100%
+ !important;      }      *[class].inner_table {        width: 90% !important;       
+ min-width: 90% !important;      }      *[class].block {        width: 100%
+ !important;        margin: 0 auto !important;        padding: 0 !important;       
+ display: block;      }      *[class].center_align {        text-align: center
+ !important;        margin: 0 auto;      }      *[class].left_align {       
+ text-align: left !important;      }      *[class].padding_top {       
+ padding-top: 20px !important;      }      *[class].padding_bottom {       
+ padding-bottom: 20px !important;      }      *[class].image-width img {       
+ width: 100% !important;        height: auto !Important;      }     
+ *[class].img-width img {        width: 100% !important;        height: auto
+ !Important;      }      *[class].line-height {        line-height: 36px
+ !important;      }      *[class].button_width {        width: 100%
+ !important;      }      *[class].Video img {        max-width: 100%
+ !important;        height: auto !Important;      }      *[class].margin-top {       
+ margin-top: 20px !important;      }      *[class].float {        float: none
+ !important;        margin-top: 14px !Important;        display: inline-block;     
+ }      *[class].button_width {        width: 100% !Important;      }    } 
+ </style> </head> <body style="background-color:#ffffff;margin-bottom: 0;
+ -webkit-text-size-adjust: 100%; padding-bottom: 0; min-width: 100%;
+ margin-top: 0; margin-right: 0; -ms-text-size-adjust: 100%; margin-left: 0;
+ padding-top: 0; padding-right: 0; padding-left: 0; width: 100%;"><div
+ style="text-align: center"><font face="Verdana" size="1">To view this email
+ as a web page, <a
+ href="https://link.uipath.com/v/UCqe05T0GL0Xbr04c40007b">click here</a><br
+ /><br /></font></div> <!--Outer table START--> <table border="0"
+ cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust:
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+ 0pt; border-spacing: 0; border-collapse: collapse;margin:0 auto;"> <tbody>
+ <tr> <td class="outer" valign="top" style="-webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+ word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens:
+ none; border-collapse: collapse;"> <!--Header starts--> <table width="600"
+ class="main" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust:
+ 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin:0 auto;
+ border-spacing: 0; border-collapse: collapse;" align="center" border="0"
+ cellpadding="0" cellspacing="0"> <tbody><tr> <td bgcolor="#FFFFFF"
+ style="border-collapse:collapse; background-color:#FFFFFF;"> <table
+ class="inner_table" style="margin:0 auto;width:500px;" align="center"
+ border="0" cellpadding="0" cellspacing="0" width="500"> <!--Extra Space-->
+ <tbody><tr> <td height="26"
+ style="line-height:26px;font-size:1px;color:#ffffff" bgcolor="#ffffff">&nbsp;
+ </td> </tr> <tr> <td valign="top" align="left" style="text-align:left;"> <div
+ class="mktoImg" id="Logo-bp"><img alt="Logo" border="0"
+ src="https://start.uipath.com/rs/995-XLT-886/images/uipath-logo.png"
+ width="163" height="56" /></div> </td> </tr> <!--Extra Space--> <tr> <td
+ height="24" style="line-height:24px;font-size:1px;color:#ffffff"
+ bgcolor="#ffffff">&nbsp; </td> </tr> </tbody></table> </td> </tr>
+ </tbody></table> <!--Header ends--> <table class="main" width="600"
+ align="center" id="boxing" border="0" cellpadding="0" cellspacing="0"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;margin:0 auto;min-width:600px;"> <tbody><tr> <td
+ class="mktoContainer boxedbackground" id="module-wrapper"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;
+ -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse:
+ collapse;"><table class="mktoModule" id="FullWidthImage"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;" align="center" border="0" cellpadding="0"
+ cellspacing="0" width="100%"> <tbody> <tr> <td valign="top"
+ bgcolor="#FFFFFF"> <table class="main" style="width:600px; margin:0 auto;
+ border-collapse: collapse;" align="center" cellpadding="0" cellspacing="0"
+ width="600"> <tbody> <tr> <td align="center" class="image-width"
+ style="font-size:1px; line-height:1px;"> <div class="mktoImg"
+ id="FullWidthImageContent"> <img alt="hero" border="0"
+ src="https://start.uipath.com/rs/995-XLT-886/images/template-top-image.png"
+ width="600" height="auto" /> </div> </td> </tr> <!--Extra Space--> <tr> <td
+ style="line-height:0px; font-size: 1px;" height="0"> &nbsp;</td> </tr>
+ </tbody> </table> </td> </tr> </tbody> </table><table class="mktoModule"
+ id="H1TitleTag" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust:
+ 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;" align="center" border="0" cellpadding="0"
+ cellspacing="0" width="100%"> <tbody> <tr> <td bgcolor="#FFFFFF"
+ style="background-color:#FFFFFF"> <table class="inner_table" style="width:
+ 500px; margin: 0 auto; border-collapse: collapse;" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="500"> <tbody> <!--Extra space--> <tr>
+ <td style="line-height: 24px; font-size: 1px;" height="24">&nbsp;</td> </tr>
+ <tr> <td style="font-size:18px; color:#000000;
+ font-family:Helvetica,sans-serif; mso-line-height-rule: exactly;
+ line-height:24px; font-weight:bold;" valign="top"> <div
+ id="titlesec-main-sub-title" class="mktoText"> <p>October 14 1:00 pm - 2:00
+ pm</p> </div> </td> </tr> <tr> <td style="font-size:28px; color:#000000;
+ font-family:Helvetica,sans-serif; mso-line-height-rule: exactly;
+ line-height:30px; font-weight:bold;" valign="top"> <div
+ id="titlesec-main-title" class="mktoText"> <p>UiPath Webinar: Automation
+ Operating Models in Action</p> </div> </td> </tr> <!--Extra space--> <tr> <td
+ style="line-height: 24px; font-size: 1px;" height="24"> &nbsp;</td> </tr>
+ </tbody> </table> </td> </tr> </tbody> </table><table class="mktoModule"
+ id="FreeText" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust:
+ 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;" align="center" border="0" cellpadding="0"
+ cellspacing="0" width="100%"> <tbody> <tr> <td bgcolor="#FFFFFF"
+ style="background-color:#FFFFFF"> <table class="inner_table" style="width:
+ 500px; margin: 0 auto; text-align: center; border-collapse: collapse;"
+ align="center" border="0" cellpadding="0" cellspacing="0" width="500">
+ <!--Extra space--> <tbody> <!--Extra space--> <tr> <td style="line-height:
+ 0px; font-size: 1px;" height="0">&nbsp;</td> </tr> <tr> <td
+ style="font-size:16px; color:#000000; font-family:Helvetica,sans-serif;
+ mso-line-height-rule: exactly; line-height:24px;text-align:left;"
+ valign="top"> <div id="FreeTextContent" class="mktoText"> <p><span
+ style="font-family: arial, helvetica, sans-serif; font-size:
+ 14px;">Hi&nbsp;Victor,</span></p> <p><span style="font-family: arial,
+ helvetica, sans-serif; font-size: 14px;"><span data-contrast="none">Join us
+ to learn&nbsp;</span><span data-contrast="none">stories of&nbsp;</span><span
+ data-contrast="none">automation success&nbsp;</span><span
+ data-contrast="none">at scale</span><span
+ data-contrast="none">&nbsp;</span><span data-contrast="none">a</span><span
+ data-contrast="none">nd get details on what it takes to get
+ there.</span><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22=3E&nbsp=3B=3C=2Fspan=3E=3C=2Fspan=3E=3C=2Fp=3E?=
+ <p><span style="font-family: arial, helvetica, sans-serif; font-size:
+ 14px;"><span data-contrast="none">Our Global VP of Services,
+ Tom&nbsp;</span><span data-contrast="none">Torlone</span><span
+ data-contrast="none">&nbsp;will share the Automation Operating Model (AOM)
+ basics&nbsp;</span><a
+ href="https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0"><span
+ data-contrast="none"><span data-ccp-charstyle="Hyperlink">on
+ Oct.&nbsp;</span></span><span data-contrast="none"><span
+ data-ccp-charstyle="Hyperlink">14</span></span><span
+ data-contrast="none"><span data-ccp-charstyle="Hyperlink">&nbsp;from 1:00 pm
+ to 2:00 pm ET.</span></span></a><span data-contrast="none">&nbsp;Tom has
+ developed the largest automation programs in the world&nbsp;</span><span
+ data-contrast="none">(</span><span data-contrast="none">such as</span><span
+ data-contrast="none">&nbsp;</span><a
+ href="https://link.uipath.com/m0004x4050CbcGebLpg0XT0"><span
+ data-contrast="none"><span data-ccp-charstyle="Hyperlink">at Applied
+ Materials</span></span></a><span data-contrast="none">)&nbsp;</span><span
+ data-contrast="none">and will be joined by an all-star cast
+ of&nbsp;</span><span data-contrast="none">UiPathers</span><span
+ data-contrast="none">. =?utf-8?b?V2XigJlsbA==?= share strategies that address
+ organization design and resource allocation to capture the endless potential
+ of&nbsp;</span><span data-contrast="none">hyperautomation</span><span
+ data-contrast="none">.&nbsp;</span><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22=3E&nbsp=3B=3C=2Fspan=3E=3C=2Fspan=3E=3C=2Fp=3E?=
+ <p><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22?=
+ style="font-family: arial, helvetica, sans-serif; font-size:
+ 14px;"></span>&nbsp;</p> <p><span style="font-family: arial, helvetica,
+ sans-serif; font-size: 14px;"><a
+ href="https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0" target="_blank">Join
+ the live event<span data-contrast="none">&nbsp;</span></a><span
+ data-contrast="none">or just&nbsp;</span><span data-contrast="none"><span
+ data-ccp-charstyle="Hyperlink">sign up</span></span><span
+ data-contrast="none">&nbsp;to receive the recording.</span></span></p>
+ <p><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22?=
+ style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Webinar
+ Takeaways:</span></p> <ul> <li><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22?=
+ style="font-family: arial, helvetica, sans-serif; font-size: 14px;">How to
+ get started on the right track to scale automation quickly?&nbsp;</span></li>
+ <li><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22?=
+ style="font-family: arial, helvetica, sans-serif; font-size: 14px;">How to
+ organize yourself to be successful with automation?</span></li> <li><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22?=
+ style="font-family: arial, helvetica, sans-serif; font-size: 14px;">What is
+ the automation potential at your organization?&nbsp;</span></li> </ul>
+ <p><span style="font-family: arial, helvetica, sans-serif; font-size:
+ 14px;"><span data-contrast="none">This webinar is a continuation of our
+ 3-part blog series covering the topic. Start the series by
+ reading&nbsp;</span><a
+ href="https://link.uipath.com/GcL0Tq40bH5pX0bG0000e4C"><span
+ data-contrast="none"><span data-ccp-charstyle="Hyperlink">Benefits of an
+ Automation Operating Model (Part 1)</span></span><span
+ data-contrast="none"><span
+ data-ccp-charstyle="Hyperlink">.</span></span></a><span
+ =?utf-8?q?data-ccp-props=3D=22{&quot=3B201341983&quot=3B=3A0=2C&quot=3B335559739&quot?=
+ =?utf-8?q?=3B=3A160=2C&quot=3B335559740&quot=3B=3A259}=22=3E&nbsp=3B=3C=2Fspan=3E=3C=2Fspan=3E=3C=2Fp=3E?=
+ </div> </td> </tr> <!--Extra space--> <tr> <td style="line-height: 20px;
+ font-size: 1px;" height="20">&nbsp;</td> </tr> </tbody> </table> </td> </tr>
+ </tbody> </table><table class="mktoModule" id="CTAPrimary"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;" align="center" border="0" cellpadding="0"
+ cellspacing="0" width="100%"> <tbody> <tr> <td bgcolor="#FFFFFF"
+ style="background-color:#FFFFFF"> <table class="inner_table"
+ style="width:500px; margin: 0 auto; text-align: center; border-collapse:
+ collapse;" align="center" border="0" cellpadding="0" cellspacing="0"
+ width="500"> <!--Extra space--> <tbody> <tr> <td style="line-height: 0px;
+ font-size: 1px;" height="0">&nbsp;</td> </tr> <!--CTA button--> <tr> <td
+ valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust:
+ 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;
+ -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse:
+ collapse;"> <div class="mktoText" id="banner-button1"> <table
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom:
+ 0; margin-left: auto;" align="left" border="0" cellspacing="0"
+ cellpadding="0" width="240"> <tbody> <tr border="0"> <td
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;
+ -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse:
+ collapse;" align="center" bgcolor="#fa4616" border="0"> <a
+ href="https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0" target="_blank"
+ class="primary-font button" style="-webkit-text-size-adjust:                                        
+ 100%;-ms-text-size-adjust: 100%;border-left-color:#fa4616;font-size:
+ 16px;font-family:Helvetica,sans-serif;color: #ffffff;padding-top:
+ 16px;padding-right: 18px;padding-bottom: 16px;padding-left:
+ 18px;border-top-width:1px;display:                                        
+ inline-block;border-bottom-width:1px;border-left-width:1px;border-top-style:
+ solid;border-right-style: solid;border-bottom-style: solid;border-left-style:                                        
+ =?utf-8?q?solid=3Bborder-top-color=3A#fa4616=3Bborder-right-color=3A#fa4616=3Bbor?=
+ =?utf-8?q?der-bottom-color=3A#fa4616=3Bborder-right-width=3A1px=3Btext-decorati?=
+ =?utf-8?q?on=3A?= none;background-color:#fa4616;box-sizing: border-box;width:
+ 100%;">SAVE MY SEAT</a> </td> </tr> </tbody> </table> </div> </td> </tr> <tr>
+ <td style="line-height: 24px; font-size: 1px; color:#ffffff" height="24"
+ bgcolor="#ffffff">&nbsp; </td> </tr> </tbody> </table> </td> </tr> </tbody>
+ </table><table class="mktoModule" id="SectionSpacer"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse;" align="center" border="0" cellpadding="0"
+ cellspacing="0" width="100%"> <tbody> <tr> <td bgcolor="#FFFFFF"
+ style="background-color:#FFFFFF;line-height: 20px; font-size: 1px;"
+ height="20">&nbsp;</td> </tr> </tbody> </table></td> </tr> </tbody></table>
+ </td> </tr> </tbody> </table> <!--Outer table End--> <!--Footer Begin--> <div
+ class="mktoSnippet" id="snippetFooter"><table class="main"
+ style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;
+ border-collapse: collapse; margin: 0 auto; background-color: #f2f2f2;"
+ bgcolor="#f2f2f2" align="center" border="0" cellpadding="0" cellspacing="0"
+ width="600"> <tbody> <tr bgcolor="#f2f2f2" style="background-color:
+ #f2f2f2;"> <td bgcolor="#f2f2f2" style="border-collapse: collapse;
+ background-color: #f2f2f2;"> <table class="inner_table" style="margin: 0
+ auto; width: 500px;" align="center" border="0" cellpadding="0"
+ cellspacing="0" width="500" height="244"><!--Extra Space--> <tbody> <tr> <td
+ height="36" style="line-height: 36px; font-size: 36px;"> <div></div> </td>
+ </tr> <tr></tr> <tr> <td valign="top" style="font-size: 16px; color: #000000;
+ font-family: Helvetica,sans-serif; mso-line-height-rule: exactly;
+ line-height: 24px;"> <div class="mktoText" mktoname="Address"
+ id="Address-bp"> <div><span style="font-size: 12px;">Visit <a
+ href="https://link.uipath.com/K00C5XL00Gr54obbe0c40T0"
+ style="text-decoration: none; color: #0067df;">UiPath</a></span></div>
+ <div><span style="font-size: 12px;">UiPath Inc. | 90 Park Ave, New York, NY
+ 10016 United States</span></div> </div> </td> </tr> <!--Extra Space--> <tr>
+ <td height="24" style="line-height: 24px; font-size: 24px;"> <div></div>
+ </td> </tr> <tr> <td valign="top" style="font-size: 16px; color: #000000;
+ font-family: Helvetica,sans-serif; mso-line-height-rule: exactly;
+ line-height: 24px;"> <div class="mktoText" mktoname="Unsubscribe"
+ id="Links-bp"> <div><span style="font-size: 12px;">To choose the types of
+ emails you receive, or to opt yourself out completely, <a
+ =?utf-8?q?href=3D=22https=3A=2F=2Fstart=2Euipath=2Ecom=2FUnsubscribePage=2Ehtml=3Fmkt=5Funsub?=
+ =?utf-8?q?scribe=3D1&mkt=5Ftok=3DeyJpIjoiTXpoaVpEUXhOalF5TnpJNSIsInQiOiJISmxo?=
+ =?utf-8?q?YmxWcUlvYjM3QkNBN01HazFRMlUrQ2N3YmhIMHhUUW9kWnUxVkFsMDBJVkJMb?=
+ =?utf-8?q?XJZZkhTWmpic3VMQ09YZlg1T1FzcHBUMmV4Nm1xTlc0bFR5WEpuc3lGYnlCU2?=
+ =?utf-8?q?ZFajZVeXVVakZVRm1BL0g4S2pRRHQrZGY2OU9JTTlyQSJ9=22?=
+ style="text-decoration: none; color: #0067df;">let us know</a>.</span></div>
+ </div> </td> </tr> <!--Extra Space--> <tr> <td height="24"
+ style="line-height: 24px; font-size: 24px;"><br /></td> </tr> <tr><!--Social
+ Module Begin--> <td valign="top" style="border-collapse: collapse;"> <div
+ class="mktoText" mktoname="SocialIcons" id="SocialIcons"> <table
+ cellpadding="0" cellspacing="0" align="center" border="0" width="100%"
+ style="width: 100%; border-collapse: collapse; margin: 0 auto;"> <tbody> <tr>
+ <td class="line-height" valign="top" align="center" style="margin: 0 auto;
+ text-align: left;"><span style="font-size: 12px;"><a
+ href="https://link.uipath.com/Bc00yX4T400050pL0bhGeCb"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/facebook_gray.png"
+ alt="Facebook" border="0" width="20" /></a>&nbsp;&nbsp; <a
+ href="https://link.uipath.com/GcL0Tq40bI5qX0bG0000e4C"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/twitter_gray.png"
+ alt="Twitter" border="0" width="20" /></a>&nbsp;&nbsp; <a
+ href="https://link.uipath.com/e40b6T04000LXr0C5cpGe0b"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/linkedin_gray.png"
+ alt="LinkedIn" border="0" width="20" /></a>&nbsp;&nbsp; <a
+ href="https://link.uipath.com/v05b04pi0bGTXezcL04C000"><img
+ src="http://eu-lon09.marketo.com/rs/444-AKB-853/images/youtube.png"
+ alt="Youtube" border="0" width="20" /></a>&nbsp;&nbsp;</span></td> </tr>
+ </tbody> </table> </div> </td> <!--Social Module End--></tr> <!--Extra
+ Space--> <tr> <td height="24" style="line-height: 24px; font-size: 24px;"><br
+ /></td> </tr> <tr> <td valign="top" style="font-size: 16px; color: #000000;
+ font-family: Helvetica,sans-serif; mso-line-height-rule: exactly;
+ line-height: 24px;"> <div class="mktoText" mktoname="Privacy Policy"
+ id="Links-privacy"> <div><span style="font-size: 12px;"><a
+ href="https://link.uipath.com/hGecr5L00X000Cbq4040TJb"
+ style="text-decoration: none; color: #0067df;">Read privacy
+ policy</a>.</span></div> </div> </td> </tr> <!--Extra Space--> <tr> <td
+ height="36" style="line-height: 36px; font-size: 36px;"><br /></td> </tr>
+ </tbody> </table> </td> </tr> </tbody> </table></div> <!--Footer End-->  <img
+ =?utf-8?q?src=3D=22https=3A=2F=2Flink=2Euipath=2Ecom=2Ftrk=3Ft=3D1&mid=3DOTk1LVhMVC04ODY6NTA3?=
+ =?utf-8?q?MDo5MDQ1OjQwMTU5OjA6MTA0MTQ6OToxMTI5NToxMzM4NDA4OnZpY3Rvci5mc?=
+ =?utf-8?q?mFuY2FAZ2xvYmFscmVkLmNvbS5icg%3D%3D=22?= width="1" height="1"
+ style="display:none !important;" alt="" /></body></html>
+Content-Type: multipart/alternative; boundary="=-DHkieUMaTjYo0/74xFr7EQ=="
+
+--=-DHkieUMaTjYo0/74xFr7EQ==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Id: <1cb14b3c-5aa9-48a5-b229-7cbca092e6fb>
+
+To view this email as a web page, go to the following address: https:/=
+/start.uipath.com/index.php/email/emailWebview?mkt_tok=3DeyJpIjoiTXpoa=
+VpEUXhOalF5TnpJNSIsInQiOiJISmxoYmxWcUlvYjM3QkNBN01HazFRMlUrQ2N3YmhIMHh=
+UUW9kWnUxVkFsMDBJVkJMbXJZZkhTWmpic3VMQ09YZlg1T1FzcHBUMmV4Nm1xTlc0bFR5W=
+Epuc3lGYnlCU2ZFajZVeXVVakZVRm1BL0g4S2pRRHQrZGY2OU9JTTlyQSJ9
+
+October 14 1:00 pm - 2:00 pm
+UiPath Webinar: Automation Operating Models in Action
+Hi=C2=A0Victor,
+
+Join us to learn=C2=A0stories of=C2=A0automation success=C2=A0at scale=
+=C2=A0and get=20
+details on what it takes to get there.=C2=A0
+
+Our Global VP of Services, Tom=C2=A0Torlone=C2=A0will share the Automa=
+tion Operating Model (AOM) basics=C2=A0on Oct.=C2=A014=C2=A0from 1:00 =
+pm to 2:00 pm ET. <https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0>=C2=
+=A0Tom has developed the largest automation programs in the world=C2=A0=
+(such as=C2=A0at Applied Materials <https://link.uipath.com/m0004x4050=
+CbcGebLpg0XT0>)=C2=A0and will be joined by an all-star=20
+cast of=C2=A0UiPathers. We=E2=80=99ll share strategies that address or=
+ganization design and resource allocation to capture the endless poten=
+tial of=C2=A0hyperautomation.=C2=A0=C2=A0
+
+=C2=A0
+
+Join the live event=C2=A0 <https://link.uipath.com/r5040T4r0LnGb4Xce00=
+C0b0>or just=C2=A0sign up=C2=A0to receive the recording.
+
+Webinar Takeaways:
+
+
+	- How to get started on the right track to scale automation quickly?=C2=
+=A0
+	- How to organize yourself to be successful with automation?
+	- What is the automation potential at your organization?=C2=A0
+
+
+
+This webinar is a continuation of our 3-part blog series covering the =
+topic. Start the series by reading=C2=A0Benefits of an Automation Oper=
+ating Model (Part 1). <https://link.uipath.com/GcL0Tq40bH5pX0bG0000e4C=
+>
+${CTAPrimary-Text} <https://link.uipath.com/dc/BER_ZpC9eN7IzNb9iZdPbSK=
+xi7w73PLrW-XfgldATno=3D/f00pb0G0bj00cL4CX4TAe05>
+
+--=-DHkieUMaTjYo0/74xFr7EQ==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Id: <8e445185-534a-4b8e-ac74-5eb8852ab212>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-mi=
+crosoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>=20
+<!--[if gte mso 9]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->=20
+<!--Global Variables Begin-->          =20
+<!--Global Variables End-->=20
+<!--FullWidthImage Module Variables Begin--> =20
+<!--FullWidthImage Module Variables End-->=20
+<!--InlineImage Module Variables Begin--> =20
+<!--InlineImage Module Variables End-->=20
+<!--InlineImageMeta Module Variables Begin-->   =20
+<!--InlineImageMeta Module Variables End-->=20
+<!--H1 Title Module Variables Begin-->    =20
+<!--H1 Title Module Variables End-->=20
+<!--H1 Title Copy Module Variables Begin-->    =20
+<!--H1 Title Copy Module Variables End-->=20
+<!--H1 Title Tag Module Variables Begin-->      =20
+<!--H1 Title Tag Module Variables End-->=20
+<!--H2 Title Tag Module Variables Begin-->    =20
+<!--H2 Title Tag Module Variables End-->=20
+<!--H3 Title Tag Module Variables Begin-->    =20
+<!--H3 Title Tag Module Variables End-->=20
+<!--FreeText Module Variables Begin-->    =20
+<!--FreeText Module Variables End-->=20
+<!--FreeText Copy Module Variables Begin-->    =20
+<!--FreeText Copy Module Variables End-->=20
+<!--Highlight H1 Tag Module Variables Begin-->                 =20
+<!--Highlight H1 Tag Module Variables End-->=20
+<!--Highlight H1 Module Variables Begin-->               =20
+<!--Highlight H1 Module Variables End-->=20
+<!--Highlight H2 Module Variables Begin-->               =20
+<!--Highlight H2 Module Variables End-->=20
+<!--Highlight H2 Image Module Variables Begin-->                =20
+<!--Highlight H2 Image Module Variables End-->=20
+<!--Highlight H3 Module Variables Begin-->            =20
+<!--Highlight H3 Module Variables End-->=20
+<!--CTA Primary Button Module Variables Begin-->          =20
+<!--CTA Primary Button Module Variables End-->=20
+<!--CTA Primary Button Copy Module Variables Begin-->          =20
+<!--CTA Primary Button Copy Module Variables End-->=20
+<!--CTA Block Button Module Variables Begin-->              =20
+<!--CTA Block Button Module Variables End-->=20
+<!--CTA Secondary Button Module Variables Begin-->      =20
+<!--CTA Secondary Button Module Variables End-->=20
+<!--Other Meta Tags Begin-->=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-=
+8" />=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1" />=20
+<meta name=3D"robots" content=3D"noindex,nofollow" />=20
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />=20
+<!--Other Meta Tags End-->=20
+<!--[if mso]>
+    <style type=3D'text/css'>
+      .primary-font {
+      font-family: Arial, sans-serif !important;
+      }
+    </style>
+    <![endif]-->=20
+<!--[if mso]>
+    <style type=3D'text/css'>
+      .secondary-font {
+      font-family: Arial, sans-serif !important;
+      }
+    </style>
+    <![endif]-->=20
+<!--[if gte mso 9]>
+    <style type=3D"text/css">
+      #hero .table3-3{
+      width: 100% !important;
+      }
+    </style>
+    <![endif]-->=20
+<style>
+    /*startcommon*/
+    @media only screen and (max-width: 803px) {
+      .m_hero .background {
+        background-size: cover !important;
+      }
+    }
+
+    /*endcommon*/
+  </style>=20
+<!--[if mso]>
+    <style>
+      .outlookbutton {
+      padding-left:60px !important
+      }
+    </style>
+    <![endif]-->=20
+<style media=3D"all">
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a {
+      padding: 0;
+    }
+
+    /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody {
+      width: 100%;
+    }
+
+    .ExternalClass {
+      width: 100%;
+    }
+
+    /* Force Hotmail to display emails at full width */
+    .ExternalClass,
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td,
+    .ExternalClass div {
+      line-height: 100%;
+    }
+
+    /* Force Hotmail to display normal line spacing */
+    /* iOS BLUE LINKS */
+    @-ms-viewport {
+      width: device-width;
+    }
+  </style>=20
+<style type=3D"text/css">
+    html {
+      -webkit-text-size-adjust: none;
+    }
+
+    p {
+      margin: 0 0 10px !important;
+      padding: 0;
+    }
+
+    body {
+      font-family: Lato, Calibri, sans-serif;
+    }
+
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    a {
+      outline: none !important;
+      text-decoration: none !important;
+      color: #0067df;
+    }
+
+    a:visited {
+      color: #0067df;
+    }
+
+    .button--primary {
+      color: #ffffff;
+      outline: none;
+      text-decoration: none;
+    }
+
+    .button--primary:visited,
+    .button--primary:visited * {
+      outline: none;
+      text-decoration: none;
+      color: #ffffff;
+    }
+
+    .button--secondary:visited,
+    .button--secondary:visited * {
+      outline: none;
+      text-decoration: none;
+      color: #000000;
+    }
+
+    @media only screen and (max-width: 640px) {
+      .em_main_table {
+        width: 100% !important;
+      }
+
+      .em_spc_20 {
+        height: 20px !important;
+      }
+
+      .em_hide {
+        display: none !important;
+      }
+
+      .m_hero .background {
+        background-size: cover !important;
+      }
+
+      table[class=3D"table600"] {
+        width: 450px !important;
+      }
+
+      *[class].main {
+        width: 100% !important;
+        min-width: 100% !important;
+      }
+
+      *[class].inner_table {
+        width: 90% !important;
+        min-width: 90% !important;
+      }
+
+      *[class].block {
+        width: 100% !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        display: block;
+      }
+
+      *[class].center_align {
+        text-align: center !important;
+        margin: 0 auto;
+      }
+
+      *[class].left_align {
+        text-align: left !important;
+      }
+
+      *[class].padding_bottom {
+        padding-bottom: 20px !important;
+      }
+
+      *[class].padding_top {
+        padding-top: 20px !important;
+      }
+
+      *[class].image-width img {
+        width: 100% !important;
+        height: auto !Important;
+      }
+
+      *[class].line-height {
+        line-height: 36px !important;
+      }
+
+      *[class].button_width {
+        width: 100% !important;
+      }
+
+      *[class].Video img {
+        max-width: 100% !important;
+        height: auto !Important;
+      }
+
+      *[class].margin-top {
+        margin-top: 20px !important;
+      }
+
+      *[class].float {
+        float: none !important;
+        margin-top: 14px !Important;
+        display: inline-block;
+      }
+
+      *[class].button_width {
+        width: 100% !Important;
+      }
+    }
+
+    @media only screen and (max-width: 479px) {
+      .m_hero .background {
+        background-size: cover !important;
+      }
+
+      .em_spc_20 {
+        height: 20px !important;
+      }
+
+      .em_hide {
+        display: none !important;
+      }
+
+      .em_main_table {
+        width: 100% !important;
+      }
+
+      table[class=3D"table600"] {
+        width: 290px !important;
+      }
+
+      *[class].main {
+        width: 100% !important;
+        min-width: 100% !important;
+      }
+
+      *[class].inner_table {
+        width: 90% !important;
+        min-width: 90% !important;
+      }
+
+      *[class].block {
+        width: 100% !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        display: block;
+      }
+
+      *[class].center_align {
+        text-align: center !important;
+        margin: 0 auto;
+      }
+
+      *[class].left_align {
+        text-align: left !important;
+      }
+
+      *[class].padding_top {
+        padding-top: 20px !important;
+      }
+
+      *[class].padding_bottom {
+        padding-bottom: 20px !important;
+      }
+
+      *[class].image-width img {
+        width: 100% !important;
+        height: auto !Important;
+      }
+
+      *[class].img-width img {
+        width: 100% !important;
+        height: auto !Important;
+      }
+
+      *[class].line-height {
+        line-height: 36px !important;
+      }
+
+      *[class].button_width {
+        width: 100% !important;
+      }
+
+      *[class].Video img {
+        max-width: 100% !important;
+        height: auto !Important;
+      }
+
+      *[class].margin-top {
+        margin-top: 20px !important;
+      }
+
+      *[class].float {
+        float: none !important;
+        margin-top: 14px !Important;
+        display: inline-block;
+      }
+
+      *[class].button_width {
+        width: 100% !Important;
+      }
+    }
+  </style>=20
+</head>=20
+<body style=3D"background-color:#ffffff;margin-bottom: 0; -webkit-text=
+-size-adjust: 100%; padding-bottom: 0; min-width: 100%; margin-top: 0;=
+ margin-right: 0; -ms-text-size-adjust: 100%; margin-left: 0; padding-=
+top: 0; padding-right: 0; padding-left: 0; width: 100%;">
+<div style=3D"text-align: center"><font face=3D"Verdana" size=3D"1">To=
+ view this email as a web page, <a href=3D
+"https://link.uipath.com/v/UCqe05T0GL0Xbr04c40007b"
+>click here</a><br /><br /></font></div>
+=20
+<!--Outer table START-->=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; =
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; borde=
+r-collapse: collapse;margin:0 auto;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"outer" valign=3D"top" style=3D"-webkit-text-size-adjust: =
+100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens:=
+ none; hyphens: none; border-collapse: collapse;">=20
+<!--Header starts-->=20
+<table width=3D"600" class=3D"main" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; margin:0 auto; border-spacing: 0; border-collapse: collapse=
+;" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>
+<tr>=20
+<td bgcolor=3D"#FFFFFF" style=3D"border-collapse:collapse; background-=
+color:#FFFFFF;">=20
+<table class=3D"inner_table" style=3D"margin:0 auto;width:500px;" alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"500">=20
+<!--Extra Space-->=20
+<tbody>
+<tr>=20
+<td height=3D"26" style=3D"line-height:26px;font-size:1px;color:#fffff=
+f" bgcolor=3D"#ffffff">&nbsp; </td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" align=3D"left" style=3D"text-align:left;">=20
+<div class=3D"mktoImg" id=3D"Logo-bp">
+<img alt=3D"Logo" border=3D"0" src=3D"https://start.uipath.com/rs/995-=
+XLT-886/images/uipath-logo.png" width=3D"163" height=3D"56" />
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height:24px;font-size:1px;color:#fffff=
+f" bgcolor=3D"#ffffff">&nbsp; </td>=20
+</tr>=20
+</tbody>
+</table> </td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!--Header ends-->=20
+<table class=3D"main" width=3D"600" align=3D"center" id=3D"boxing" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;marg=
+in:0 auto;min-width:600px;">=20
+<tbody>
+<tr>=20
+<td class=3D"mktoContainer boxedbackground" id=3D"module-wrapper" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webk=
+it-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: =
+collapse;">
+<table class=3D"mktoModule" id=3D"FullWidthImage" style=3D"-webkit-tex=
+t-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;=
+" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" bgcolor=3D"#FFFFFF">=20
+<table class=3D"main" style=3D"width:600px; margin:0 auto; border-coll=
+apse: collapse;" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" class=3D"image-width" style=3D"font-size:1px; lin=
+e-height:1px;">=20
+<div class=3D"mktoImg" id=3D"FullWidthImageContent">=20
+<img alt=3D"hero" border=3D"0" src=3D"https://start.uipath.com/rs/995-=
+XLT-886/images/template-top-image.png" width=3D"600" height=3D"auto" /=
+>=20
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td style=3D"line-height:0px; font-size: 1px;" height=3D"0"> &nbsp;</t=
+d>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule" id=3D"H1TitleTag" style=3D"-webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">=20
+<tbody>=20
+<tr>=20
+<td bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF">=20
+<table class=3D"inner_table" style=3D"width: 500px; margin: 0 auto; bo=
+rder-collapse: collapse;" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"500">=20
+<tbody>=20
+<!--Extra space-->=20
+<tr>=20
+<td style=3D"line-height: 24px; font-size: 1px;" height=3D"24">&nbsp;<=
+/td>=20
+</tr>=20
+<tr>=20
+<td style=3D"font-size:18px; color:#000000; font-family:Helvetica,sans=
+-serif; mso-line-height-rule: exactly; line-height:24px; font-weight:b=
+old;" valign=3D"top">=20
+<div id=3D"titlesec-main-sub-title" class=3D"mktoText">=20
+<p>October 14 1:00 pm - 2:00 pm</p>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"font-size:28px; color:#000000; font-family:Helvetica,sans=
+-serif; mso-line-height-rule: exactly; line-height:30px; font-weight:b=
+old;" valign=3D"top">=20
+<div id=3D"titlesec-main-title" class=3D"mktoText">=20
+<p>UiPath Webinar: Automation Operating Models in Action</p>=20
+</div> </td>=20
+</tr>=20
+<!--Extra space-->=20
+<tr>=20
+<td style=3D"line-height: 24px; font-size: 1px;" height=3D"24"> &nbsp;=
+</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule" id=3D"FreeText" style=3D"-webkit-text-size=
+-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">=20
+<tbody>=20
+<tr>=20
+<td bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF">=20
+<table class=3D"inner_table" style=3D"width: 500px; margin: 0 auto; te=
+xt-align: center; border-collapse: collapse;" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"500">=20
+<!--Extra space-->=20
+<tbody>=20
+<!--Extra space-->=20
+<tr>=20
+<td style=3D"line-height: 0px; font-size: 1px;" height=3D"0">&nbsp;</t=
+d>=20
+</tr>=20
+<tr>=20
+<td style=3D"font-size:16px; color:#000000; font-family:Helvetica,sans=
+-serif; mso-line-height-rule: exactly; line-height:24px;text-align:lef=
+t;" valign=3D"top">=20
+<div id=3D"FreeTextContent" class=3D"mktoText">=20
+<p><span style=3D"font-family: arial, helvetica, sans-serif; font-size=
+: 14px;">Hi&nbsp;Victor,</span></p>=20
+<p><span style=3D"font-family: arial, helvetica, sans-serif; font-size=
+: 14px;"><span data-contrast=3D"none">Join us to learn&nbsp;</span><sp=
+an data-contrast=3D"none">stories of&nbsp;</span><span data-contrast=3D=
+"none">automation success&nbsp;</span><span data-contrast=3D"none">at =
+scale</span><span data-contrast=3D"none">&nbsp;</span><span data-contr=
+ast=3D"none">a</span><span data-contrast=3D"none">nd get details on wh=
+at it takes to get there.</span><span data-ccp-props=3D"{&quot;2013419=
+83&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&nbsp=
+;</span></span></p>=20
+<p><span style=3D"font-family: arial, helvetica, sans-serif; font-size=
+: 14px;"><span data-contrast=3D"none">Our Global VP of Services, Tom&n=
+bsp;</span><span data-contrast=3D"none">Torlone</span><span data-contr=
+ast=3D"none">&nbsp;will share the Automation Operating Model (AOM) bas=
+ics&nbsp;</span><a href=3D
+"https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0"
+><span data-contrast=3D"none"><span data-ccp-charstyle=3D"Hyperlink">o=
+n Oct.&nbsp;</span></span><span data-contrast=3D"none"><span data-ccp-=
+charstyle=3D"Hyperlink">14</span></span><span data-contrast=3D"none"><=
+span data-ccp-charstyle=3D"Hyperlink">&nbsp;from 1:00 pm to 2:00 pm ET=
+.</span></span></a><span data-contrast=3D"none">&nbsp;Tom has develope=
+d the largest automation programs in the world&nbsp;</span><span data-=
+contrast=3D"none">(</span><span data-contrast=3D"none">such as</span><=
+span data-contrast=3D"none">&nbsp;</span><a href=3D
+"https://link.uipath.com/m0004x4050CbcGebLpg0XT0"
+><span data-contrast=3D"none"><span data-ccp-charstyle=3D"Hyperlink">a=
+t Applied Materials</span></span></a><span data-contrast=3D"none">)&nb=
+sp;</span><span data-contrast=3D"none">and will be joined by an all-st=
+ar cast of&nbsp;</span><span data-contrast=3D"none">UiPathers</span><s=
+pan data-contrast=3D"none">. We=E2=80=99ll share strategies that addre=
+ss organization design and resource allocation to capture the endless =
+potential of&nbsp;</span><span data-contrast=3D"none">hyperautomation<=
+/span><span data-contrast=3D"none">.&nbsp;</span><span data-ccp-props=3D=
+"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&qu=
+ot;:259}">&nbsp;</span></span></p>=20
+<p><span data-ccp-props=3D"{&quot;201341983&quot;:0,&quot;335559739&qu=
+ot;:160,&quot;335559740&quot;:259}" style=3D"font-family: arial, helve=
+tica, sans-serif; font-size: 14px;"></span>&nbsp;</p>=20
+<p><span style=3D"font-family: arial, helvetica, sans-serif; font-size=
+: 14px;"><a href=3D
+"https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0" target=3D"_blank"
+>Join the live event<span data-contrast=3D"none">&nbsp;</span></a><spa=
+n data-contrast=3D"none">or just&nbsp;</span><span data-contrast=3D"no=
+ne"><span data-ccp-charstyle=3D"Hyperlink">sign up</span></span><span =
+data-contrast=3D"none">&nbsp;to receive the recording.</span></span></=
+p>=20
+<p><span data-ccp-props=3D"{&quot;201341983&quot;:0,&quot;335559739&qu=
+ot;:160,&quot;335559740&quot;:259}" style=3D"font-family: arial, helve=
+tica, sans-serif; font-size: 14px;">Webinar Takeaways:</span></p>=20
+<ul>=20
+<li><span data-ccp-props=3D"{&quot;201341983&quot;:0,&quot;335559739&q=
+uot;:160,&quot;335559740&quot;:259}" style=3D"font-family: arial, helv=
+etica, sans-serif; font-size: 14px;">How to get started on the right t=
+rack to scale automation quickly?&nbsp;</span></li>=20
+<li><span data-ccp-props=3D"{&quot;201341983&quot;:0,&quot;335559739&q=
+uot;:160,&quot;335559740&quot;:259}" style=3D"font-family: arial, helv=
+etica, sans-serif; font-size: 14px;">How to organize yourself to be su=
+ccessful with automation?</span></li>=20
+<li><span data-ccp-props=3D"{&quot;201341983&quot;:0,&quot;335559739&q=
+uot;:160,&quot;335559740&quot;:259}" style=3D"font-family: arial, helv=
+etica, sans-serif; font-size: 14px;">What is the automation potential =
+at your organization?&nbsp;</span></li>=20
+</ul>=20
+<p><span style=3D"font-family: arial, helvetica, sans-serif; font-size=
+: 14px;"><span data-contrast=3D"none">This webinar is a continuation o=
+f our 3-part blog series covering the topic. Start the series by readi=
+ng&nbsp;</span><a href=3D
+"https://link.uipath.com/GcL0Tq40bH5pX0bG0000e4C"
+><span data-contrast=3D"none"><span data-ccp-charstyle=3D"Hyperlink">B=
+enefits of an Automation Operating Model (Part 1)</span></span><span d=
+ata-contrast=3D"none"><span data-ccp-charstyle=3D"Hyperlink">.</span><=
+/span></a><span data-ccp-props=3D"{&quot;201341983&quot;:0,&quot;33555=
+9739&quot;:160,&quot;335559740&quot;:259}">&nbsp;</span></span></p>=20
+</div> </td>=20
+</tr>=20
+<!--Extra space-->=20
+<tr>=20
+<td style=3D"line-height: 20px; font-size: 1px;" height=3D"20">&nbsp;<=
+/td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule" id=3D"CTAPrimary" style=3D"-webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">=20
+<tbody>=20
+<tr>=20
+<td bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF">=20
+<table class=3D"inner_table" style=3D"width:500px; margin: 0 auto; tex=
+t-align: center; border-collapse: collapse;" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"500">=20
+<!--Extra space-->=20
+<tbody>=20
+<tr>=20
+<td style=3D"line-height: 0px; font-size: 1px;" height=3D"0">&nbsp;</t=
+d>=20
+</tr>=20
+<!--CTA button-->=20
+<tr>=20
+<td valign=3D"top" style=3D"-webkit-text-size-adjust: 100%; -ms-text-s=
+ize-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-b=
+reak: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: =
+none; border-collapse: collapse;">=20
+<div class=3D"mktoText" id=3D"banner-button1">=20
+<table style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0;=
+ border-collapse: collapse; margin-top: 0; margin-right: auto; margin-=
+bottom: 0; margin-left: auto;" align=3D"left" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"240">=20
+<tbody>=20
+<tr border=3D"0">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100=
+%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-wor=
+d; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-co=
+llapse: collapse;" align=3D"center" bgcolor=3D"#fa4616" border=3D"0"> =
+<a href=3D
+"https://link.uipath.com/r5040T4r0LnGb4Xce00C0b0" target=3D"_blank" cl=
+ass=3D"primary-font button" style=3D"-webkit-text-size-adjust:=20
+                                        100%;-ms-text-size-adjust: 100=
+%;border-left-color:#fa4616;font-size: 16px;font-family:Helvetica,sans=
+-serif;color: #ffffff;padding-top: 16px;padding-right: 18px;padding-bo=
+ttom: 16px;padding-left: 18px;border-top-width:1px;display:=20
+                                        inline-block;border-bottom-wid=
+th:1px;border-left-width:1px;border-top-style: solid;border-right-styl=
+e: solid;border-bottom-style: solid;border-left-style:=20
+                                        solid;border-top-color:#fa4616=
+;border-right-color:#fa4616;border-bottom-color:#fa4616;border-right-w=
+idth:1px;text-decoration: none;background-color:#fa4616;box-sizing: bo=
+rder-box;width: 100%;"
+>SAVE MY SEAT</a> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"line-height: 24px; font-size: 1px; color:#ffffff" height=3D=
+"24" bgcolor=3D"#ffffff">&nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule" id=3D"SectionSpacer" style=3D"-webkit-text=
+-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;"=
+ align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;line-height:=
+ 20px; font-size: 1px;" height=3D"20">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--Outer table End-->=20
+<!--Footer Begin-->=20
+<div class=3D"mktoSnippet" id=3D"snippetFooter">
+<table class=3D"main" style=3D"-webkit-text-size-adjust: 100%; -ms-tex=
+t-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; bor=
+der-spacing: 0; border-collapse: collapse; margin: 0 auto; background-=
+color: #f2f2f2;" bgcolor=3D"#f2f2f2" align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr bgcolor=3D"#f2f2f2" style=3D"background-color: #f2f2f2;">=20
+<td bgcolor=3D"#f2f2f2" style=3D"border-collapse: collapse; background=
+-color: #f2f2f2;">=20
+<table class=3D"inner_table" style=3D"margin: 0 auto; width: 500px;" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"500" height=3D"244">
+<!--Extra Space-->=20
+<tbody>=20
+<tr>=20
+<td height=3D"36" style=3D"line-height: 36px; font-size: 36px;">=20
+<div></div> </td>=20
+</tr>=20
+<tr></tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"font-size: 16px; color: #000000; font-fami=
+ly: Helvetica,sans-serif; mso-line-height-rule: exactly; line-height: =
+24px;">=20
+<div class=3D"mktoText" mktoname=3D"Address" id=3D"Address-bp">=20
+<div>
+<span style=3D"font-size: 12px;">Visit <a href=3D
+"https://link.uipath.com/K00C5XL00Gr54obbe0c40T0" style=3D"text-decora=
+tion: none; color: #0067df;"
+>UiPath</a></span>
+</div>=20
+<div>
+<span style=3D"font-size: 12px;">UiPath Inc. | 90 Park Ave, New York, =
+NY 10016 United States</span>
+</div>=20
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height: 24px; font-size: 24px;">=20
+<div></div> </td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"font-size: 16px; color: #000000; font-fami=
+ly: Helvetica,sans-serif; mso-line-height-rule: exactly; line-height: =
+24px;">=20
+<div class=3D"mktoText" mktoname=3D"Unsubscribe" id=3D"Links-bp">=20
+<div>
+<span style=3D"font-size: 12px;">To choose the types of emails you rec=
+eive, or to opt yourself out completely, <a href=3D"https://start.uipa=
+th.com/UnsubscribePage.html?mkt_unsubscribe=3D1&mkt_tok=3DeyJpIjoiTXpo=
+aVpEUXhOalF5TnpJNSIsInQiOiJISmxoYmxWcUlvYjM3QkNBN01HazFRMlUrQ2N3YmhIMH=
+hUUW9kWnUxVkFsMDBJVkJMbXJZZkhTWmpic3VMQ09YZlg1T1FzcHBUMmV4Nm1xTlc0bFR5=
+WEpuc3lGYnlCU2ZFajZVeXVVakZVRm1BL0g4S2pRRHQrZGY2OU9JTTlyQSJ9" style=3D=
+"text-decoration: none; color: #0067df;">let us know</a>.</span>
+</div>=20
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height: 24px; font-size: 24px;"><br />=
+</td>=20
+</tr>=20
+<tr>
+<!--Social Module Begin-->=20
+<td valign=3D"top" style=3D"border-collapse: collapse;">=20
+<div class=3D"mktoText" mktoname=3D"SocialIcons" id=3D"SocialIcons">=20
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"=
+0" width=3D"100%" style=3D"width: 100%; border-collapse: collapse; mar=
+gin: 0 auto;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"line-height" valign=3D"top" align=3D"center" style=3D"mar=
+gin: 0 auto; text-align: left;"><span style=3D"font-size: 12px;"><a hr=
+ef=3D
+"https://link.uipath.com/Bc00yX4T400050pL0bhGeCb"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/faceboo=
+k_gray.png" alt=3D"Facebook" border=3D"0" width=3D"20" /></a>&nbsp;&nb=
+sp; <a href=3D
+"https://link.uipath.com/GcL0Tq40bI5qX0bG0000e4C"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/twitter=
+_gray.png" alt=3D"Twitter" border=3D"0" width=3D"20" /></a>&nbsp;&nbsp=
+; <a href=3D
+"https://link.uipath.com/e40b6T04000LXr0C5cpGe0b"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/linkedi=
+n_gray.png" alt=3D"LinkedIn" border=3D"0" width=3D"20" /></a>&nbsp;&nb=
+sp; <a href=3D
+"https://link.uipath.com/v05b04pi0bGTXezcL04C000"
+><img src=3D"http://eu-lon09.marketo.com/rs/444-AKB-853/images/youtube=
+.png" alt=3D"Youtube" border=3D"0" width=3D"20" /></a>&nbsp;&nbsp;</sp=
+an></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+<!--Social Module End-->
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"24" style=3D"line-height: 24px; font-size: 24px;"><br />=
+</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"font-size: 16px; color: #000000; font-fami=
+ly: Helvetica,sans-serif; mso-line-height-rule: exactly; line-height: =
+24px;">=20
+<div class=3D"mktoText" mktoname=3D"Privacy Policy" id=3D"Links-privac=
+y">=20
+<div>
+<span style=3D"font-size: 12px;"><a href=3D
+"https://link.uipath.com/hGecr5L00X000Cbq4040TJb" style=3D"text-decora=
+tion: none; color: #0067df;"
+>Read privacy policy</a>.</span>
+</div>=20
+</div> </td>=20
+</tr>=20
+<!--Extra Space-->=20
+<tr>=20
+<td height=3D"36" style=3D"line-height: 36px; font-size: 36px;"><br />=
+</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+</div>=20
+<!--Footer End--> =20
+
+<img src=3D"https://link.uipath.com/trk?t=3D1&mid=3DOTk1LVhMVC04ODY6NT=
+A3MDo5MDQ1OjQwMTU5OjA6MTA0MTQ6OToxMTI5NToxMzM4NDA4OnZpY3Rvci5mcmFuY2FA=
+Z2xvYmFscmVkLmNvbS5icg%3D%3D" width=3D"1" height=3D"1" style=3D"displa=
+y:none !important;" alt=3D"" />
+</body>
+</html>
+--=-DHkieUMaTjYo0/74xFr7EQ==--
