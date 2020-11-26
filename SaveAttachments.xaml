@@ -83,10 +83,7 @@
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="snm:MailMessage" Name="item" />
               </ActivityAction.Argument>
-              <Sequence sap2010:Annotation.AnnotationText="" sap:VirtualizedContainerService.HintSize="376,206" sap2010:WorkflowViewState.IdRef="Sequence_2">
-                <Sequence.Variables>
-                  <Variable x:TypeArguments="x:String" Default="[item.Subject.ToString]" Name="Name" />
-                </Sequence.Variables>
+              <Sequence sap2010:Annotation.AnnotationText="" sap:VirtualizedContainerService.HintSize="200,93" sap2010:WorkflowViewState.IdRef="Sequence_2">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">False</x:Boolean>

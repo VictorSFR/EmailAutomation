@@ -8,10 +8,10 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>396,1524</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>396,961</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Input_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
-    <scg:List x:TypeArguments="x:String" Capacity="25">
+    <scg:List x:TypeArguments="x:String" Capacity="26">
       <x:String>System.Activities</x:String>
       <x:String>System.Activities.Statements</x:String>
       <x:String>System.Activities.Expressions</x:String>
@@ -37,10 +37,11 @@
       <x:String>System.Runtime.InteropServices</x:String>
       <x:String>System.Security</x:String>
       <x:String>System.Net</x:String>
+      <x:String>Microsoft.VisualBasic.CompilerServices</x:String>
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
-    <scg:List x:TypeArguments="AssemblyReference" Capacity="25">
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="26">
       <AssemblyReference>System.Activities</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
       <AssemblyReference>mscorlib</AssemblyReference>
@@ -66,60 +67,108 @@
       <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
       <AssemblyReference>System.ServiceModel</AssemblyReference>
       <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Input" sap:VirtualizedContainerService.HintSize="376,1464" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Input" sap:VirtualizedContainerService.HintSize="376,901" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="ss:SecureString" Name="password" />
-      <Variable x:TypeArguments="s:String[]" Name="Senders" />
       <Variable x:TypeArguments="x:String" Name="FolderPath" />
       <Variable x:TypeArguments="x:String" Name="AttachmentFolderPath" />
+      <Variable x:TypeArguments="snm:MailMessage[]" Name="FilteredMailList" />
+      <Variable x:TypeArguments="s:String[]" Default="[{&quot;SICAF&quot;,&quot;Certidão da Receita Federal&quot;,&quot;Certidão do FGTS&quot;,&quot;Certidão Trabalhista&quot;,&quot;Certidão Estadual/Distrital&quot;,&quot;Certidão de Falência e Concordata&quot;}]" Name="Subject" />
+      <Variable x:TypeArguments="x:Int32" Default="0" Name="count" />
+      <Variable x:TypeArguments="x:String" Name="output" />
+      <Variable x:TypeArguments="x:String" Name="output2" />
+      <Variable x:TypeArguments="x:String" Name="SendSubject" />
+      <Variable x:TypeArguments="x:String" Name="SendTo" />
+      <Variable x:TypeArguments="x:Boolean" Name="Read" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:RequestCredential Title="{x:Null}" DisplayName="Request credential" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="RequestCredential_1" Message="Credenciais" Password="[out_Password]" Username="[out_Email]" />
-    <Assign sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_2">
-      <Assign.To>
-        <OutArgument x:TypeArguments="ss:SecureString">[password]</OutArgument>
-      </Assign.To>
-      <Assign.Value>
-        <InArgument x:TypeArguments="ss:SecureString">[New System.Net.NetworkCredential("",out_Password).SecurePassword]</InArgument>
-      </Assign.Value>
-    </Assign>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,238" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Número de emails a serem baixados: " Title="Input">
-      <ui:InputDialog.Result>
-        <OutArgument x:TypeArguments="x:String">[out_Num]</OutArgument>
-      </ui:InputDialog.Result>
-    </ui:InputDialog>
-    <If Condition="[out_Num Is Nothing]" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="If_1">
+    <Sequence DisplayName="Sequence, Input inicial" sap:VirtualizedContainerService.HintSize="334,66" sap2010:WorkflowViewState.IdRef="Sequence_8">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <If.Then>
-        <Assign sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_1">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:String">[out_Num]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:String">200</InArgument>
-          </Assign.Value>
-        </Assign>
-      </If.Then>
-    </If>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,238" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Filtro:" Title="Filtro">
-      <ui:InputDialog.Result>
-        <OutArgument x:TypeArguments="x:String">[out_Filter]</OutArgument>
-      </ui:InputDialog.Result>
-    </ui:InputDialog>
-    <ui:SelectFolder DisplayName="Pasta para download de emails" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="SelectFolder_1" SelectedFolder="[FolderPath]" />
-    <ui:SelectFolder DisplayName="Select Folder" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="SelectFolder_2" SelectedFolder="[AttachmentFolderPath]" />
-    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Main workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Main.xaml">
+      <ui:RequestCredential Title="{x:Null}" DisplayName="Input das crendenciais" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="RequestCredential_1" Message="Credenciais" Password="[out_Password]" Username="[out_Email]" />
+      <Assign DisplayName="Read define a acao da Main" sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_9">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:Boolean">[Read]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:Boolean">True</InArgument>
+        </Assign.Value>
+      </Assign>
+      <Assign DisplayName="Passando a string de password para secure String" sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_2">
+        <Assign.To>
+          <OutArgument x:TypeArguments="ss:SecureString">[password]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="ss:SecureString">[New System.Net.NetworkCredential("",out_Password).SecurePassword]</InArgument>
+        </Assign.Value>
+      </Assign>
+      <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input N de emails a serem baixados" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Número de emails a serem baixados: " Title="Input">
+        <ui:InputDialog.Result>
+          <OutArgument x:TypeArguments="x:String">[out_Num]</OutArgument>
+        </ui:InputDialog.Result>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:InputDialog>
+      <If sap2010:Annotation.AnnotationText="Se o usuario não Inputar a quantidade de emails a ser baixada.&#xD;&#xA;O valor padrão será, 200." Condition="[out_Num Is Nothing]" sap:VirtualizedContainerService.HintSize="334,123" sap2010:WorkflowViewState.IdRef="If_1">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+        <If.Then>
+          <Assign sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_1">
+            <Assign.To>
+              <OutArgument x:TypeArguments="x:String">[out_Num]</OutArgument>
+            </Assign.To>
+            <Assign.Value>
+              <InArgument x:TypeArguments="x:String">200</InArgument>
+            </Assign.Value>
+          </Assign>
+        </If.Then>
+      </If>
+      <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" sap2010:Annotation.AnnotationText="Input do usuário para a palavra filtro." DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,265" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Filtro:" Title="Filtro">
+        <ui:InputDialog.Result>
+          <OutArgument x:TypeArguments="x:String">[out_Filter]</OutArgument>
+        </ui:InputDialog.Result>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:InputDialog>
+      <ui:SelectFolder sap2010:Annotation.AnnotationText="Input do usuário para a Pasta de download dos emails." DisplayName="Pasta para download de emails" sap:VirtualizedContainerService.HintSize="334,64" sap2010:WorkflowViewState.IdRef="SelectFolder_1" SelectedFolder="[FolderPath]">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:SelectFolder>
+      <ui:SelectFolder sap2010:Annotation.AnnotationText="Input do usuário para a pasta de download de Anexos." DisplayName="Select Folder" sap:VirtualizedContainerService.HintSize="334,64" sap2010:WorkflowViewState.IdRef="SelectFolder_2" SelectedFolder="[AttachmentFolderPath]">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:SelectFolder>
+    </Sequence>
+    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" sap2010:Annotation.AnnotationText="Irá realizar:&#xD;&#xA;&#xD;&#xA;O download dos Emails.&#xD;&#xA;O download dos Anexos.&#xD;&#xA;A Filtragem dos emails.&#xD;&#xA;A captura dos Assuntos dos emails.&#xD;&#xA;A captura do corpo dos emails." DisplayName="Invoke Main workflow" sap:VirtualizedContainerService.HintSize="334,198" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Main.xaml">
       <ui:InvokeWorkflowFile.Arguments>
         <InArgument x:TypeArguments="x:String" x:Key="in_Email">[out_Email]</InArgument>
         <InArgument x:TypeArguments="ss:SecureString" x:Key="in_Password">[password]</InArgument>
@@ -129,28 +178,216 @@
         <InArgument x:TypeArguments="x:Int32" x:Key="in_Port">143</InArgument>
         <OutArgument x:TypeArguments="x:Int32" x:Key="out_QtdFilteredEmails" />
         <OutArgument x:TypeArguments="x:Int32" x:Key="out_QtdUnreadEmails" />
-        <OutArgument x:TypeArguments="snm:MailMessage[]" x:Key="out_FilteredMailList" />
-        <OutArgument x:TypeArguments="s:String[]" x:Key="out_Senders">[Senders]</OutArgument>
+        <OutArgument x:TypeArguments="snm:MailMessage[]" x:Key="out_FilteredMailList">[FilteredMailList]</OutArgument>
+        <OutArgument x:TypeArguments="s:String[]" x:Key="out_Senders" />
         <InArgument x:TypeArguments="x:String" x:Key="in_FolderPath">[FolderPath]</InArgument>
         <InArgument x:TypeArguments="x:String" x:Key="in_AttachmentsFolderPath">[AttachmentFolderPath]</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_To" />
+        <InArgument x:TypeArguments="x:String" x:Key="in_Subject" />
+        <InArgument x:TypeArguments="x:String" x:Key="in_Body" />
+        <InArgument x:TypeArguments="x:Boolean" x:Key="in_Read">[Read]</InArgument>
       </ui:InvokeWorkflowFile.Arguments>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
     </ui:InvokeWorkflowFile>
-    <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="334,287" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[Senders]">
+    <Sequence sap2010:Annotation.AnnotationText="Mostra a lista de emails e seus assuntos." DisplayName="Display Subject" sap:VirtualizedContainerService.HintSize="334,108" sap2010:WorkflowViewState.IdRef="Sequence_6">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <Assign sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_3">
+        <Assign.To>
+          <OutArgument x:TypeArguments="s:String[]">[Subject]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="s:String[]">[New String(FilteredMailList.Length){}]</InArgument>
+        </Assign.Value>
+      </Assign>
+      <ui:ForEach x:TypeArguments="snm:MailMessage" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="340,386" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[FilteredMailList]">
+        <ui:ForEach.Body>
+          <ActivityAction x:TypeArguments="snm:MailMessage">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="snm:MailMessage" Name="item" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="304,252" sap2010:WorkflowViewState.IdRef="Sequence_2">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <Assign sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_7">
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:String">[Subject(count)]</OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:String">[item.Subject]</InArgument>
+                </Assign.Value>
+              </Assign>
+              <Assign sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_4">
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:Int32">[count]</OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:Int32">[count+1]</InArgument>
+                </Assign.Value>
+              </Assign>
+            </Sequence>
+          </ActivityAction>
+        </ui:ForEach.Body>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:ForEach>
+      <ui:InputDialog OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,291" sap2010:WorkflowViewState.IdRef="InputDialog_3" IsPassword="False" Label="Escolha o email." Options="[Subject]" Title="Escolha uma das opções">
+        <ui:InputDialog.Result>
+          <OutArgument x:TypeArguments="x:String">[output]</OutArgument>
+        </ui:InputDialog.Result>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:InputDialog>
+    </Sequence>
+    <ui:ForEach x:TypeArguments="snm:MailMessage" CurrentIndex="{x:Null}" sap2010:Annotation.AnnotationText="Mostra o corpo do email selecionado." DisplayName="Display Body" sap:VirtualizedContainerService.HintSize="334,93" sap2010:WorkflowViewState.IdRef="ForEach`1_2" Values="[FilteredMailList]">
       <ui:ForEach.Body>
-        <ActivityAction x:TypeArguments="x:String">
+        <ActivityAction x:TypeArguments="snm:MailMessage">
           <ActivityAction.Argument>
-            <DelegateInArgument x:TypeArguments="x:String" Name="item" />
+            <DelegateInArgument x:TypeArguments="snm:MailMessage" Name="item" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="272,153" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="942,640" sap2010:WorkflowViewState.IdRef="Sequence_3">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[item]" />
+            <If Condition="[item.Subject = output]" sap:VirtualizedContainerService.HintSize="900,548" sap2010:WorkflowViewState.IdRef="If_3">
+              <If.Then>
+                <Sequence sap:VirtualizedContainerService.HintSize="755,400" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <Assign sap:VirtualizedContainerService.HintSize="713,60" sap2010:WorkflowViewState.IdRef="Assign_8">
+                    <Assign.To>
+                      <OutArgument x:TypeArguments="x:String">[SendTo]</OutArgument>
+                    </Assign.To>
+                    <Assign.Value>
+                      <InArgument x:TypeArguments="x:String">[((item.Headers.GetValues("Return-Path")(0)).Split("&lt;".ToCharArray)(1)).Split("&gt;".ToCharArray)(0)]</InArgument>
+                    </Assign.Value>
+                  </Assign>
+                  <If Condition="[item.Body = Nothing]" sap:VirtualizedContainerService.HintSize="713,208" sap2010:WorkflowViewState.IdRef="If_4">
+                    <If.Then>
+                      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_4" Text="[item.Headers.GetValues(&quot;PlainText&quot;)(0)]" />
+                    </If.Then>
+                    <If.Else>
+                      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_5" Text="[item.Body]" />
+                    </If.Else>
+                  </If>
+                </Sequence>
+              </If.Then>
+            </If>
           </Sequence>
         </ActivityAction>
       </ui:ForEach.Body>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
     </ui:ForEach>
+    <ui:InputDialog Label="{x:Null}" Options="{x:Null}" sap2010:Annotation.AnnotationText="Pergunta se o usuário quer responder o email." DisplayName="Question_answerEmail" sap:VirtualizedContainerService.HintSize="334,93" sap2010:WorkflowViewState.IdRef="InputDialog_4" IsPassword="False" OptionsString="SIM;NÃO" Title="Responder Email?">
+      <ui:InputDialog.Result>
+        <OutArgument x:TypeArguments="x:String">[output2]</OutArgument>
+      </ui:InputDialog.Result>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:InputDialog>
+    <If Condition="[output2 = &quot;SIM&quot;]" DisplayName="If_YesOrNo" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="If_5">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <If.Then>
+        <Sequence sap:VirtualizedContainerService.HintSize="376,511" sap2010:WorkflowViewState.IdRef="Sequence_5">
+          <Sequence.Variables>
+            <Variable x:TypeArguments="x:String" Name="SendBody" />
+          </Sequence.Variables>
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <Assign sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_10">
+            <Assign.To>
+              <OutArgument x:TypeArguments="x:Boolean">[Read]</OutArgument>
+            </Assign.To>
+            <Assign.Value>
+              <InArgument x:TypeArguments="x:Boolean">False</InArgument>
+            </Assign.Value>
+          </Assign>
+          <Sequence sap:VirtualizedContainerService.HintSize="334,66" sap2010:WorkflowViewState.IdRef="Sequence_7">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                <x:Boolean x:Key="IsPinned">False</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:InputDialog Label="{x:Null}" Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,238" sap2010:WorkflowViewState.IdRef="InputDialog_5" IsPassword="False" Title="Digite o assunto do email">
+              <ui:InputDialog.Result>
+                <OutArgument x:TypeArguments="x:String">[SendSubject]</OutArgument>
+              </ui:InputDialog.Result>
+            </ui:InputDialog>
+            <ui:InputDialog Label="{x:Null}" Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="334,238" sap2010:WorkflowViewState.IdRef="InputDialog_6" IsPassword="False" Title="Digite o corpo do email: ">
+              <ui:InputDialog.Result>
+                <OutArgument x:TypeArguments="x:String">[SendBody]</OutArgument>
+              </ui:InputDialog.Result>
+            </ui:InputDialog>
+          </Sequence>
+          <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,61" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[SendTo]" />
+          <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Main workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="Main.xaml">
+            <ui:InvokeWorkflowFile.Arguments>
+              <InArgument x:TypeArguments="x:String" x:Key="in_Email">[out_Email]</InArgument>
+              <InArgument x:TypeArguments="ss:SecureString" x:Key="in_Password">[password]</InArgument>
+              <InArgument x:TypeArguments="x:Int32" x:Key="in_Num">200</InArgument>
+              <InArgument x:TypeArguments="x:String" x:Key="in_Filter" />
+              <InArgument x:TypeArguments="x:String" x:Key="in_Server" />
+              <InArgument x:TypeArguments="x:Int32" x:Key="in_Port" />
+              <OutArgument x:TypeArguments="x:Int32" x:Key="out_QtdFilteredEmails" />
+              <OutArgument x:TypeArguments="x:Int32" x:Key="out_QtdUnreadEmails" />
+              <OutArgument x:TypeArguments="snm:MailMessage[]" x:Key="out_FilteredMailList" />
+              <OutArgument x:TypeArguments="s:String[]" x:Key="out_Senders" />
+              <InArgument x:TypeArguments="x:String" x:Key="in_FolderPath" />
+              <InArgument x:TypeArguments="x:String" x:Key="in_AttachmentsFolderPath" />
+              <InArgument x:TypeArguments="x:String" x:Key="in_To">[SendTo]</InArgument>
+              <InArgument x:TypeArguments="x:String" x:Key="in_Subject">[SendSubject]</InArgument>
+              <InArgument x:TypeArguments="x:String" x:Key="in_Body">[SendBody]</InArgument>
+              <InArgument x:TypeArguments="x:Boolean" x:Key="in_Read">[Read]</InArgument>
+            </ui:InvokeWorkflowFile.Arguments>
+          </ui:InvokeWorkflowFile>
+        </Sequence>
+      </If.Then>
+    </If>
   </Sequence>
 </Activity>
